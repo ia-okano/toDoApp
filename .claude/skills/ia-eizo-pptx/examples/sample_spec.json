@@ -1,0 +1,41 @@
+{
+  "output": "sample_deck.pptx",
+  "slides": [
+    { "type": "cover", "title": "プレゼンテーション タイトル" },
+    { "type": "section", "title": "第1章　セクションタイトル" },
+    {
+      "type": "content",
+      "title": "見出しレベル1（ページタイトル）",
+      "heading2": "見出しレベル2（セクション見出し）",
+      "heading3": "見出しレベル3（小見出し）",
+      "body": [
+        { "text": "本文は24ptの細字、行間は倍数1.3を基本とします。" },
+        { "text": "小さくしたい場合は22〜18pt、最小16ptまで下げてOKです。" },
+        { "runs": [
+            { "text": "強調は" },
+            { "text": "太字", "bold": true },
+            { "text": "、特に重要な点は" },
+            { "text": "赤い太字", "bold": true, "color": "FF4B4B" },
+            { "text": "を使います。" }
+        ] }
+      ]
+    },
+    {
+      "type": "content",
+      "title": "コンテンツ例：箇条書き",
+      "heading2": "本文と箇条書きのフォーマット",
+      "body": [
+        { "text": "本文では「ですます調」を用います。" },
+        { "text": "第1階層の箇条書き項目", "bullet": true },
+        { "text": "第1階層の箇条書き項目", "bullet": true },
+        { "text": "第2階層の箇条書き項目（リストは2層まで）", "bullet": true, "level": 1, "size": 2000 }
+      ]
+    },
+    {
+      "type": "two_column",
+      "title": "レイアウト例：2カラム",
+      "left":  { "heading3": "左カラム見出し", "body": [ { "text": "左側の本文エリアです。テキストや図版を配置します。" } ] },
+      "right": { "heading3": "右カラム見出し", "body": [ { "text": "右側の本文エリアです。左右で対比的に情報を見せられます。" } ] }
+    }
+  ]
+}
