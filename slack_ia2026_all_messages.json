@@ -1,0 +1,4404 @@
+[
+  {
+    "ts": "1776217438.711059",
+    "datetime_jst": "2026-04-15 10:43:58",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!channel>\n生成AIに関して、研修中、以下の方針で運用していきます。\n※気になる点は相談しながらより詳細なルールを加えていくことも想定されます。ぜひご相談ください。\n\n*生成AIの利用方針*\n・研修の3ヶ月間を通じて、「動けばいい」という考え方は認めない\n・すべて自分自身で説明できるコードを作成することが大前提（難しいコードは人間による説明を求めます）\n・その上で、学習段階に応じて以下のポリシーにする\n\nJava文法勉強時\n・AIにコーディングをさせることは禁止ですが、自分が書いたコードをAIに添削させることはＯＫ\n・具体的には書いたコードを貼って「問題ないか意見をください」などで出てきた意見をもとに学習、解説依頼をする\n・エラーが出た場合はまずはエラーメッセージを自分で解読し、分からない場合はエラーメッセージの解説依頼をする\n・それでも解決しない場合はコードを貼ってデバッグのサポートとして使用するようにする\n\nVaadin＋LLM時\n・既に自分で書けるスキルがあることを前提として、手間を省く目的でAIにコードを書かせることや、添削させることはＯＫ\n\n禁止事項\n・研修期間中、仕様のみを伝えてAIにゼロからコードを書かせることは一貫して禁止\n\n※本メッセージを確認した方は:white_check_mark:のリアクションをお願いします",
+    "reactions": "white_check_mark (39)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1776227374.974179",
+    "datetime_jst": "2026-04-15 13:29:34",
+    "author": "広瀬智子",
+    "email": "hrs37cda@gmail.com",
+    "text": "<!here>\n本日（4/15）の面談の予定をお伝えいたします。\n1人目が16：00～、2人目が16：20～、3人目が16：40～行います。\n時間になりましたら各講師が座っている席までお越しください。\nこちらからアナウンスはしませんのでご注意ください。",
+    "reactions": null,
+    "files": "スクリーンショット 2026-04-15 131015.png (ID: F0ATC5A03UH, image/png, 53.3 KB)",
+    "replies": []
+  },
+  {
+    "ts": "1776227965.289699",
+    "datetime_jst": "2026-04-15 13:39:25",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\n座り姿勢の共有\n<https://www.yamanaseikotuin.com/blog/683>",
+    "reactions": "white_check_mark (7)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1776301915.337489",
+    "datetime_jst": "2026-04-16 10:11:55",
+    "author": "IA_金谷優太",
+    "email": "yuta.kanaya@softcommu.com",
+    "text": "<!here>\n*本日の面談予定について*\n\n本日（4/16）の面談の予定をお伝えいたします。\n昨日と同じく1人目が16：00～、2人目が16：20～、3人目が16：40～行います。\n時間になりましたら各講師が座っている席までお越しください。\nこちらからアナウンスはしませんのでご注意ください。",
+    "reactions": "white_check_mark (5)",
+    "files": "image.png (ID: F0ATM53F7L1, image/png, 30.5 KB)",
+    "replies": []
+  },
+  {
+    "ts": "1776307483.929729",
+    "datetime_jst": "2026-04-16 11:44:43",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\n【少し余裕が出てきた方向け】Javaの用語理解を確認するクイズを用意しました。\n下記にアクセスしてブロックされる場合は、URLの先頭を「https」から「http」に書き換えてアクセスしてください。\nブックマークして、繰り返し練習してください。\n<http://my.internetacademy.jp/~lesson/2026/04/himacs/Java/java_WordQuiz.html>",
+    "reactions": "pray (4)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1776313435.136009",
+    "datetime_jst": "2026-04-16 13:23:55",
+    "author": "広瀬智子",
+    "email": "hrs37cda@gmail.com",
+    "text": "<!here> お疲れ様です。他己評価の入力のリンクを送信します。ブックマークなどで保存して適宜入力いただけますようお願い致します。\n<https://docs.google.com/forms/d/1r7mVnB5KG_KVcVvlfL5oBCVEENgY25tNnM021to_8Pk/edit>",
+    "reactions": "pray (6), kissing_cat (4)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1776320124.430429",
+    "datetime_jst": "2026-04-16 15:15:24",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\n本日の課題の投稿フォームです。\nこのあと、生成AIへのプロンプトをつけますので、そちらも確認してください。\n<https://forms.gle/gfLRfx6qFuS4Nc9r7>",
+    "reactions": null,
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1776320224.047129",
+    "datetime_jst": "2026-04-16 15:17:04",
+    "author": "IA_泥濘将冬",
+    "email": "masatoshi.nukari@softcommu.com",
+    "text": "生成AIのプロンプトは以下を使用してください。\nプロンプト中の「【ここにあなたの回答コードをコピーペーストしてください。】」この部分をご自分の回答コードに置き換えてください。\n生成AIが回答した内容をそのままコピーして、Googleフォームに入力してください。\n\n```あなたはJavaのシニアエンジニアです。\n\n新入社員の研修で以下のJavaの課題が出されました。\n---------------------\n課題：\ndistanceという名前の整数型変数を作成し、\n目的地までの距離をキロメートル単位で代入してください。\n\nweatherという名前の整数型変数を作成し、\n晴れなら１、雨なら２を代入してください。\n\n目的地へ行くにあたり、徒歩、自転車、自動車の\n３つの選択肢があります。\n\n以下の表のルールに従って、\n選択肢に表示してください。\n                |   distance: 1未満|   distance: 5未満 |   distance:それ以上\n---------------------------------------------------------------------------\nweather: 1      |      徒歩        |      自転車       |      自動車\nweather: 2      |      徒歩        |      自動車       |      自動車\n\n----------------------\n\n★指示：回答Javaコードを以下の観点でレビューしてください。\n----------------------\n１．正確な構文で記述されているか\n２．コードを実行したときに、正しく実行できるか\n３．課題の仕様をきちんと満たしているか\n４．この回答から分かるこの方のIF構文に対する理解度\n----------------------\n\n★指示：レビューは以下の形式で、マークダウンなどではなくプレーンのテキストとしてレポートにまとめてください。まとめたレポートはExcelやSpreadSheetで抜き出しやすいように<Report></Report>タグでくくってください。「わかりました」などの返答は不要です。「<Report>...</Report>」の部分だけを返答してください。特にIF構文の書き方に注目したレビューとしてください。。\n----------------------\n<Report>\n<Q1>\n１．正確な構文で記述されているか\n結果：〇（または×）\n詳細：例:)○○部分の記述に誤りがあります。\n</Q1>\n\n<Q2>\n２．コードを実行したときに、正しく実行できるか\n結果：〇（または×）\n詳細：例：）コンパイルエラーは発生しません。メッセージは正常に出力されます。\n</Q2>\n\n<Q3>\n３．課題の仕様をきちんと満たしているか\n結果：〇（または×）\n詳細：例:)このIF条件は課題の中の○○の条件を満たしていません。\n</Q3>\n\n<Q4>\n４．この回答から分かるこの方のIF構文に対する理解度\n結果：〇×△\n詳細：if / else / else if の基本構文を正しく理解しています。\n</Q4>\n</Report>\n\n★以下は解答コードです。\n----------------------\n【ここにあなたの回答コードをコピーペーストしてください。】```",
+    "reactions": "eyes (2)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1776329741.042319",
+    "datetime_jst": "2026-04-16 17:55:41",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\n*ITパスポートのおススメの勉強ツール*：スマホアプリ\n\nこの資格試験は用語と説明のセットで覚えるものですので、スマホアプリでゲーム感覚で学ぶのはけっこう効率が良いです。\n\n*注意点*\n・資格取得のための勉強をメインにするよりJavaやシステム開発の学習の補助としての学習が良いです。\n・スマホに触れすぎで睡眠時間を削らないようにしてください。\n・暗記の詰込みは試験直前が良いので、それまでは問題を出し合って遊ぶような使い方がおすすめです。\n\n<https://apps.apple.com/us/app/it%E3%83%91%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%88-%E5%85%A8%E5%95%8F%E8%A7%A3%E8%AA%AC/id1445110474>",
+    "reactions": "white_check_mark (19), +1 (3)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1776402523.566749",
+    "datetime_jst": "2026-04-17 14:08:43",
+    "author": "広瀬智子",
+    "email": "hrs37cda@gmail.com",
+    "text": "<!here>\n*本日の面談予定について*\n本日（4/17）の面談の予定をお伝えいたします。\n16：00～\n時間になりましたら各講師が座っている席までお越しください。\nこちらからアナウンスはしませんのでご注意ください。",
+    "reactions": "white_check_mark (2)",
+    "files": "image.png (ID: F0ATFEHT8H4, image/png, 30.0 KB)",
+    "replies": []
+  },
+  {
+    "ts": "1776746280.187599",
+    "datetime_jst": "2026-04-21 13:38:00",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "*午後のミニワーク*\n学びの効率をあげるため、「悩む時間」を適切にとって行きたいと思います。\n考えても答えが出ないタイプのことは2分考えて出なければすぐに聞きましょう。\n「下手の考え休むに似たり」です。考えて出るタイプの課題か、そうでないか、常に意識しましょう。\nあとは田村さんおっしゃっていた書き出す、もやりましょう。\n\n*目的や狙い*\n・お互いの情報を共有してコミュニケーションをしやすくする\n・各自がリーダーシップの意識を持てるようにする\n\n*方法*\n・お題に沿って会話して順番に並ぶ\n・速度を競う\n\n*お題*\n１．出身地が北から南になるように順に並ぶ（微妙なら市区町村も含めて確認する）\n２．経験した旅行先の数（都道府県＋外国の街の数）の順番で並ぶ\n\n*補足*\n・並び順は右からでも左からでも可\n・並びができたらその場でしゃがむ",
+    "reactions": null,
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1776747066.928159",
+    "datetime_jst": "2026-04-21 13:51:06",
+    "author": "IA_金谷優太",
+    "email": "yuta.kanaya@softcommu.com",
+    "text": "*本日の面談予定について*\n\n本日の面談の予定をお伝えいたします。\n昨日と同じく1人目が16：00～、2人目が16：20～行います。\n時間になりましたら各講師が座っている席までお越しください。\nこちらからアナウンスはしませんのでご注意ください。",
+    "reactions": null,
+    "files": "image.png (ID: F0AUL53LFAM, image/png, 21.4 KB)",
+    "replies": []
+  },
+  {
+    "ts": "1776753658.118049",
+    "datetime_jst": "2026-04-21 15:40:58",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!channel>\n全員向け：\n本日の３つのお題に関して、どこまで自力でできたか、全員回答お願いします。\n<https://forms.gle/uvj9tf3sFhj1tLv19>",
+    "reactions": "white_check_mark (14)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1776760315.979249",
+    "datetime_jst": "2026-04-21 17:31:55",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\nJavaのクラス分けのご案内",
+    "reactions": "white_check_mark (6)",
+    "files": "202604_クラス分け案内.pdf (ID: F0AV2QFK0CQ, application/pdf, 1.1 MB)",
+    "replies": []
+  },
+  {
+    "ts": "1776817052.610839",
+    "datetime_jst": "2026-04-22 09:17:32",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!channel>\n*Javaクラス分けアンケートのお願い*\n\n4/24(金)からクラスを分けて進行します。\n4/22(水) 15:30までにご記載のほどお願いします。\n<https://forms.gle/WGoVRMffpPEixcEQ6>",
+    "reactions": "+1 (78)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1776836257.126629",
+    "datetime_jst": "2026-04-22 14:37:37",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!channel>\n【連絡】明日のJava実力テストのルールのご案内\n\n＜テスト中参照可能＞\n・講義で使ったテキスト、サンプルプログラム、演習問題\n・各自作成したノート（紙のノート、電子媒体）\n・自PCのeclipse内に作成したプログラム\n※講義で使用したものや、自分でまとめたものは参照可能です\n\n＜テスト中参照不可＞\n・ネット検索\n・Copilotなどの生成AI\n※ネットワークを介した参照は不可",
+    "reactions": "white_check_mark (72)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1776842151.663719",
+    "datetime_jst": "2026-04-22 16:15:51",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\nファイルアップロードのテスト案内\n一緒に作業して動作テストをします。\n\n１．WinSCPを起動\n２．QA表のエクセルファイル名を「26101_okanojun_QA.xlsx」の命名規則に沿って変更する（番号_苗字_QA.xlsx）\n\nここから「島ごと」で試します。\n\n３．corp_hm2を選択して「ログイン」\n４．QAフォルダをダブルクリック\n５．「26101_okano_QA.xlsx」をQAフォルダにドラッグ＆ドロップする（アップロード）\n\n以上",
+    "reactions": "white_check_mark (51), +1::skin-tone-6 (1)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1776904658.540469",
+    "datetime_jst": "2026-04-23 09:37:38",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\n*Java実力テストの準備（下記の1,2,3,注意事項を把握しておいてください）*\n\n以下の手順で実力テスト用のファイルの準備をしてください。\n1. 別途指定する実力テスト用のファイルをダウンロードしてください。\n   zipファイル名を[b2270u0107.zip]のようなBOHRログインIDに変更してください。\n2. 解凍して、場所を覚えておいてください。（このあとワークスペースにコピーしますので移動やコピーは不要です）\n3. Eclipseを起動して「ファイル」>「インポート」を選択します。\n4. 「一般」>「既存プロジェクトをワークスペースへ」をクリックで選択し、「次へ」をクリックします。\n5. 「ルート・ディレクトリーの選択」を選択し、「参照」ボタンをクリックします。\n6. フォルダーの参照というウインドウが表示されるので、先ほど解凍したフォルダを選択し、OKをクリックします。\n7. 画面中央の「プロジェクトをワークスペースにコピー」にチェックを入れ、「完了」をクリックします。\n   ※エラーが出る場合は、プロジェクト名の重複が考えられます。\n   　既にあるプロジェクトの名前の変更か、削除をしてください。\n8.プロジェクト内に、Hello.javaがあるので、実行して「hello」が出力できたら準備完了です。\n\n注意事項\n・q1～q15のパッケージの中身を見るのは禁止です。\n・上記以外のことはせず、テスト開始の合図を待っていてください。\n\n*今回の採点対象は以下の〇部分です。*\n1 〇\n2 〇\n3 〇\n4 〇\n5 〇\n6 〇\n7 ×\n8 ×\n9 〇\n10 〇\n11 ×\n12 ×\n13 〇\n14 ×\n15 〇\n\nテスト後の作業\n1. Eclipse上で、プロジェクトを右クリック\n2. [Windowsエクスプローラー]を選択\n3. PC上のプロジェクトフォルダが見えたら上の階層に上がる\n4. [b2270u0106]のようなフォルダに対して右クリック圧縮（*階層を上がっても無い場合は[b2270u0106]のようなフォルダを作って、プロジェクトフォルダをコピーしてもOK*）\n5. [b2270u0106zip]のようなファイルができたら、ファイル名を[26101_okanojun.zip]のように変更する\n6. zipファイルを以下の投稿場所にドロップ（投稿時刻で確認します。編集不可ですのでご注意ください）\n投稿場所は以下です。\n<#C0AVD519CU8|java_1回目テスト用>\n<https://ia2026.slack.com/archives/C0AVD519CU8>",
+    "reactions": "white_check_mark (44), +1::skin-tone-6 (1)",
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_岡野隼",
+        "email": "j_okano@internetacademy.co.jp",
+        "text": ""
+      },
+      {
+        "author": "IA_岡野隼",
+        "email": "j_okano@internetacademy.co.jp",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "ts": "1776996031.397329",
+    "datetime_jst": "2026-04-24 11:00:31",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\n*【連絡】04/24(金)の個別レクチャ希望受付*\nサブ講師と、１対１で個別レクチャを受けられるようにしたいと思います。\n理解が追いつくように挽回したい方はぜひ希望してください。\n内容は自由です。\n・不明点をいろいろ聞きたい\n・勉強の仕方を相談したい\n・一緒に書く練習をしてもらいたい\nなどです。\n\n時間は、3～20分です。\n順番に受け付けたいと思いますので、このメッセージの「スレッドに返信する」にて返信をお願いします。\n\n例\n・10分程度希望します：基本から。\n・5分程度希望します：〇〇の考え方について\n・10分程度希望します：〇〇の課題について\n・15分程度希望します：〇〇がまだ書けないので書けるようにしたい\n・15分程度希望します：〇〇、〇〇、〇〇について\n・20分程度希望します：とにかく理解の遅れを挽回したい\n\n補足\n・寺子屋スペースにて行います\n・ノートと教科書を持ってきてください\n・ある程度知識がある方もOKです（短時間で終わるようにします。苦戦しているかた優先のため）",
+    "reactions": "white_check_mark (26)",
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_岡野隼",
+        "email": "j_okano@internetacademy.co.jp",
+        "text": "例\n10分程度希望します：基本から"
+      },
+      {
+        "author": "木下颯真",
+        "email": "soma.kinoshita@himacs.co.jp",
+        "text": "15分程度希望します。：プログラミングの勉強方法について"
+      },
+      {
+        "author": "26146滝口凜",
+        "email": "rin.takiguchi@himacs.co.jp",
+        "text": "20分程度希望します：とにかく理解の遅れを挽回したいです。"
+      },
+      {
+        "author": "26143髙嶋珠鈴",
+        "email": "shurin.takashima@himacs.co.jp",
+        "text": "20分程度希望します：とにかく理解の遅れを挽回したいです。"
+      },
+      {
+        "author": "26138杉浦宥羽",
+        "email": "yuha.sugiura@himacs.co.jp",
+        "text": "20分程度希望します：とにかく理解の遅れを挽回したいです。"
+      },
+      {
+        "author": "26147武山のぞみ",
+        "email": "nozomi.takeyama@himacs.co.jp",
+        "text": "20分程度希望します：とにかく理解の遅れを挽回したいです。"
+      },
+      {
+        "author": "26155西尾由佳里",
+        "email": "yukari.nishio@himacs.co.jp",
+        "text": "20分程度希望します：とにかく理解の遅れを挽回したいです。"
+      },
+      {
+        "author": "秋元優汰",
+        "email": "yuta.akimoto@himacs.co.jp",
+        "text": "20分程度希望します：とにかく理解の遅れを挽回したい"
+      },
+      {
+        "author": "26157西村早織",
+        "email": "saori.nishimura@himacs.co.jp",
+        "text": "20分程度希望します：とにかく理解の遅れを挽回したいです。"
+      },
+      {
+        "author": "26137菅谷勝弘",
+        "email": "katsuhiro.sugaya@himacs.co.jp",
+        "text": "20分程度希望します:とにかく理解の遅れを挽回したいです。"
+      },
+      {
+        "author": "26169福川舞香",
+        "email": "maika.fukugawa@himacs.co.jp",
+        "text": "20分程度希望します：とにかく理解の遅れを挽回したいです。"
+      },
+      {
+        "author": "26104厚海健太",
+        "email": "kenta.atsuumi@himacs.co.jp",
+        "text": "・15分程度希望します：フローチャートがまだ書けないので書けるようにしたい"
+      },
+      {
+        "author": "太田みゆ",
+        "email": "miyu.ota@himacs.co.jp",
+        "text": "20分程度希望します：とにかく理解の遅れを挽回したいです。"
+      },
+      {
+        "author": "26183横江真由美",
+        "email": "mayumi.yokoe@himacs.co.jp",
+        "text": "20分程度希望します。とにかく理解の遅れを挽回したいです。"
+      },
+      {
+        "author": "26140鈴木陵大",
+        "email": "ryota.suzuki@himacs.co.jp",
+        "text": "15分程度希望します。とにかく理解の遅れを挽回したいです。"
+      },
+      {
+        "author": "26151中村菖",
+        "email": "ayame.nakamura@himacs.co.jp",
+        "text": "20分程度希望します。とにかく理解の遅れを挽回したいです。"
+      }
+    ]
+  },
+  {
+    "ts": "1777000915.510239",
+    "datetime_jst": "2026-04-24 12:21:55",
+    "author": "広瀬智子",
+    "email": "hrs37cda@gmail.com",
+    "text": "<!here> 席替え表を送付します。\nお昼休憩の時間中に移動をお願い致します。\n午後からは、新座席でスタートします。",
+    "reactions": "white_check_mark (18)",
+    "files": "★座席表（4月24日）.xlsx (ID: F0AUJ61PUET, application/vnd.openxmlformats-officedocument.spreadsheetml.sheet, 14.1 KB)",
+    "replies": []
+  },
+  {
+    "ts": "1777005271.649929",
+    "datetime_jst": "2026-04-24 13:34:31",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\nJava学習用のクイズを用意しましたので、ご自身の理解度確認用にご利用ください。\n\nJava用語クイズ\n<http://my.internetacademy.jp/~lesson/2026/04/himacs/Java/java_WordQuiz.html>\n\nJavaコードクイズ\n<http://my.internetacademy.jp/~lesson/2026/04/himacs/Java/java_codeQuiz.html>",
+    "reactions": "white_check_mark (50)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1777005372.219909",
+    "datetime_jst": "2026-04-24 13:36:12",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "*アドバンスドクラスの進め方*\n・eラーニング(動画視聴研修)が中心で、サブ講師が質疑応答します\n・1時間に1回、休憩前の10分間で手を止めて不明点や気づきをペアで話してください\n（10:20～10:30、11:20～11:30、など。5～15分程度で各ペアごとで調整してください）",
+    "reactions": "raised_hands (2)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1777005422.096539",
+    "datetime_jst": "2026-04-24 13:37:02",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "午後のワーク\n・できるようになったこと\n・まだ苦手なこと\n・マイブーム\n・最近のおすすめ\n\nその後、お互いの呼び方の確認をして下さい",
+    "reactions": "white_check_mark (62)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1777260513.366499",
+    "datetime_jst": "2026-04-27 12:28:33",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "*【連絡】04/27(月)の個別レクチャ希望受付*\nサブ講師と、１対１で個別レクチャを受けられるようにしたいと思います。\n理解が追いつくように挽回したい方はぜひ希望してください。\n内容は自由です。\n・不明点をいろいろ聞きたい\n・勉強の仕方を相談したい\n・一緒に書く練習をしてもらいたい\nなどです。\n\n時間は、3～20分です。\n順番に受け付けたいと思いますので、このメッセージの「スレッドに返信する」にて返信をお願いします。\n\n例\n・10分程度希望します：基本から。\n・5分程度希望します：〇〇の考え方について\n・10分程度希望します：〇〇の課題について\n・15分程度希望します：〇〇がまだ書けないので書けるようにしたい\n・15分程度希望します：〇〇、〇〇、〇〇について\n・20分程度希望します：とにかく理解の遅れを挽回したい\n\n補足\n・寺子屋スペースにて行います\n・ノートと教科書を持ってきてください\n・ある程度知識がある方もOKです（短時間で終わるようにします。苦戦しているかた優先のため）",
+    "reactions": null,
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_岡野隼",
+        "email": "j_okano@internetacademy.co.jp",
+        "text": "*26140鈴木陵大*  [13:51]\n15分程度希望します。とにかく理解の遅れを挽回したいです。\n\n*26151中村菖*  [14:37]\n20分程度希望します。とにかく理解の遅れを挽回したいです。"
+      },
+      {
+        "author": "荒木楓",
+        "email": "kaede.araki@himacs.co.jp",
+        "text": "15分程度希望します：indexと配列メソッドの組み合わせが理解できていないため（健康診断で15時まで不在です）"
+      },
+      {
+        "author": "26169福川舞香",
+        "email": "maika.fukugawa@himacs.co.jp",
+        "text": "20分程度を希望します。配列で苦戦しております。"
+      }
+    ]
+  },
+  {
+    "ts": "1777271284.775309",
+    "datetime_jst": "2026-04-27 15:28:04",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\nJavaの再テストを16:25から寺子屋スペースで実施します。\n16:15～16:25を休憩にして、16:25に開始できるようにご準備ください。",
+    "reactions": "white_check_mark (5)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1777280470.164549",
+    "datetime_jst": "2026-04-27 18:01:10",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\n再テストを実施していてPC操作でショートカットキーを使っていない方が多かったので\n研修期間中にある程度のショートカットキーをマスターしましょう。\n配属してから苦労しますよ！\n\n以下は、重要度の高いショートカットキーが紹介されています。\n<https://www.nec-nexs.com/bizsupli/useful/shortcut/01.html>\n\n以下のいづれかでリアクションお願いします。\n\n7～10割以上使っている方は:white_check_mark:\n4～6割以上使っている方は:eyes:\n1～3割使っている方は:raised_hands:\n\nあと、ファイルやフォルダの名前を変更する場合は「F2」を押すと変更できる状態になりますよ！ぜひ使ってください！\n（Eclipse上はもちろん、いろんな場面で使えますよ！）",
+    "reactions": "eyes (36), raised_hands (28)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1777350573.139649",
+    "datetime_jst": "2026-04-28 13:29:33",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\n【連絡】再テストの結果共有\nJava第1回目の再テストの結果を共有いたします\n\n下記から、個人ごとの結果をご確認いただけます。\n※再テストに関しては、前回特別なアカウントでログインした方も、通常利用されているBOHRログインID/PWでログインできます。\n<http://ec2-13-113-138-157.ap-northeast-1.compute.amazonaws.com/login/>",
+    "reactions": "white_check_mark (1)",
+    "files": "再テスト結果.pdf (ID: F0B02NQBN03, application/pdf, 288.9 KB)",
+    "replies": []
+  },
+  {
+    "ts": "1777351379.332379",
+    "datetime_jst": "2026-04-28 13:42:59",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "*【連絡】04/28(火)の個別レクチャ希望受付*\nサブ講師と、１対１で個別レクチャを受けられるようにしたいと思います。\n理解が追いつくように挽回したい方はぜひ希望してください。\n内容は自由です。\n・不明点をいろいろ聞きたい\n・勉強の仕方を相談したい\n・一緒に書く練習をしてもらいたい\nなどです。\n\n時間は、3～20分です。*同じ内容を聞きたい方は２～3人で来てもOKです。*\n順番に受け付けたいと思いますので、このメッセージの「スレッドに返信する」にて返信をお願いします。\n\n例\n・10分程度希望します：基本から。\n・5分程度希望します：〇〇の考え方について\n・10分程度希望します：〇〇の課題について\n・15分程度希望します：〇〇がまだ書けないので書けるようにしたい\n・15分程度希望します：〇〇、〇〇、〇〇について\n・20分程度希望します：とにかく理解の遅れを挽回したい\n\n補足\n・寺子屋スペースまたはサブ講師の席にて行います\n・ノートと教科書を持ってきてください\n・ある程度知識がある方もOKです（短時間で終わるようにします。苦戦しているかた優先のため）",
+    "reactions": null,
+    "files": null,
+    "replies": [
+      {
+        "author": "嶋田千夏",
+        "email": "chinatsu.shimada@himacs.co.jp",
+        "text": "20分程度希望します：とにかく理解の遅れを挽回したいです"
+      },
+      {
+        "author": "鍵村和香",
+        "email": "waka.kagimura@himacs.co.jp",
+        "text": "10分程度希望します：メソッドがまだ書けないので書けるようにしたい"
+      },
+      {
+        "author": "荒木楓",
+        "email": "kaede.araki@himacs.co.jp",
+        "text": "5分程度希望します：クラスを跨いだメソッドの書き方を復習したい"
+      }
+    ]
+  },
+  {
+    "ts": "1777357093.687709",
+    "datetime_jst": "2026-04-28 15:18:13",
+    "author": "IA_村林良胤",
+    "email": "m_yoshitsugu@hotmail.com",
+    "text": "Zoomが閉じてしまったので、Zoomのチャットでお送りした\n設問文をこちらにも再送しますね。\n\n（１）漢字当てクイズ\n「漢字当てクイズのアプリを作ってみよう」\n\n漢字当てクイズです。\n\n形の似ている漢字を２つキーボード入力してもらいます。\n（例：大と太、村と材など）\n1つ目の漢字を格子状に並べますが、1ヶ所だけ2つ目の\n漢字を表示させます。\n\n何番目が違った漢字かを入力してもらい\n正解か不正解かを判定してください。\n\n\n表示例\n\n好きな漢字を１文字入力して下さい。\n大\n\n先程の漢字と似たデザインの漢字を１文字入力して下さい。\n太\n\n「大」の中にある「太」を見つけ出して下さい。\n\n\n大大大大大大大大大大\n大大大大大大大大大大\n大大大大大大大大大大\n大大大大大大大大大大\n大大大大大大大大大大\n大大大大大大大大大大\n大大大大大大大大大大\n大大大大大大大大大大\n大大大大大大大大大大\n大大大大大太大大大大\n\n\n仲間外れは上から何番目ですか？数字を入力して下さい。\n10\n\n仲間外れは左から何番目ですか？数字を入力して下さい。\n6\n\n大正解です！",
+    "reactions": "white_check_mark (8)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1777357138.140469",
+    "datetime_jst": "2026-04-28 15:18:58",
+    "author": "IA_村林良胤",
+    "email": "m_yoshitsugu@hotmail.com",
+    "text": "（２）続いて、入力制限をする設問です。\n\n「入力チェックシステムを作ってみよう」\n\n「do-while」の練習です。\n\nキーボード入力を受け付けて、任意の変数へ代入してください。\n入力された値が「Y」または「N」の２種類のみ許可し、\nそれ以外の文字だった場合は、再び入力を促すループを作成してください。\n\n「for」や「while」より「do-while」を使った方がスムーズです。\nその理由も考えてください。\n\n\n表示例\n\nYes → 「y」　No → 「n」\n「y」または「n」を入力してください。\na\n正しい入力をしてください。\n「y」または「n」のみ入力が可能です。\n\n\nYes → 「y」　No → 「n」\n「y」または「n」を入力してください。\ny\n「y」が入力されました。",
+    "reactions": null,
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1777357298.675999",
+    "datetime_jst": "2026-04-28 15:21:38",
+    "author": "IA_村林良胤",
+    "email": "m_yoshitsugu@hotmail.com",
+    "text": "（３）遊園アトラクション（ゴーカートとジェットコースターの乗車チェック）\n\nこのプログラムの解答コードも再送しますね。",
+    "reactions": "white_check_mark (5)",
+    "files": "Yuuenchi.java (ID: F0B07JJ3GLW, text/plain, 4.8 KB)",
+    "replies": []
+  },
+  {
+    "ts": "1777358855.598339",
+    "datetime_jst": "2026-04-28 15:47:35",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!channel>\n本日、16:00～17:30の間で下記の回答をお願いします。所要時間は15分ほどです。\n\n公明正大に関する記述に関しては例文をコピーして書き換えてみてください。\n\n漏れないようしたいので、回答が終わった方は:+1:のリアクションをお願いします。\n<https://docs.google.com/forms/d/1fsH82Ok8E9dlb1VAgT_v-7B6wXHxscMKjHrgO3Lkvwk/edit>",
+    "reactions": "white_check_mark (29), +1 (58), +1::skin-tone-6 (1)",
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_岡野隼",
+        "email": "j_okano@internetacademy.co.jp",
+        "text": "<@U0AQYE83MV4|26111井上丈大>\n<@U0AQYDST7UN|26169福川舞香>\n連休が明けましたら、こちらの投稿をお願いいたします。"
+      },
+      {
+        "author": "26111井上丈大",
+        "email": "Takeo.Inoue@himacs.co.jp",
+        "text": "提出が遅れてしまい大変申し訳ございません。\n先ほど提出致しましたのでご確認よろしくお願いします。"
+      },
+      {
+        "author": "26169福川舞香",
+        "email": "maika.fukugawa@himacs.co.jp",
+        "text": "お疲れ様です。26169の福川舞香です。\n提出が遅れてしまい大変申し訳ございません。\nただいま提出いたしましたのでご確認のほどよろしくお願いいたします。"
+      }
+    ]
+  },
+  {
+    "ts": "1777362600.189309",
+    "datetime_jst": "2026-04-28 16:50:00",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\n全員向け：\nこれまでのお題に関して、どこまで自力でできたか、全員回答お願いします。\n<https://forms.gle/QmP333JyGNAoQoso8>",
+    "reactions": "white_check_mark (32)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1777440731.363709",
+    "datetime_jst": "2026-04-29 14:32:11",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<@U0AQYE83MV4|26111井上丈大>\n<@U0AQYDST7UN|26169福川舞香>\n連休が明けましたら、こちらの投稿をお願いいたします。",
+    "reactions": "white_check_mark (2)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1778135610.434569",
+    "datetime_jst": "2026-05-07 15:33:30",
+    "author": "IA_金谷優太",
+    "email": "yuta.kanaya@softcommu.com",
+    "text": "<!here>\n岡野さんが４月２８日に全員に対して回答を依頼していたアンケートですが、下記の方の提出が確認出来ておりません。\n*本日中*に提出して頂くようお願いいたします。\n提出が完了しましたら、本スレッドでご報告お願いします。\n\nアンケートフォーム：<https://forms.gle/QmP333JyGNAoQoso8>\n```26103 芦川弦汰\n26149 寺師隆人\n26157 西村早織\n26160 橋本一沙\n26180 矢内大成\n26185 若山結奈```\n<https://ia2026.slack.com/archives/C0AD952T5L1/p1777362600189309>",
+    "reactions": "white_check_mark (8)",
+    "files": null,
+    "replies": [
+      {
+        "author": "芦川弦汰",
+        "email": "genta.ashikawa@himacs.co.jp",
+        "text": "提出が遅れてしまって大変申し訳ありません。\nただいま提出いたしました。\nご確認のほどよろしくお願いいたします。"
+      },
+      {
+        "author": "26180矢内大成",
+        "email": "taisei.yanai@himacs.co.jp",
+        "text": "提出を失念しており、申し訳\nありません。\nただいま提出いたしましたのでご確認よろしくお願いいたします。"
+      },
+      {
+        "author": "寺師隆人",
+        "email": "ryuto.terashi@himacs.co.jp",
+        "text": "提出が遅れてしまって大変申し訳ありません。\n提出いたしました。ご確認のほどよろしくお願いいたします。"
+      },
+      {
+        "author": "26185若山結奈",
+        "email": "yuina.wakayama@himacs.co.jp",
+        "text": "提出が遅れてしまって大変申し訳ありません。\nただいま提出いたしました。\nご確認のほどよろしくお願いいたします。"
+      },
+      {
+        "author": "26157西村早織",
+        "email": "saori.nishimura@himacs.co.jp",
+        "text": "提出が遅れてしまい大変申し訳ありません。\n先ほど提出いたしました。\nご確認のほどよろしくお願いいたします"
+      },
+      {
+        "author": "26160橋本一沙",
+        "email": "issa.hashimoto@himacs.co.jp",
+        "text": "提出が遅れてしまって大変申し訳ありません。\nただいま提出いたしました。\nご確認のほどよろしくお願いいたします。"
+      }
+    ]
+  },
+  {
+    "ts": "1778136273.383059",
+    "datetime_jst": "2026-05-07 15:44:33",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\n【感想シート入力依頼】\nBOHRの感想シート入力ですが、以下の方の投稿が止まっていますので、\n投稿いただくようお願いします。\n過去のものは簡単な記載だけで結構です。\n\n基本のアウトプットや振り返りは、日報等に詳しく書いていただいていると思いますので\nこの感想シートは、講師や講義やテキストに関するフィードバックと簡単に気づきや学びになった点やご要望を記載してください。\n\n（感想という名称ですが、個人で受けるサービスとは異なり、業務時間を使ってのものですので意味のあるものにしましょう）\n（一部は、日報と同様の内容で記載いただくなども可です）\n\n```・26109板谷英俊\n・26126糀本佳純\n・26130金野由雛\n・26134白川弘道\n・26157西村早織\n・26168平松利樹人\n・26201眞柄尚典\n・26174古川尚弥\n・26135神保壱樹```",
+    "reactions": "white_check_mark (32)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1778139488.553659",
+    "datetime_jst": "2026-05-07 16:38:08",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\nこちらの他己評価についてもぜひご記載ください:smile:\n<https://docs.google.com/forms/d/1r7mVnB5KG_KVcVvlfL5oBCVEENgY25tNnM021to_8Pk/edit>",
+    "reactions": "white_check_mark (34)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1778214594.342569",
+    "datetime_jst": "2026-05-08 13:29:54",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\n【他己評価の入力のお願い】\n昨日、たくさんの投稿をいただきました。ありがとうございます。\n必須投稿にしているわけではありませんが\nまだ投稿されていない方もいらっしゃるので、ぜひ投稿しましょう。\n\n公明正大なコミュニケーションのためにも他己評価の現在の状況を共有します。\n\n▼投稿フォーム\n<https://docs.google.com/forms/d/1r7mVnB5KG_KVcVvlfL5oBCVEENgY25tNnM021to_8Pk/edit>\n\n▼現在の投稿状況",
+    "reactions": "blush (33)",
+    "files": "0403-0508_ハイマックス様_他己評価.xlsx (ID: F0B2FB0QP5Y, application/vnd.openxmlformats-officedocument.spreadsheetml.sheet, 19.2 KB)",
+    "replies": []
+  },
+  {
+    "ts": "1778217889.846819",
+    "datetime_jst": "2026-05-08 14:24:49",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "*<!here>* \n*【連絡】05/08(金)の個別レクチャ希望受付*\nサブ講師と、１対１で個別レクチャを受けられるようにしたいと思います。\n理解が追いつくように挽回したい方はぜひ希望してください。\n内容は自由です。\n・不明点をいろいろ聞きたい\n・勉強の仕方を相談したい\n・一緒に書く練習をしてもらいたい\nなどです。\n\n時間は、3～20分です。\n順番に受け付けたいと思いますので、このメッセージの「スレッドに返信する」にて返信をお願いします。\n\n例\n・10分程度希望します：基本から。\n・5分程度希望します：〇〇の考え方について\n・10分程度希望します：〇〇の課題について\n・15分程度希望します：〇〇がまだ書けないので書けるようにしたい\n・15分程度希望します：〇〇、〇〇、〇〇について\n・20分程度希望します：とにかく理解の遅れを挽回したい\n\n補足\n・*各サブ講師の席で行います*\n・ノートと教科書を持ってきてください\n・ある程度知識がある方もOKです（短時間で終わるようにします。苦戦しているかた優先のため）",
+    "reactions": "raised_hands (9)",
+    "files": null,
+    "replies": [
+      {
+        "author": "細矢康平",
+        "email": "kohei.hosoya@himacs.co.jp",
+        "text": "大変申し訳ございません、登録しました。"
+      },
+      {
+        "author": "金紹博",
+        "email": "shohaku.kin@himacs.co.jp",
+        "text": "大変申し訳ございません、登録しました。"
+      },
+      {
+        "author": "26175細淵名勇士",
+        "email": "naoto.hosobuchi@himacs.co.jp",
+        "text": "ただいま出席登録しました。大変申し訳ございませんでした。"
+      },
+      {
+        "author": "26133庄司帆希",
+        "email": "homare.shoji@himacs.co.jp",
+        "text": "ただいま登録いたしました。大変申し訳ございませんでした。"
+      }
+    ]
+  },
+  {
+    "ts": "1778218500.277459",
+    "datetime_jst": "2026-05-08 14:35:00",
+    "author": "IA_村林良胤",
+    "email": "m_yoshitsugu@hotmail.com",
+    "text": "Zoomチャットで送ったファイルと同じものです。",
+    "reactions": "raised_hands (6)",
+    "files": "JavaA3_enshu.pdf (ID: F0B207GNSDD, application/pdf, 1.3 MB)",
+    "replies": []
+  },
+  {
+    "ts": "1778563902.721709",
+    "datetime_jst": "2026-05-12 14:31:42",
+    "author": "IA_村林良胤",
+    "email": "m_yoshitsugu@hotmail.com",
+    "text": "Reactions: white_check_mark (4)",
+    "reactions": null,
+    "files": "（２）上記の設問に加えて、それを継承させる設問分が以下です。.txt (ID: F0B41196F08, text/plain, 4.7 KB), （３）インターフェースを追加する。.txt (ID: F0B33AW2A7P, text/plain, 3.7 KB), （４）ポリモーフィズムの設問.txt (ID: F0B36N7RW58, text/plain, 662 Bytes), （１）昨日に出題した設問分（図書館プログラム）の続きを行います。.txt (ID: F0B2R8VV5AB, text/plain, 4.1 KB)",
+    "replies": []
+  },
+  {
+    "ts": "1778565785.606849",
+    "datetime_jst": "2026-05-12 15:03:05",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<@U0AQKSGM32R|26125金紹博>\n<@U0AQY4Q1DE2|26133庄司帆希>\n<@U0AQYE1T4NA|26175細淵名勇士>\n<@U0ARUP9QF3J|26176細矢康平>\n【連絡】\n本日、上記の4名の方が出席ボタンが押されていません。\n\n出席ボタンや早退や遅刻の管理は、研修後にハイマックス様のほうで集計されたりします。\n約90名の方のチェックや集計に漏れがあると、田村さんや佐々木さんの時間を2時間も3時間も使ってしまうことになります。\n\n朝、忘れずに出席ボタンを押し、早退や遅刻のメモもするようにお願いします。",
+    "reactions": null,
+    "files": null,
+    "replies": [
+      {
+        "author": "宇賀神　歩",
+        "email": "p.ayumu.ugajin@himacs.co.jp",
+        "text": "先ほど登録いたしました\n遅れてしまい申し訳ありません"
+      },
+      {
+        "author": "26137菅谷勝弘",
+        "email": "katsuhiro.sugaya@himacs.co.jp",
+        "text": "先程提出いたしました\n遅れてしまい申し訳ございません"
+      },
+      {
+        "author": "26123神林響",
+        "email": "satoshi.kambayashi@himacs.co.jp",
+        "text": "先程提出いたしました\n遅れてしまい申し訳ございません"
+      }
+    ]
+  },
+  {
+    "ts": "1778570281.672729",
+    "datetime_jst": "2026-05-12 16:18:01",
+    "author": "IA_村林良胤",
+    "email": "m_yoshitsugu@hotmail.com",
+    "text": "クラス図が読める方は、以下のクラス図を参考にしてください。\nBookやLibraryクラスの相関図です。",
+    "reactions": "white_check_mark (4)",
+    "files": "クラス図.pdf (ID: F0B41K9UE2U, application/pdf, 25.7 KB)",
+    "replies": []
+  },
+  {
+    "ts": "1778639626.348319",
+    "datetime_jst": "2026-05-13 11:33:46",
+    "author": "IA_金谷秀二",
+    "email": "shuji.kanaya@softcommu.com",
+    "text": "<!here>\n気温が上がったり下がったりと体調管理が難しい季節になってきました。\n講師たちも皆さんの様子を見ながら、適宜調整したいと考えていますが、「暑い」「寒い」など要望がありましたら、\n遠慮なく講師たちに伝えてください。\n１点お願いがあります。実際の調整は講師たちに委ねてください。\n講師が１度調整し、その後、別の方がそれに気づかずさらに１度調整するというようなことが生じる可能性があります。\nご協力に感謝します。",
+    "reactions": "white_check_mark (30)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1778647056.380439",
+    "datetime_jst": "2026-05-13 13:37:36",
+    "author": "IA_早川宏美",
+    "email": "hiromi.hayakawa@softcommu.com",
+    "text": "<@U0AQ823KGAK|26123神林聡> \n<@U0AQY0UNZC6|26137菅谷勝弘> \n<@U0ASFKP750A|26207宇賀神歩> \n\n本日、上記の3名の方の出欠登録がなされていません。\n登録よろしくお願いします。",
+    "reactions": "white_check_mark (2)",
+    "files": null,
+    "replies": [
+      {
+        "author": "鍵村和香",
+        "email": "waka.kagimura@himacs.co.jp",
+        "text": "停止の仕方がわからないのでサポートをお願いしたいです。"
+      },
+      {
+        "author": "26165日向陽太",
+        "email": "hinata.hyuga@himacs.co.jp",
+        "text": "停止の仕方がわからないので、サポートお願いします。"
+      },
+      {
+        "author": "太田みゆ",
+        "email": "miyu.ota@himacs.co.jp",
+        "text": "停止の仕方がわからないのでサポートをお願いします。"
+      },
+      {
+        "author": "荒木楓",
+        "email": "kaede.araki@himacs.co.jp",
+        "text": "停止方法が分からないのでサポートをお願いしたいです。"
+      },
+      {
+        "author": "26112内田香奈",
+        "email": "kana.uchida@himacs.co.jp",
+        "text": "停止の仕方がわからないので詳しく教えていただきたいです。"
+      },
+      {
+        "author": "26174古川尚弥",
+        "email": "naoya.furukawa@himacs.co.jp",
+        "text": "停止の仕方が分からないのでサポートをお願いいたします"
+      },
+      {
+        "author": "26181山口華恵",
+        "email": "hanae.yamaguchi@himacs.co.jp",
+        "text": "停止の仕方や会社PCで作ったJavaファイルを自宅で開いて操作する方法が分からないので教えていただきた\nいです."
+      },
+      {
+        "author": "嶋田千夏",
+        "email": "chinatsu.shimada@himacs.co.jp",
+        "text": "停止の仕方がわからないためサポートをお願いいたします"
+      },
+      {
+        "author": "木下颯真",
+        "email": "soma.kinoshita@himacs.co.jp",
+        "text": "停止の仕方がわからないためサポートをお願いいたします"
+      },
+      {
+        "author": "26166平岡学",
+        "email": "gaku.hiraoka@himacs.co.jp",
+        "text": "エクスプローラでの利用、Web上での利用の違いがよくわかりません。サポートをお願いしたいです。"
+      }
+    ]
+  },
+  {
+    "ts": "1778719171.273009",
+    "datetime_jst": "2026-05-14 09:39:31",
+    "author": "IA_村林良胤",
+    "email": "m_yoshitsugu@hotmail.com",
+    "text": "↓寺子屋出席者用の資料",
+    "reactions": "white_check_mark (1)",
+    "files": "cafe_steps_hint.zip (ID: F0B4JJ4CH6C, application/zip, 4.6 KB)",
+    "replies": []
+  },
+  {
+    "ts": "1778721087.496249",
+    "datetime_jst": "2026-05-14 10:11:27",
+    "author": "広瀬智子",
+    "email": "hrs37cda@gmail.com",
+    "text": "<@U0ACW862CUS|IA_岡野隼>\nお疲れ様です！\nBOHRの出欠登録忘れている方が現時点で19名いらっしゃいます。\nよきタイミングで全体アナウンスなどが良いでしょうか？\n\nよろしくお願いします。",
+    "reactions": "white_check_mark (4)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1778744107.972589",
+    "datetime_jst": "2026-05-14 16:35:07",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\n【確認】OneDriveのエクスプローラー利用の停止とサポート\n\nOneDriveはエクスプローラーでの利用はして欲しくないので停止して、Web上での利用にしましょう。\n・ファイルの検索がしづらい\n・意識せずに同期していて、クラウドに同期したかどうかを認識しづらい\n　→よく分かっていないとセキュリティリスクがある\n\nといったデメリットがあります。\n\n（慣れたらそういう使い方もありますが、この研修では原則利用しない、でお願いします（田村さん確認済み））\n\nということで、ご自身で停止できる方はそのように運用をお願いします。\n\n一方で\n・停止の仕方がわからない\n・この連絡で言っていることがよく分からないので一旦見て欲しい、\n\nという方もたくさんいると思うので、\nスレッド返信の形で、「サポートお願いします」「よく分かってないのでお願いします」などの返信をお願いします。",
+    "reactions": "white_check_mark (24)",
+    "files": null,
+    "replies": [
+      {
+        "author": "鍵村和香",
+        "email": "waka.kagimura@himacs.co.jp",
+        "text": "停止の仕方がわからないのでサポートをお願いしたいです。"
+      },
+      {
+        "author": "26165日向陽太",
+        "email": "hinata.hyuga@himacs.co.jp",
+        "text": "停止の仕方がわからないので、サポートお願いします。"
+      },
+      {
+        "author": "太田みゆ",
+        "email": "miyu.ota@himacs.co.jp",
+        "text": "停止の仕方がわからないのでサポートをお願いします。"
+      },
+      {
+        "author": "荒木楓",
+        "email": "kaede.araki@himacs.co.jp",
+        "text": "停止方法が分からないのでサポートをお願いしたいです。"
+      },
+      {
+        "author": "26112内田香奈",
+        "email": "kana.uchida@himacs.co.jp",
+        "text": "停止の仕方がわからないので詳しく教えていただきたいです。"
+      },
+      {
+        "author": "26174古川尚弥",
+        "email": "naoya.furukawa@himacs.co.jp",
+        "text": "停止の仕方が分からないのでサポートをお願いいたします"
+      },
+      {
+        "author": "26181山口華恵",
+        "email": "hanae.yamaguchi@himacs.co.jp",
+        "text": "停止の仕方や会社PCで作ったJavaファイルを自宅で開いて操作する方法が分からないので教えていただきたいです."
+      },
+      {
+        "author": "嶋田千夏",
+        "email": "chinatsu.shimada@himacs.co.jp",
+        "text": "停止の仕方がわからないためサポートをお願いいたします"
+      },
+      {
+        "author": "木下颯真",
+        "email": "soma.kinoshita@himacs.co.jp",
+        "text": "停止の仕方がわからないためサポートをお願いいたします"
+      },
+      {
+        "author": "26166平岡学",
+        "email": "gaku.hiraoka@himacs.co.jp",
+        "text": "エクスプローラでの利用、Web上での利用の違いがよくわかりません。サポートをお願いしたいです。"
+      }
+    ]
+  },
+  {
+    "ts": "1778819524.838779",
+    "datetime_jst": "2026-05-15 13:32:04",
+    "author": "IA_丸本善利",
+    "email": "marubomu@gmail.com",
+    "text": "お疲れ様です。\nシリトリゲームのテストケース表＆エビデンス提出ファイルを作成いたしました。\n「テストケース」シートと提出用の「エビデンス」シートが収められています。\nエビデンスシートにコンソールのスクリーンショットを貼って、エクセルファイルをzipファイルに圧縮してください。名前は社員番号_名前の形でお願いいたします。\nそして自動採点用にテストケース結果を以下のグーグルフォームを送っていただく形になります。",
+    "reactions": "+1 (26)",
+    "files": "しりとりゲーム_テストケース表.xlsx (ID: F0B3WERQZFX, application/vnd.openxmlformats-officedocument.spreadsheetml.sheet, 11.6 KB), unknown (ID: F0B3XPQ8KGE, unknown, unknown size)",
+    "replies": []
+  },
+  {
+    "ts": "1778819790.733169",
+    "datetime_jst": "2026-05-15 13:36:30",
+    "author": "IA_丸本善利",
+    "email": "marubomu@gmail.com",
+    "text": "集計のために、テストケース結果は以下のグーグルフォームでお送りいただければと思います。\n<https://forms.gle/ePPCosSeMEPjNwbKA>",
+    "reactions": "+1 (18)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1778821947.866359",
+    "datetime_jst": "2026-05-15 14:12:27",
+    "author": "IA_丸本善利",
+    "email": "marubomu@gmail.com",
+    "text": "<!here>\nお知らせ\n１．エクセルの提出はこの投稿に対して、zipファイルをスレッド内でお送りいただければと思います。\n２．エクセル内のテストケース表のG列「実際の結果」は記録用として自由にお使いください。\n*仮にここが空白で提出でも問題ございません。*",
+    "reactions": "white_check_mark (29)",
+    "files": null,
+    "replies": [
+      {
+        "author": "細矢康平",
+        "email": "kohei.hosoya@himacs.co.jp",
+        "text": "26176細矢康平です。よろしくお願いします。"
+      },
+      {
+        "author": "26111井上丈大",
+        "email": "Takeo.Inoue@himacs.co.jp",
+        "text": "よろしくお願いします。"
+      },
+      {
+        "author": "真柄尚典",
+        "email": "p.naomichi.magara@himacs.co.jp",
+        "text": "26201真柄尚典です。完成いたしましたので提出させていただきます。お手数ですがよろしくお願いいたします。"
+      },
+      {
+        "author": "26164日高世那",
+        "email": "sena.hidaka@himacs.co.jp",
+        "text": "26164日高世那です。よろしくお願いいたします。"
+      },
+      {
+        "author": "26161橋本陸人",
+        "email": "rikuto.hashimoto@himacs.co.jp",
+        "text": "26161 橋本陸人です。よろしくお願いいたします。"
+      },
+      {
+        "author": "26152奈須田潤平",
+        "email": "jumpei.nasuda@himacs.co.jp",
+        "text": "26152奈須田潤平です、よろしくお願いします"
+      },
+      {
+        "author": "増田大聖",
+        "email": "taisei.masuda@himacs.co.jp",
+        "text": "26178増田大聖です。よろしくお願いします。"
+      },
+      {
+        "author": "26148田中恵人",
+        "email": "keito.tanaka@himacs.co.jp",
+        "text": "26148田中恵人です。よろしくお願いいたします。"
+      },
+      {
+        "author": "26116大野遥也",
+        "email": "haruya.ono@himacs.co.jp",
+        "text": "26116大野遥也です。よろしくお願いいたします。"
+      },
+      {
+        "author": "26109板谷英俊",
+        "email": "hidetoshi.itatani@himacs.co.jp",
+        "text": "26109板谷英俊です。よろしくお願いします。"
+      },
+      {
+        "author": "金紹博",
+        "email": "shohaku.kin@himacs.co.jp",
+        "text": "26125金紹博です。よろしくお願いいたします。"
+      },
+      {
+        "author": "26108石川優輝",
+        "email": "yuki.ishikawa@himacs.co.jp",
+        "text": "26108石川優輝です。よろしくお願いします。"
+      },
+      {
+        "author": "26206牧野歩美",
+        "email": "p.ayumi.makino@himacs.co.jp",
+        "text": "26206牧野歩美です。よろしくお願いいたします。"
+      },
+      {
+        "author": "松本洸士郎",
+        "email": "kojiro.matsumoto@himacs.co.jp",
+        "text": "26179松本洸士郎です。よろしくお願いいたします。"
+      },
+      {
+        "author": "26119金谷剛至",
+        "email": "takeru.kanaya@himacs.co.jp",
+        "text": "26119金谷剛至です。よろしくお願いいたします。"
+      },
+      {
+        "author": "辛川友斗",
+        "email": "yuto.karakawa@himacs.co.jp",
+        "text": "26122辛川友斗です。よろしくお願いいたします。"
+      },
+      {
+        "author": "神保壱樹",
+        "email": "kazuki.jimbo@himacs.co.jp",
+        "text": "26135神保壱樹です。よろしくお願いいたします。"
+      },
+      {
+        "author": "朝倉凪海",
+        "email": "umi.asakura@himacs.co.jp",
+        "text": "朝倉凪海です。よろしくお願いいたします。"
+      },
+      {
+        "author": "26175細淵名勇士",
+        "email": "naoto.hosobuchi@himacs.co.jp",
+        "text": "26175細淵名勇士です。よろしくお願いいたします。"
+      },
+      {
+        "author": "26150中西海晴",
+        "email": "kaisei.nakanishi@himacs.co.jp",
+        "text": "中西海晴です。よろしくお願いします。"
+      },
+      {
+        "author": "神浦柊歩",
+        "email": "shuho.kamayachi@himacs.co.jp",
+        "text": "神浦柊歩です。よろしくお願いいたします。"
+      },
+      {
+        "author": "26123神林響",
+        "email": "satoshi.kambayashi@himacs.co.jp",
+        "text": "26123神林響です。よろしくお願いいたします。"
+      },
+      {
+        "author": "26129小堤真人",
+        "email": "manato.kotsuzumi@himacs.co.jp",
+        "text": "26129 小堤真人です。よろしくお願いいたします。"
+      },
+      {
+        "author": "清水優太",
+        "email": "yuta.shimizu@himacs.co.jp",
+        "text": "26132清水優太です。よろしくお願いいたします。"
+      },
+      {
+        "author": "神浦真生",
+        "email": "mao.konoura@himacs.co.jp",
+        "text": "26127神浦真生です。よろしくお願いいたします。"
+      },
+      {
+        "author": "26166平岡学",
+        "email": "gaku.hiraoka@himacs.co.jp",
+        "text": "26166平岡学です。よろしくお願いします。"
+      },
+      {
+        "author": "曽我部朱音",
+        "email": "akane.sokabe@himacs.co.jp",
+        "text": "26141曽我部朱音です。よろしくお願いします。"
+      },
+      {
+        "author": "26113梅村郁実",
+        "email": "ikumi.umemura@himacs.co.jp",
+        "text": "26113梅村郁実です。よろしくお願いいたします。"
+      },
+      {
+        "author": "孫華",
+        "email": "ka.son@himacs.co.jp",
+        "text": "26142孫華です。よろしくお願いいたします。"
+      },
+      {
+        "author": "26110井之上光希",
+        "email": "koki.inoue@himacs.co.jp",
+        "text": "26110井之上光希です。よろしくお願いします。"
+      },
+      {
+        "author": "鍵村和香",
+        "email": "waka.kagimura@himacs.co.jp",
+        "text": "26117_鍵村和香です。よろしくお願いいたします。"
+      },
+      {
+        "author": "鈴木文太",
+        "email": "bunta.suzuki@himacs.co.jp",
+        "text": "26139_鈴木文太です。"
+      },
+      {
+        "author": "26168平松利樹人",
+        "email": "rikito.hiramatsu@himacs.co.jp",
+        "text": "26168平松利樹人です。よろしくお願いいたします。"
+      },
+      {
+        "author": "26130金野由夏",
+        "email": "yuhina.konno@himacs.co.jp",
+        "text": "26130_金野由夏です。よろしくお願いします。"
+      },
+      {
+        "author": "26140鈴木陵大",
+        "email": "ryota.suzuki@himacs.co.jp",
+        "text": "26140鈴木陵大です。よろしくお願いいたします。"
+      },
+      {
+        "author": "木下颯真",
+        "email": "soma.kinoshita@himacs.co.jp",
+        "text": "26124木下颯真です。よろしくお願いします。"
+      },
+      {
+        "author": "米光七海",
+        "email": "nanami.yonemitsu@himacs.co.jp",
+        "text": "26184米光七海です。よろしくお願いいたします。"
+      },
+      {
+        "author": "26137菅谷勝弘",
+        "email": "katsuhiro.sugaya@himacs.co.jp",
+        "text": "26137菅谷勝弘です。よろしくお願いします。"
+      },
+      {
+        "author": "26144髙梨剛",
+        "email": "go.takanashi@himacs.co.jp",
+        "text": "26144髙梨剛です。よろしくお願いいたします。"
+      },
+      {
+        "author": "26158西村　優生",
+        "email": "yusei.nishimura@himacs.co.jp",
+        "text": "26158西村優生です。よろしくお願いいたします。"
+      },
+      {
+        "author": "26143髙嶋珠鈴",
+        "email": "shurin.takashima@himacs.co.jp",
+        "text": "26143髙嶋珠鈴です。よろしくお願いいたします。"
+      },
+      {
+        "author": "浪岡龍太",
+        "email": "ryuta.namioka@himacs.co.jp",
+        "text": "26153浪岡龍太です。よろしくお願いいたします。"
+      },
+      {
+        "author": "26118加藤涼雅",
+        "email": "ryoga.kato@himacs.co.jp",
+        "text": "26118加藤涼雅です。よろしくお願いいたします。"
+      },
+      {
+        "author": "福元彩文",
+        "email": "aya.fukumoto@himacs.co.jp",
+        "text": "26171福元彩文です。よろしくお願いいたします。"
+      },
+      {
+        "author": "26126粨本佳純",
+        "email": "kasumi.kojimoto@himacs.co.jp",
+        "text": "26126粨本佳純です。よろしくお願いいたします。"
+      },
+      {
+        "author": "26146滝口凜",
+        "email": "rin.takiguchi@himacs.co.jp",
+        "text": "26146滝口凜です。よろしくお願いいたします。"
+      },
+      {
+        "author": "26128小島わかな",
+        "email": "wakana.kojima@himacs.co.jp",
+        "text": "26128小島わかなです。よろしくお願いいたします。"
+      },
+      {
+        "author": "26133庄司帆希",
+        "email": "homare.shoji@himacs.co.jp",
+        "text": "26133庄司帆希です。よろしくお願いいたします。"
+      },
+      {
+        "author": "26154西愛華",
+        "email": "manaka.nishi@himacs.co.jp",
+        "text": "26154西愛華です。\nよろしくお願いいたします。"
+      },
+      {
+        "author": "家中菜々美",
+        "email": "nanami.ienaka@himacs.co.jp",
+        "text": "26107家中菜々美です。よろしくお願いします。"
+      },
+      {
+        "author": "26173古川健太",
+        "email": "kenta.furukawa@himacs.co.jp",
+        "text": "26173古川健太です。よろしくお願いいたします。"
+      },
+      {
+        "author": "26112内田香奈",
+        "email": "kana.uchida@himacs.co.jp",
+        "text": "26112内田香奈です。よろしくお願いします。"
+      },
+      {
+        "author": "26159橋浦蓮",
+        "email": "ren.hashiura@himacs.co.jp",
+        "text": "26159橋浦蓮です。よろしくお願いいたします。"
+      },
+      {
+        "author": "平田 瑠華",
+        "email": "ruka.hirata@himacs.co.jp",
+        "text": "26167平田瑠華です。よろしくお願いいたします。"
+      },
+      {
+        "author": "26203渡邊航太",
+        "email": "p.kota.watanabe@himacs.co.jp",
+        "text": "26203渡邊航太。よろしくお願いします。"
+      },
+      {
+        "author": "芦川弦汰",
+        "email": "genta.ashikawa@himacs.co.jp",
+        "text": "芦川弦汰です。よろしくお願いします。"
+      },
+      {
+        "author": "26160橋本一沙",
+        "email": "issa.hashimoto@himacs.co.jp",
+        "text": "26160橋本一沙です。よろしくお願いいたします。"
+      },
+      {
+        "author": "山田瑚唯",
+        "email": "rui.yamada@himacs.co.jp",
+        "text": "26182山田瑚唯です。\nよろしくお願いします。"
+      },
+      {
+        "author": "26202飯野桃果",
+        "email": "p.momoka.iino@himacs.co.jp",
+        "text": "26202飯野桃果です。よろしくお願いいたします。"
+      },
+      {
+        "author": "26147武山のぞみ",
+        "email": "nozomi.takeyama@himacs.co.jp",
+        "text": "26147武山のぞみです。よろしくお願いいたします。"
+      },
+      {
+        "author": "26157西村早織",
+        "email": "saori.nishimura@himacs.co.jp",
+        "text": "26157西村早織です。よろしくお願いします"
+      },
+      {
+        "author": "26180矢内大成",
+        "email": "taisei.yanai@himacs.co.jp",
+        "text": "26180　矢内大成です。よろしくお願いします。"
+      },
+      {
+        "author": "26174古川尚弥",
+        "email": "naoya.furukawa@himacs.co.jp",
+        "text": "26174 古川尚弥です。よろしくお願いいたします。"
+      },
+      {
+        "author": "26162八友麻衣",
+        "email": "mai.hattomo@himacs.co.jp",
+        "text": "26162八友麻衣です。よろしくお願いいたします。"
+      },
+      {
+        "author": "荒木楓",
+        "email": "kaede.araki@himacs.co.jp",
+        "text": "26106荒木楓です。よろしくお願いいたします。"
+      },
+      {
+        "author": "太田みゆ",
+        "email": "miyu.ota@himacs.co.jp",
+        "text": "よろしくお願いいたします。"
+      },
+      {
+        "author": "寺師隆人",
+        "email": "ryuto.terashi@himacs.co.jp",
+        "text": "26149寺師隆人です。よろしくお願いいたします。"
+      },
+      {
+        "author": "26155西尾由佳里",
+        "email": "yukari.nishio@himacs.co.jp",
+        "text": "26155西尾由佳里です。よろしくお願いします。"
+      },
+      {
+        "author": "26170福島花音",
+        "email": "kanon.fukushima@himacs.co.jp",
+        "text": "26170福島花音です。\nご確認お願い致します。"
+      },
+      {
+        "author": "蒲生慧人",
+        "email": "ruito.gamo@himacs.co.jp",
+        "text": "26121蒲生慧人です。よろしくお願いいたします。"
+      },
+      {
+        "author": "26186和田郁穂",
+        "email": "ikuho.wada@himacs.co.jp",
+        "text": "26186和田郁穂です。よろしくお願いいたします。"
+      },
+      {
+        "author": "26172二岡菜摘",
+        "email": "natsumi.futaoka@himacs.co.jp",
+        "text": "26172二岡菜摘です。\nご確認お願い致します。"
+      },
+      {
+        "author": "南風原飛雅",
+        "email": "p.hyuga.haibara@himacs.co.jp",
+        "text": ""
+      },
+      {
+        "author": "26136須加康太",
+        "email": "kota.suka@himacs.co.jp",
+        "text": "26136須加康太です。よろしくお願いします。"
+      },
+      {
+        "author": "26181山口華恵",
+        "email": "hanae.yamaguchi@himacs.co.jp",
+        "text": "ご確認お願いいたします。"
+      },
+      {
+        "author": "26208井上未帆",
+        "email": "p.miho.inoue@himacs.co.jp",
+        "text": "26208井上未帆です。よろしくお願いいたします。"
+      },
+      {
+        "author": "26205日野息吹",
+        "email": "p.ibuki.hino@himacs.co.jp",
+        "text": "26205日野息吹です。\nご確認お願い致します"
+      },
+      {
+        "author": "26145高橋美咲",
+        "email": "misaki.takahashi@himacs.co.jp",
+        "text": "26145高橋美咲です。\nよろしくお願いします。"
+      },
+      {
+        "author": "26183横江真由美",
+        "email": "mayumi.yokoe@himacs.co.jp",
+        "text": "26183横江真由美です。\nご確認お願いいたします。"
+      },
+      {
+        "author": "嶋田千夏",
+        "email": "chinatsu.shimada@himacs.co.jp",
+        "text": "26131嶋田千夏です。\nご確認お願いいたします。"
+      },
+      {
+        "author": "伴隼登",
+        "email": "hayato.ban@himacs.co.jp",
+        "text": "26163伴隼登です。\nご確認お願い足します。"
+      },
+      {
+        "author": "安部希",
+        "email": "nozomu.abe@himacs.co.jp",
+        "text": "26105安部希です。\nご確認お願いいたします。"
+      },
+      {
+        "author": "26169福川舞香",
+        "email": "maika.fukugawa@himacs.co.jp",
+        "text": "26169福川舞香です。\nご確認のほどよろしくお願いいたします。"
+      },
+      {
+        "author": "26165日向陽太",
+        "email": "hinata.hyuga@himacs.co.jp",
+        "text": "26165日向陽太です。\nご確認のほどよろしくお願いします。"
+      },
+      {
+        "author": "26134白川弘道",
+        "email": "kodo.shirakawa@himacs.co.jp",
+        "text": "26134白川弘道です。\nご確認のほどよろしくお願いします。"
+      },
+      {
+        "author": "26104厚海健太",
+        "email": "kenta.atsuumi@himacs.co.jp",
+        "text": "26104厚海健太です。　ご確認お願いします。"
+      },
+      {
+        "author": "秋元優汰",
+        "email": "yuta.akimoto@himacs.co.jp",
+        "text": "26101秋元優汰です。ご確認のほどよろしくお願いします。"
+      },
+      {
+        "author": "26138杉浦宥羽",
+        "email": "yuha.sugiura@himacs.co.jp",
+        "text": "26138杉浦宥羽です。ご確認のほどよろしくお願いします。"
+      },
+      {
+        "author": "宇賀神　歩",
+        "email": "p.ayumu.ugajin@himacs.co.jp",
+        "text": "26207宇賀神歩です\nご確認のほどよろしくお願いします。"
+      }
+    ]
+  },
+  {
+    "ts": "1778828172.819399",
+    "datetime_jst": "2026-05-15 15:56:12",
+    "author": "IA_村林良胤",
+    "email": "m_yoshitsugu@hotmail.com",
+    "text": "create database if not exists test_db;\nuse test_db;\ndrop table if exists test_table;\ncreate table test_table (\n    message varchar(255)\n);\ninsert into test_table (message)\nvalues ('動いたよ！');\nselect * from test_table;\ndrop table if exists test_table;\ndrop database if exists test_db;",
+    "reactions": null,
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1778828345.717839",
+    "datetime_jst": "2026-05-15 15:59:05",
+    "author": "26186和田郁穂",
+    "email": "ikuho.wada@himacs.co.jp",
+    "text": "26186和田郁穂です。よろしくお願いいたします。",
+    "reactions": "white_check_mark (1)",
+    "files": "26186_和田郁穂.zip (ID: F0B3U6JB8P5, application/zip, 217.9 KB)",
+    "replies": []
+  },
+  {
+    "ts": "1778828542.919829",
+    "datetime_jst": "2026-05-15 16:02:22",
+    "author": "26183横江真由美",
+    "email": "mayumi.yokoe@himacs.co.jp",
+    "text": "26183横江真由美です。\nご確認お願いいたします。",
+    "reactions": "white_check_mark (1)",
+    "files": "26183_横江真由美.zip (ID: F0B3X6MEMS9, application/zip, 48.6 KB)",
+    "replies": []
+  },
+  {
+    "ts": "1778828732.333559",
+    "datetime_jst": "2026-05-15 16:05:32",
+    "author": "広瀬智子",
+    "email": "hrs37cda@gmail.com",
+    "text": "<!here>\n新座席表です。",
+    "reactions": "white_check_mark (8)",
+    "files": "★座席表_20260515.xlsx (ID: F0B3X4NSJTF, application/vnd.openxmlformats-officedocument.spreadsheetml.sheet, 14.7 KB)",
+    "replies": []
+  },
+  {
+    "ts": "1778828788.759819",
+    "datetime_jst": "2026-05-15 16:06:28",
+    "author": "IA_丸本善利",
+    "email": "marubomu@gmail.com",
+    "text": "```create database if not exists test_db;\nuse test_db;\ndrop table if exists test_table;\ncreate table test_table (\n    message varchar(255)\n);\ninsert into test_table (message)\nvalues ('動いたよ！');\nselect * from test_table;\ndrop table if exists test_table;\ndrop database if exists test_db;\ncreate database if not exists test_db;\nuse test_db;\ndrop table if exists test_table;\ncreate table test_table (\n    message varchar(255)\n);\ninsert into test_table (message)\nvalues ('動いたよ！');\nselect * from test_table;\ndrop table if exists test_table;\ndrop database if exists test_db;```",
+    "reactions": "white_check_mark (8)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1778835629.649629",
+    "datetime_jst": "2026-05-15 18:00:29",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\n上記の丸本さんのコードでエラーが出た方は、月曜日にサポートします。\nスレッドにて返信をお願いします。\n9:40までに全員が動くことを確認したいのでご協力をお願いします。\n\nOKな方は:white_check_mark:のリアクションをお願います。",
+    "reactions": "white_check_mark (44)",
+    "files": null,
+    "replies": [
+      {
+        "author": "26108石川優輝",
+        "email": "yuki.ishikawa@himacs.co.jp",
+        "text": "石川優輝です。エラーが出たのでサポートお願いします。"
+      }
+    ]
+  },
+  {
+    "ts": "1779064048.210979",
+    "datetime_jst": "2026-05-18 09:27:28",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>",
+    "reactions": "raised_hands (12), +1 (6), white_check_mark (27)",
+    "files": "しりとり結果.xlsx (ID: F0B3XSN4QQ7, application/vnd.openxmlformats-officedocument.spreadsheetml.sheet, 23.3 KB)",
+    "replies": []
+  },
+  {
+    "ts": "1779068797.857729",
+    "datetime_jst": "2026-05-18 10:46:37",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\n【報告】さっそく良い報連相がありました！\n\n・しりとりゲームの提出について\n・報連相の研修内容について\n\nさっそく数名から報連相がありました。とても良い報連相でした。\nぜひ継続してください。",
+    "reactions": "white_check_mark (36)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1779069504.904909",
+    "datetime_jst": "2026-05-18 10:58:24",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\n【連絡】報連相ワークの回答例\n\n先ほどのワークの回答例です。正解は一つではありませんので以下を参考にしてください。\n\n① PCにミルクティーをこぼして不調になった件\n• 研修中のPCトラブルについて（飲み物こぼれ）\n• 【報告】PCに液体をこぼし、一部動作が不安定です\n• PC不具合のご相談（飲み物をこぼしてしまった件）\n• 【ご相談】PCに飲み物をこぼしたため動作不良が発生しています\n• 【至急確認希望】PCに飲み物をこぼしまい、反応が悪くなってしまいました\n② 富国生命の山田さんとの面談調整\n• 【ご相談】保険申込書類修正に伴う一時離席について\n• 17:00〜17:15 一時離席のお願い（保険書類修正）\n• 【ご報告・ご相談】富国生命 山田様との面談について\n• 【ご相談】17:00〜17:15 面談対応可否について（富国生命様）\n• 【確認依頼】保険申込手続き修正のための面談対応について\n• 保険申込書類修正対応に伴う離席のご相談\n• 【研修中離席のご相談】保険申込書類修正対応について",
+    "reactions": null,
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1779072872.420529",
+    "datetime_jst": "2026-05-18 11:54:32",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\n【連絡】未投稿者を含めて再投稿いただいた方の結果を再度共有いたします。\n\n※すでに確認済みの方は、改めて見なくても大丈夫です。",
+    "reactions": "raised_hands (16)",
+    "files": "しりとり結果.xlsx (ID: F0B4HG4F8HJ, application/vnd.openxmlformats-officedocument.spreadsheetml.sheet, 22.6 KB)",
+    "replies": []
+  },
+  {
+    "ts": "1779083081.021279",
+    "datetime_jst": "2026-05-18 14:44:41",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!channel>\n5/26(火)の2回目のJavaの実力テストがあります。\n隙間時間で下記のクイズなども活用して理解度を高めましょう。\n\n用語クイズ\n<http://my.internetacademy.jp/~lesson/2026/04/himacs/Java/java_WordQuiz.html>\n\n穴埋めクイズ\n<http://my.internetacademy.jp/~lesson/2026/04/himacs/Java/java_codeQuiz.html>",
+    "reactions": "raised_hands (44), raised_hands::skin-tone-6 (1)",
+    "files": null,
+    "replies": [
+      {
+        "author": "26181山口華恵",
+        "email": "hanae.yamaguchi@himacs.co.jp",
+        "text": "リンクを共有していただきありがとうございます。只今リンクを自宅用PCで開こうとしたところ、下のような\"failed to connect\"の画面が表示されました。対処法などもしありましたら、ご教示いただきたく存じます。"
+      },
+      {
+        "author": "26123神林響",
+        "email": "satoshi.kambayashi@himacs.co.jp",
+        "text": "アドレスのhttpsのsを削除しhttpにすると入ることができると思います"
+      },
+      {
+        "author": "26181山口華恵",
+        "email": "hanae.yamaguchi@himacs.co.jp",
+        "text": "神林響さん\nありがとうございます！できました！！"
+      }
+    ]
+  },
+  {
+    "ts": "1779154177.263039",
+    "datetime_jst": "2026-05-19 10:29:37",
+    "author": "松本和哉",
+    "email": "matsumoto.kazuya@softcommu.com",
+    "text": "<@U0AQSTYF8CC|26118加藤涼雅>\n<@U0AQPHASV8S|26127神浦真生>\n<@U0AQY0UNZC6|26137菅谷勝弘>\n<@U0AS3JVA5DE|26150中西海晴>\n<@U0AQYE0P8A2|26174古川尚弥>\n<@U0ARUP9QF3J|26176細矢康平>\n\n\n\n\n【連絡】\n本日、上記の６名の方が出席ボタンが押されていません。\n\n出席ボタンや早退や遅刻の管理は、研修後にハイマックス様のほうで集計されたりします。\n約90名の方のチェックや集計に漏れがあると、田村さんや佐々木さんの時間を2時間も3時間も使ってしまうことになります。\n\n朝、忘れずに出席ボタンを押し、早退や遅刻のメモもするようにお願いします。",
+    "reactions": null,
+    "files": null,
+    "replies": [
+      {
+        "author": "26174古川尚弥",
+        "email": "naoya.furukawa@himacs.co.jp",
+        "text": "只今出席登録いたしました。遅くなり申し訳ございません。"
+      },
+      {
+        "author": "神浦真生",
+        "email": "mao.konoura@himacs.co.jp",
+        "text": "ただいま出席しました。大変遅くなってしまって申し訳ございません。"
+      }
+    ]
+  },
+  {
+    "ts": "1779154977.946809",
+    "datetime_jst": "2026-05-19 10:42:57",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\nトラブルが多いので、以下のチャンネルに情報を集めていきます。\n下記をクリックしてチャンネル画面の右上から参加しておいて通知が飛ぶようにしておいてください。\n<#C0B4K3VSE3X|ノウハウ_トラブル共有>",
+    "reactions": "eyes (18), white_check_mark (12)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1779169323.138399",
+    "datetime_jst": "2026-05-19 14:42:03",
+    "author": "広瀬智子",
+    "email": "hrs37cda@gmail.com",
+    "text": "*本日の面談予定について*\n本日（5/19）の面談の予定をお伝えいたします。\n1人目が16：00～、2人目が16：20～\n時間になりましたら各講師の名前のブレイクアウトルームまでお越しください。\nこちらからアナウンスはしませんのでご注意ください。",
+    "reactions": "white_check_mark (13)",
+    "files": "image.png (ID: F0B4PJQHBFC, image/png, 40.8 KB)",
+    "replies": []
+  },
+  {
+    "ts": "1779176668.235119",
+    "datetime_jst": "2026-05-19 16:44:28",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!channel>\n【連絡】リモートの日にzoomルーム全体が落ちたら\nもしもzoomが落ちたら、@channelをつけて講師にヘルプを求めてください",
+    "reactions": "+1 (60), +1::skin-tone-6 (1)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1779251396.407169",
+    "datetime_jst": "2026-05-20 13:29:56",
+    "author": "IA_金谷秀二",
+    "email": "shuji.kanaya@softcommu.com",
+    "text": "*本日の面談予定について*\n本日（5/20）の面談の予定をお伝えいたします。\n1人目が16：00～、2人目が16：20～\n時間になりましたら各講師席までお越しください。\nこちらからアナウンスはしませんのでご注意ください。",
+    "reactions": "+1 (7), white_check_mark (2)",
+    "files": "image.png (ID: F0B4YPS9GKU, image/png, 20.0 KB)",
+    "replies": []
+  },
+  {
+    "ts": "1779254762.894979",
+    "datetime_jst": "2026-05-20 14:26:02",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\n【連絡】5/26(火)のJava実力テスト2回目の案内\n\n出題範囲をお知らせします。\n方式は前回同様に●や■の部分を書き換えてくださいというものです。\nぜひ復習して挑んでください（土日にしりとりゲームの復習をしてコードを書いている方もいらっしゃいます。頑張りましょう）\n\n出題範囲\n```・Javaテキスト第3回の内容すべて\n・継承、オーバーライド\n・例外処理、例外処理の応用\n・ArrayList\n・デバッグ、エラーメッセージ読み解き```\n範囲外\n```・インターフェース\n・ファイルの読み書き\n・マップ\n・日付\n・ラムダ式\n・正規表現\n・CSVの読み書き\n・プロパティファイル\n・オブジェクト保存と直列化```",
+    "reactions": "white_check_mark (48)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1779259421.240199",
+    "datetime_jst": "2026-05-20 15:43:41",
+    "author": "IA_金谷秀二",
+    "email": "shuji.kanaya@softcommu.com",
+    "text": "本日面談が予定されている皆様へ\nすでにお送りしております面談予定の画像の方には時間が１６：１５～と、１６：３５～と記されていますが、テキストの１６：００～と１６：２０～が正しい情報ですので、どうぞ、よろしくお願いいたします。",
+    "reactions": "white_check_mark (12)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1779418102.680379",
+    "datetime_jst": "2026-05-22 11:48:22",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\n▼文章力強化ワーク\n<https://docs.google.com/forms/d/e/1FAIpQLSeqMWUT6Chdf6yGAhhXGHzv90ftfuVSR5L017J7202gPN4-Rw/viewform>",
+    "reactions": "white_check_mark (14)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1779420455.634429",
+    "datetime_jst": "2026-05-22 12:27:35",
+    "author": "IA_金谷優太",
+    "email": "yuta.kanaya@softcommu.com",
+    "text": "*本日の面談予定について*\n本日の面談の予定をお伝えいたします。\n1人目が16：00～、2人目が16：20～\n時間になりましたら各講師席までお越しください。\nこちらからアナウンスはしませんのでご注意ください。",
+    "reactions": "+1 (14)",
+    "files": "image.png (ID: F0B6BFNMS56, image/png, 17.4 KB)",
+    "replies": []
+  },
+  {
+    "ts": "1779430899.476399",
+    "datetime_jst": "2026-05-22 15:21:39",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\n【連絡】コードや素材共有用のチャンネルをつくりました。\n\nzoomでのコード共有だと流れてしまうことがあるのでSlackでコードや素材を共有します。\n以下のチャンネルを作りましたので、下記リンクをクリックして、画面右上のボタンから参加しておいてください。\n\n<#C0B522JGRPH|コード_素材共有用>",
+    "reactions": "+1 (19)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1779431915.702349",
+    "datetime_jst": "2026-05-22 15:38:35",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\n【アンケート】\nXAMPPのMySQL起動エラーが、研修会場のPCで（自宅のリモート研修用PCでなく）\n1回も出ていない人は:white_check_mark:\n1回出た人は:eyes:\n2回以上出ている人は:raised_hands:\n\nのリアクションをお願いします！",
+    "reactions": "eyes (36), white_check_mark (40), raised_hands (10)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1779659183.374089",
+    "datetime_jst": "2026-05-25 06:46:23",
+    "author": "IA_金谷秀二",
+    "email": "shuji.kanaya@softcommu.com",
+    "text": "<!here>\nおはようございます！\n週末は有意義に過ごせたでしょうか。\n\n今回の研修で強調されていることの１つとして「他者目線・相手目線」という考え方があります。\nこれは皆様が優れたビジネスパーソンになるために欠かすことのできないビジネススキルです。\n金曜日に添付のような場面を目にしました。\n少し細かい点になりますが、今後、自社の名前を代表する社員として他者を訪問することもおありの皆さんに役立つと思う点をお伝えさせていただきます。\n\n自宅であれば、問題とならないかもしれません。\nただし、これが皆様がこれから現場に出て、他社を訪問する場合であれば、どうでしょうか。その会社の方はどう感じるでしょうか。もし廊下の清掃や管理をされている方がおられたら、\n「濡れたものを直接床に置かないでほしい」\n「きれいに保つ努力を払っている人の気持ちになってほしい」\nなどと感じる方もおられるかもしれませんね。\nもしかしたら、床に置いた方は\n「傘立てのうえに置くと、狭くなるから」\n「自分の傘が見つかりにくくなるから」\nと考えられたのかもしれません。\nご自分がどう感じるかという視点と同時に、他の方がどう感じるか、どんな気持ちになるのかという視点を持ち、他の人の感じ方を優先させる思考を身に付けるよう心掛けてください。会社の名前や評判を担っていることも忘れないようにしましょう。\n\n訪問時のビジネスマナーとしては、折り畳み傘は自分のカバンに入れるなどのマナーも示されていることも少なくありません。絶対のルールはありませんが、いつも考えることができるのは「相手目線」です。最低限、床をぬらさないように受け皿のあるところに置く、何かしらの袋に入れるなどの「配慮」ができるかもしれませんね。\n\nケーススタディとして取り上げさせていただきました。",
+    "reactions": "+1 (30)",
+    "files": "IMG_0216_2 (1).png (ID: F0B6028D6PN, image/png, 552.8 KB), 2026-05-25 063802.png (ID: F0B5WDZLM4J, image/png, 51.0 KB)",
+    "replies": []
+  },
+  {
+    "ts": "1779667936.093289",
+    "datetime_jst": "2026-05-25 09:12:16",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!channel>\n【連絡】本日の朝（システム開発基礎）のテキストは以下からご覧ください\n<http://my.internetacademy.jp/~lesson/2026/04/himacs/system/sysKiso-git_2026.pdf>\nパスワードは「iaBOHRforB」です",
+    "reactions": "+1 (23)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1779686656.456429",
+    "datetime_jst": "2026-05-25 14:24:16",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\n上記のUMLのテキストが見れない方は、ブラウザのアドレスバーが自動的に「https」に変わっている方かと思います。\n最近のブラウザは、安全のためにhttpをhttpsに書き換えることがあります。\nアドレスバーから直接変更をして、httpにしてくみてください。",
+    "reactions": "white_check_mark (7)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1779687193.172839",
+    "datetime_jst": "2026-05-25 14:33:13",
+    "author": "広瀬智子",
+    "email": "hrs37cda@gmail.com",
+    "text": "*本日の面談予定について*\n本日の面談の予定をお伝えいたします。\n1人目が16：00～、2人目が16：20～\n時間になりましたら各講師のブレイクアウトルームへ入室してください。\nこちらからアナウンスはしませんのでご注意ください。",
+    "reactions": "+1 (7)",
+    "files": "image.png (ID: F0B5UE0LTS9, image/png, 33.8 KB)",
+    "replies": []
+  },
+  {
+    "ts": "1779691348.008139",
+    "datetime_jst": "2026-05-25 15:42:28",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here> 本日の日直の方\n【相談】よろしければ日直の一覧表を共有いただけますか？\n\nテキストベースでコピーアンドペーストしていただいても結構です。",
+    "reactions": null,
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1779691653.551119",
+    "datetime_jst": "2026-05-25 15:47:33",
+    "author": "26147武山のぞみ",
+    "email": "nozomi.takeyama@himacs.co.jp",
+    "text": "26120～26123の方になります。",
+    "reactions": "sparkles (10), +1 (7)",
+    "files": "当番表.xlsx (ID: F0B6SKCA43S, application/vnd.openxmlformats-officedocument.spreadsheetml.sheet, 17.1 KB)",
+    "replies": []
+  },
+  {
+    "ts": "1779753468.219219",
+    "datetime_jst": "2026-05-26 08:57:48",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\n【連絡】Java実力テストの準備（前回よりもインポートと提出の方法がシンプルになりました）\n\n以下の手順で実力テスト用のファイルの準備をしてください。\n1. 別途指定する実力テスト用のzipファイルをダウンロードしてください。\n2. `解凍せず`、場所を覚えておいてください。\n3. Eclipseを起動して「ファイル」>「インポート」を選択します。\n4. 「一般」>「既存プロジェクトをワークスペースへ」をクリックで選択し、「次へ」をクリックします。\n5. 「`アーカイブ・ファイルの選択`」を選択し、「参照」ボタンをクリックします。\n6. ウインドウが表示されるので、ダウンロードしたzipファイルを選択し、OKをクリックします。\n7. 完了ボタンをクリックします。\n　※エラーが出る場合は、プロジェクト名の重複が考えられます。\n　既にあるプロジェクトの名前の変更か、削除をしてください。\n8.プロジェクト内のデフォルトパッケージ内に、Hello.javaがあるので、実行して「hello」が出力できたら準備完了です。\n\n注意事項\n・q1～q15のパッケージの中身を見るのは禁止です。\n・上記以外のことはせず、テスト開始の合図を待っていてください。\n\n\n今回はすべて採点対象ですが、〇を優先して解いてください。\n1.〇\n2.〇\n3.〇\n4.〇\n5.▲\n6.〇\n7.〇\n8.〇\n9.〇\n10.▲\n11.▲\n12.〇\n13.▲\n14.〇\n15.▲\n\n\nテスト後の作業\n\n１．Eclipse上で、プロジェクトを右クリック\n２．[Windowsエクスプローラー]を選択\n３．PC上のプロジェクトフォルダが見えたら上の階層に上がる\n４．[b2270u0106]のようなフォルダを`作成`します（BOHRログインIDと同じにしてください）\n５．java_exam2のフォルダを`コピー`し、[b2270u0106]のような`フォルダの中で、ペースト`します\n６．[b2270u0106]のようなフォルダをzip圧縮します\n７．zipファイルを以下の投稿場所にドロップ（投稿時刻で確認します。編集不可ですのでご注意ください）\n\n投稿場所は以下です。\n<#C0B5M8G9ZAT|java_2回目テスト用>",
+    "reactions": "white_check_mark (82), eyes (1)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1779760621.072809",
+    "datetime_jst": "2026-05-26 10:57:01",
+    "author": "松本和哉",
+    "email": "matsumoto.kazuya@softcommu.com",
+    "text": "<@U0AQU4JG9QT|26104厚海健太>\n<@U0AR4AQ6W8L|26109板谷英俊>\n<@U0AR2Q6762D|26115太田みゆ>\n<@U0AQ7NN56ET|26126糀本佳純>\n<@U0AR236AP41|26138杉浦宥羽>\n<@U0AR40PGTKN|26157西村早織>\n<@U0AQJV70SJ3|26160橋本一沙>\n<@U0AQSTQFH8U|26161橋本陸人>\n<@U0AR43AJTNY|26168平松利樹人>\n<@U0AQX35KB8D|26173古川健太>\n<@U0AQJPFB99D|26177増子智陽>\n<@U0AR41CNM6G|26183横江真由美>\n\n\n\n【連絡】\n本日、上記の12名の方が出席ボタンが押されていません。(10：20時点）\n\n出席ボタンや早退や遅刻の管理は、研修後にハイマックス様のほうで集計されたりします。\n約90名の方のチェックや集計に漏れがあると、田村さんや佐々木さんの時間を2時間も3時間も使ってしまうことになります。\n\n朝、忘れずに出席ボタンを押し、早退や遅刻のメモもするようにお願いします。",
+    "reactions": "white_check_mark (13)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1779772315.795429",
+    "datetime_jst": "2026-05-26 14:11:55",
+    "author": "IA_金谷優太",
+    "email": "yuta.kanaya@softcommu.com",
+    "text": "*本日の面談予定について*\n本日の面談の予定をお伝えいたします。\n1人目が16：00～、2人目が16：20～\n時間になりましたら各講師の席までお越しください。\nこちらからアナウンスはしませんのでご注意ください。",
+    "reactions": "white_check_mark (7)",
+    "files": "image.png (ID: F0B6Y9RV9NC, image/png, 16.5 KB)",
+    "replies": []
+  },
+  {
+    "ts": "1779777685.557589",
+    "datetime_jst": "2026-05-26 15:41:25",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\n第1回目の実力テストの結果を再掲します。（第2回目は採点中です）",
+    "reactions": "raised_hands (44), eyes (2), eye-in-speech-bubble (1)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1779842149.498599",
+    "datetime_jst": "2026-05-27 09:35:49",
+    "author": "松本和哉",
+    "email": "matsumoto.kazuya@softcommu.com",
+    "text": "<@U0AR4AQ6W8L|26109板谷英俊>\n<@U0AQNTS5FS6|26132清水優太>\n<@U0AR40PGTKN|26157西村早織>\n<@U0AQM95FUT0|26158西村　優生>\n<@U0ARHE42ZPS|26164日高世那>\n<@U0AQJPFB99D|26177増子智陽>\n<@U0AR44JEB3N|26201眞柄尚典>\n<@U0AQK1UEZ8X|26202飯野桃果>\n\n【連絡】\n本日、上記の８名の方が出席ボタンが押されていません。\n朝、忘れずに出席ボタンを押し、早退や遅刻のメモもするようにお願いします。\n\n出席ボタンや早退や遅刻の管理は、研修後にハイマックス様のほうで集計されたりします。\n約90名の方のチェックや集計に漏れがあると、田村さんや佐々木さんの時間を2時間も3時間も使ってしまうことになります。\n\n出欠登録を忘れがちな方は、特に再発防止の対策を検討なさってください。",
+    "reactions": "white_check_mark (6), eyes (1)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1779843917.793439",
+    "datetime_jst": "2026-05-27 10:05:17",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\n【連絡】日報返信の講師名の変更\n日報返信をする講師の名前が分かりやすい方がよいため下記に変更しました。\nアカウント数の制限があり、これまでアカウント共有していていましたが下記の4人の方は、本日以降は固定のアカウントで返信します。\n\n補足：\nこれまでの返信に関しては（金谷）（岡野）（松本）（早川）といった表記にて誰が返信していたかを記載していました。\n過去の返信を振り返る際にはご注意ください。\n\n変更前　　変更後\n講師1　→　「講師：金谷秀二」\n講師6　→　「講師：岡野浩之」\n講師7　→　「講師：松本和哉」\n講師8　→　「講師：早川宏美」",
+    "reactions": "eyes (34)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1779845517.753499",
+    "datetime_jst": "2026-05-27 10:31:57",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\n【連絡】受講中の連絡先の優先順位\n\n体調不良やカメラON/OFFに関するご連絡に関して、正しく報連相が出来ている方が多く、とても良いと思います。\n引き続き、結論ファースト、相手目線での報連相の練習として、ぜひ継続してください:+1:\n\n本題ですが、連絡先の優先順位を決めておきたいと思います。\n本研修では、技術系講師とビジネス系講師がいるため、その分類にしたいと思います。\nzoom、Slack、対面でのご連絡先として困ったら参考にしてください。\n\n１．ビジネス系講師（本田、早川、岡野浩之、広瀬、金谷秀二）\n２．技術系講師（荒木、大岡、大川、隠岐、空本、鈴木、丸本、萩尾、金谷優太、中村、泥濘、松本、山本）\n３．メイン講師（村林、岡野隼）\n\n何かのお話のついでに「そういえば1点ご相談/連絡/報告がありまして」や雑談などは気にせず会話していただいて結構です:grinning:",
+    "reactions": "+1 (51)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1779862807.439419",
+    "datetime_jst": "2026-05-27 15:20:07",
+    "author": "IA_丸本善利",
+    "email": "marubomu@gmail.com",
+    "text": "*本日の面談予定について*\n本日の面談の予定をお伝えいたします。\n1人目が16：00～、2人目が16：20～\n時間になりましたら各講師のブレイクアウトルームまでお越しください。\nこちらからアナウンスはしませんのでご注意ください。",
+    "reactions": "eyes (8)",
+    "files": "2026-05-27 15.17の画像.jpeg (ID: F0B6DF3DZFU, image/jpeg, 66.0 KB)",
+    "replies": []
+  },
+  {
+    "ts": "1779867842.366939",
+    "datetime_jst": "2026-05-27 16:44:02",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "本日の日直\n2026/04/27 (月)\t月\t26162～26165",
+    "reactions": null,
+    "files": null,
+    "replies": [
+      {
+        "author": "26180矢内大成",
+        "email": "taisei.yanai@himacs.co.jp",
+        "text": "お疲れ様です、おそらくですが記載されている日直担当が１か月ずれています、念のため報告いたします。"
+      },
+      {
+        "author": "IA_岡野隼",
+        "email": "j_okano@internetacademy.co.jp",
+        "text": "ありがとうございます。再確認します"
+      },
+      {
+        "author": "IA_岡野隼",
+        "email": "j_okano@internetacademy.co.jp",
+        "text": "2026/05/27 (水)\t水\t26128\t26131"
+      }
+    ]
+  },
+  {
+    "ts": "1779869860.943219",
+    "datetime_jst": "2026-05-27 17:17:40",
+    "author": "IA_本田祐規",
+    "email": "yuki.honda@softcommu.com",
+    "text": "<@U0ARURA0U1E|26128小島わかな>\n<@U0AQL768BRT|26129小堤真人>\n<@U0ARDCC6MKK|26130金野由雛>\n<@U0AQ7MN82RM|26131嶋田千夏>\n\nお疲れ様です。Zoomのホストと共同ホストの役割をお渡ししたいのですが、大変お手数ですが、メインルームに戻っていただくことは可能でしょうか？",
+    "reactions": "+1 (2)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1779872205.391269",
+    "datetime_jst": "2026-05-27 17:56:45",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\n【連絡】第２回目の実力テストの結果をご連絡します。\n15問を対象にして70%＝70点が合否基準です。\n\n補足\n・前回同様にAIによる採点のため若干の揺れがあります。\n・自分の点数は下記にて確認できます。（ログインIDはb227xxxxxなど、BOHRのログインID/PWです）\n・下記のURLからみるとエクセルの表よりも`少し高い点数`になっていますが、\n　生成AIによる誤差が出ているためで、70点に近い40名ほどを講師が手作業で修正しています。\n・自分は合格/不合格が変わるのではないかという方や不明点はご連絡ください。（`スレッド返信にて`ご連絡ください）\n・再テストは早ければ`5/28`の可能性もありますが現在調整中です。\n\n▼実力テスト確認用URL\n<http://ec2-13-113-138-157.ap-northeast-1.compute.amazonaws.com/login/>",
+    "reactions": "white_check_mark (27)",
+    "files": "第2回集計結果_公開用.xlsx (ID: F0B6G808TEV, application/vnd.openxmlformats-officedocument.spreadsheetml.sheet, 17.3 KB)",
+    "replies": [
+      {
+        "author": "26130金野由夏",
+        "email": "yuhina.konno@himacs.co.jp",
+        "text": "お疲れ様です。 今回の結果についてなのですが、 合格ラインに近い点数のため、一度ご確認いただくことは可能でしょうか。 よろしくお願いいたします。"
+      },
+      {
+        "author": "IA_岡野隼",
+        "email": "j_okano@internetacademy.co.jp",
+        "text": "金野さん\n連絡ありがとうございます。金野さん含めて合格ラインに近い方はチェック済みですので、ご自身のID/PWでログインしてみて、合否が変わるはず、という場合は第何問が異なるかを教えてください。"
+      }
+    ]
+  },
+  {
+    "ts": "1779929339.376749",
+    "datetime_jst": "2026-05-28 09:48:59",
+    "author": "松本和哉",
+    "email": "matsumoto.kazuya@softcommu.com",
+    "text": "<@U0AQPJ76MQA|26103芦川弦汰>\n<@U0AQPJ56DKL|26112内田香奈>\n<@U0AQ823KGAK|26123神林聡>\n<@U0AQKSGM32R|26125金紹博>\n<@U0AQ7NN56ET|26126糀本佳純>\n<@U0AR0FFA93L|26142孫華>\n<@U0AR3H0EGAG|26152奈須田潤平>\n<@U0AR43AJTNY|26168平松利樹人>\n<@U0AQK27CP4P|26204南風原飛雅>\n\n\n\n【連絡】\n本日、上記の９名の方が出席ボタンが押されていません。\n朝、忘れずに出席ボタンを押し、早退や遅刻のメモもするようにお願いします。\n\n出席ボタンや早退や遅刻の管理は、研修後にハイマックス様のほうで集計されたりします。\n約90名の方のチェックや集計に漏れがあると、田村さんや佐々木さんの時間を2時間も3時間も使ってしまうことになります。\n\n出欠登録を忘れがちな方は、特に再発防止の対策を検討なさってください。",
+    "reactions": "white_check_mark (5)",
+    "files": null,
+    "replies": [
+      {
+        "author": "26112内田香奈",
+        "email": "kana.uchida@himacs.co.jp",
+        "text": "ただいま出席登録いたしました。\n遅れてしまい、申し訳ございません。"
+      },
+      {
+        "author": "金紹博",
+        "email": "shohaku.kin@himacs.co.jp",
+        "text": "ただいま出席登録いたしました。\n遅れてしまい、申し訳ございません。"
+      },
+      {
+        "author": "孫華",
+        "email": "ka.son@himacs.co.jp",
+        "text": "ただいま出席登録いたしました。\n遅れてしまい、申し訳ございません。"
+      },
+      {
+        "author": "芦川弦汰",
+        "email": "genta.ashikawa@himacs.co.jp",
+        "text": "ただいま出席登録を行いました。対応が遅くなってしまい大変申し訳ございません。ご確認のほどよろしくお願いいたします"
+      },
+      {
+        "author": "26168平松利樹人",
+        "email": "rikito.hiramatsu@himacs.co.jp",
+        "text": "ただいま出席登録いたしました。\n遅れてしまい、申し訳ございません。"
+      },
+      {
+        "author": "26152奈須田潤平",
+        "email": "jumpei.nasuda@himacs.co.jp",
+        "text": "ただいま登録いたしました。\nお手数のほどをおかけしてしまい、申し訳ございませんでした。"
+      },
+      {
+        "author": "26123神林響",
+        "email": "satoshi.kambayashi@himacs.co.jp",
+        "text": "ただいま出席登録いたしました。\n遅れてしまい、大変申し訳ございません。"
+      },
+      {
+        "author": "26126粨本佳純",
+        "email": "kasumi.kojimoto@himacs.co.jp",
+        "text": "ただいま出席登録いたしました。\n遅れてしまい、大変申し訳ございません。"
+      }
+    ]
+  },
+  {
+    "ts": "1779937531.740039",
+    "datetime_jst": "2026-05-28 12:05:31",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\n*Javaのおススメ書籍*\nスッキリわかるJava入門 第4版\n<https://www.amazon.co.jp/%E3%82%B9%E3%83%83%E3%82%AD%E3%83%AA%E3%82%8F%E3%81%8B%E3%82%8BJava%E5%85%A5%E9%96%80-%E7%AC%AC4%E7%89%88-%E3%82%B9%E3%83%83%E3%82%AD%E3%83%AA%E3%82%8F%E3%81%8B%E3%82%8B%E5%85%A5%E9%96%80%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-%E4%B8%AD%E5%B1%B1-%E6%B8%85%E5%96%AC/dp/4295017930/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=2OLRU04T5TVHH&dib=eyJ2IjoiMSJ9.GnT1YI7n889RwYx4_tgZO9oWOYRjvzwUIn8LBisQMqdU7qmYZi3HRzDUpSH5TuNpTh3r5Np9ofMXiYlMHwfgh41cArnSpJCctg6wWMEuSILnk76Ge-xUP_ieC_m5CMgCM9QiMJgM2zr8EK_MwBAROYdasjw8uFCV9axmWMuI5qBeNjOq28oA9YLt8BwtoDyZd340KOHLdLBXMUc4R8sEz9yZJJ1UOnnip6LigwDk-03nXXOzqd3zmgyP7nLOYFHTsrreLRSJhg4C15OZO6aQlaoIukO1FUmMVNZ7Y87v-vM.Z7yCkgJVs3qvgMbC-1CAsAieFQRzMtoKXanXo710BB8&dib_tag=se&keywords=java+%E3%81%99%E3%81%A3%E3%81%8D%E3%82%8A&qid=1779936687&sprefix=java+%E3%81%99%E3%81%A3%E3%81%8D%E3%82%8A%2Caps%2C209&sr=8-1|https://www.amazon.co.jp/%E3%82%B9%E3%83%83%E3%82%AD%E3%83%AA%E3%82%8F%E3%81%8B%E3%82[…]java+%E3%81%99%E3%81%A3%E3%81%8D%E3%82%8A%2Caps%2C209&sr=8-1>\n\n中古の本も安いのでおススメです。\nまた、第3版や第2版でも十分通用しますので、第4版が売り切れの場合は「スッキリわかるJava入門 第3版」などで調べてみてください。",
+    "reactions": "eyes (22), +1 (2)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1779943162.012259",
+    "datetime_jst": "2026-05-28 13:39:22",
+    "author": "IA_金谷優太",
+    "email": "yuta.kanaya@softcommu.com",
+    "text": "*本日の面談予定について*\n本日の面談の予定をお伝えいたします。\n1人目が16：00～、2人目が16：20～\n時間になりましたら各講師のブレイクアウトルームまでお越しください。\nこちらからアナウンスはしませんのでご注意ください。",
+    "reactions": "+1 (14)",
+    "files": "image.png (ID: F0B6N28CS8J, image/png, 21.5 KB)",
+    "replies": []
+  },
+  {
+    "ts": "1779952045.178289",
+    "datetime_jst": "2026-05-28 16:07:25",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\n【連絡】データベースとSQLのテスト前の練習\nSQLの自分の理解度が図りづらい、というお声をちらほら聞きますので、\n本日と明日で、BOHRの小テストにて理解度を計ってみてください。\n講師側としてもサポートの声を掛けやすくなりますので一度お試しください。\n\nまた、データベースに限らず、小テストは自由に受けていただいて結構です。\n（余裕がある方は、データベースの「本試験」のテストも受けて構いません。）\n\n▼右上の「講座」から絞り込みをしてから受験すると良いです。",
+    "reactions": "eyes (44), raised_hands (4), white_check_mark (6)",
+    "files": "image.png (ID: F0B6QHV7EU9, image/png, 105.9 KB)",
+    "replies": []
+  },
+  {
+    "ts": "1780014239.995899",
+    "datetime_jst": "2026-05-29 09:23:59",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\n本日の予定\n・9:20-9:30 鈴木　ミニ講義\n・930-10:30 岡野　SpringBootプロジェクトのNW対応（9:30-12:00でMySQLのダウンロードを並行して実施）\n・10:40-12:30 村林　SpringBoot+Vaadin\n・13:30-14:00 岡野 MySQLインストール\n・14:00-15:00 村林　SpringBoot+Vaadin\n・15:00-16:00 ー　Java再テスト、合格者は復習",
+    "reactions": "white_check_mark (47)",
+    "files": "SpringBootプロジェクト作成.pdf (ID: F0B6PL29GAX, application/pdf, 1.1 MB), ダウンロード順番.xlsx (ID: F0B6PL51M7D, application/vnd.openxmlformats-officedocument.spreadsheetml.sheet, 13.5 KB)",
+    "replies": []
+  },
+  {
+    "ts": "1780015771.856129",
+    "datetime_jst": "2026-05-29 09:49:31",
+    "author": "広瀬智子",
+    "email": "hrs37cda@gmail.com",
+    "text": "<@U0AQ823KGAK|26123神林聡>\n<@U0AQX3X86LV|26166平岡学>\n\n【連絡】\n本日、9:48 時点で上記の方が出席ボタンを押されていません。\n朝、忘れずに出席ボタンを押し、早退や遅刻のメモもするようにお願いします\n\n研修開始から2か月ほど経過していますが、何度もこのアナウンスがされています。\n出欠登録を忘れがちな方は、ご自身の習慣を見直しましょう。",
+    "reactions": null,
+    "files": null,
+    "replies": [
+      {
+        "author": "26123神林響",
+        "email": "satoshi.kambayashi@himacs.co.jp",
+        "text": "ただいま出席登録いたしました。\n遅れてしまい、大変申し訳ございません。"
+      },
+      {
+        "author": "26166平岡学",
+        "email": "gaku.hiraoka@himacs.co.jp",
+        "text": "出席登録いたしました。お手間をおかけし大変申し訳ありません。"
+      }
+    ]
+  },
+  {
+    "ts": "1780025491.779789",
+    "datetime_jst": "2026-05-29 12:31:31",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\n【連絡】他己評価の共有\nたくさんのご記入、ありがとうございます。\nリモートワーク中は助け合いの大切さを実感されている方が多いかもしれませんね。\n\nぜひフォロワーシップ、相手目線、チーム貢献、研修貢献の観点で、引き続きフィードバックお願いします。",
+    "reactions": "white_check_mark (36)",
+    "files": "他己評価0529.xlsx (ID: F0B6TEW2L5T, application/vnd.openxmlformats-officedocument.spreadsheetml.sheet, 26.1 KB)",
+    "replies": []
+  },
+  {
+    "ts": "1780032694.389299",
+    "datetime_jst": "2026-05-29 14:31:34",
+    "author": "広瀬智子",
+    "email": "hrs37cda@gmail.com",
+    "text": "*本日の面談予定について*\n本日の面談の予定をお伝えいたします。\n1人目が16：00～、2人目が16：20～\n時間になりましたら各講師のところまでお越しください。\nこちらからアナウンスはしませんのでご注意ください。",
+    "reactions": "+1 (5)",
+    "files": "image.png (ID: F0B70FPGEJY, image/png, 37.1 KB)",
+    "replies": []
+  },
+  {
+    "ts": "1780034619.130639",
+    "datetime_jst": "2026-05-29 15:03:39",
+    "author": "広瀬智子",
+    "email": "hrs37cda@gmail.com",
+    "text": "【重要】本日の面談の時間変更のお知らせ\n再テスト実施により時間と順番を一部変更します。\n本日の該当者のみなさんは、お手数ですが再度ご確認のうえ\nお越し下さい。\n※お一人目が15：50～の前倒しで開始します。",
+    "reactions": "+1 (7)",
+    "files": "image.png (ID: F0B715XMPEY, image/png, 38.0 KB)",
+    "replies": []
+  },
+  {
+    "ts": "1780036059.812279",
+    "datetime_jst": "2026-05-29 15:27:39",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\nJavaの再テストを16:10～17:25にて行います。（また、再テストは75分間でなく、70分間で実施します）\n\n16:10に寺子屋スペースにお集まりください。",
+    "reactions": "+1 (15)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1780275331.290979",
+    "datetime_jst": "2026-06-01 09:55:31",
+    "author": "広瀬智子",
+    "email": "hrs37cda@gmail.com",
+    "text": "*<@U0AQJNZJM3R|26119金谷剛至>* \n【連絡】\n本日、9:54 時点で上記の方が出席ボタンを押されていません。\n朝、忘れずに出席ボタンを押し、早退や遅刻のメモもするようにお願いします。",
+    "reactions": "white_check_mark (5)",
+    "files": null,
+    "replies": [
+      {
+        "author": "26119金谷剛至",
+        "email": "takeru.kanaya@himacs.co.jp",
+        "text": "申し訳ございません。登録しました。以後気を付けます。"
+      }
+    ]
+  },
+  {
+    "ts": "1780290514.327209",
+    "datetime_jst": "2026-06-01 14:08:34",
+    "author": "広瀬智子",
+    "email": "hrs37cda@gmail.com",
+    "text": "*本日の面談予定について*\n本日の面談の予定をお伝えいたします。\n1人目が16：00～、2人目が16：20～\n時間になりましたら各講師のところまでお越しください。\nこちらからアナウンスはしませんのでご注意ください。",
+    "reactions": "white_check_mark (6)",
+    "files": "image.png (ID: F0B6WN4C3AT, image/png, 39.4 KB)",
+    "replies": []
+  },
+  {
+    "ts": "1780295480.686829",
+    "datetime_jst": "2026-06-01 15:31:20",
+    "author": "IA_金谷秀二",
+    "email": "shuji.kanaya@softcommu.com",
+    "text": "Thread: 85 replies (latest: 2026-06-01 17:23:49 JST)",
+    "reactions": null,
+    "files": "課題1_すごろく.pdf (ID: F0B767E4AHH, application/pdf, 220.2 KB)",
+    "replies": []
+  },
+  {
+    "ts": "1780297397.263229",
+    "datetime_jst": "2026-06-01 16:03:17",
+    "author": "26159橋浦蓮",
+    "email": "ren.hashiura@himacs.co.jp",
+    "text": "Files: Sugoroku.java (ID: F0B79D2MP61, text/plain, 99 Bytes)",
+    "reactions": null,
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1780297455.719169",
+    "datetime_jst": "2026-06-01 16:04:15",
+    "author": "26118加藤涼雅",
+    "email": "ryoga.kato@himacs.co.jp",
+    "text": "Files: Sugoroku.java (ID: F0B873SVA80, text/plain, 1.5 KB)",
+    "reactions": null,
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1780297465.524859",
+    "datetime_jst": "2026-06-01 16:04:25",
+    "author": "鈴木文太",
+    "email": "bunta.suzuki@himacs.co.jp",
+    "text": "26139 鈴木文太です。",
+    "reactions": null,
+    "files": "b2270u0152.zip (ID: F0B7EKNHBHP, application/zip, 1.1 KB)",
+    "replies": []
+  },
+  {
+    "ts": "1780297699.060459",
+    "datetime_jst": "2026-06-01 16:08:19",
+    "author": "26133庄司帆希",
+    "email": "homare.shoji@himacs.co.jp",
+    "text": "26133庄司帆希です。",
+    "reactions": null,
+    "files": "26133庄司帆希.zip (ID: F0B6XBTTRLP, application/zip, 924 Bytes)",
+    "replies": []
+  },
+  {
+    "ts": "1780297890.013819",
+    "datetime_jst": "2026-06-01 16:11:30",
+    "author": "26111井上丈大",
+    "email": "Takeo.Inoue@himacs.co.jp",
+    "text": "よろしくお願いします",
+    "reactions": null,
+    "files": "Sugoroku.java (ID: F0B79EQ4SSH, text/plain, 1.4 KB)",
+    "replies": []
+  },
+  {
+    "ts": "1780298657.414449",
+    "datetime_jst": "2026-06-01 16:24:17",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\n【連絡】Java2回目の再テストの結果を共有します。\n\nぜひ間違えた問題の理解に努めてください。\n配属前には、100点で当然、という状況を目指しましょう。",
+    "reactions": "white_check_mark (23)",
+    "files": "第2回目再テスト結果.pdf (ID: F0B76GWB9A7, application/pdf, 213.9 KB)",
+    "replies": []
+  },
+  {
+    "ts": "1780358520.204939",
+    "datetime_jst": "2026-06-02 09:02:00",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "進捗アンケート\n<https://forms.gle/4mCLhnnRLKUiFtvR8>",
+    "reactions": "white_check_mark (35), +1 (1)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1780365826.099679",
+    "datetime_jst": "2026-06-02 11:03:46",
+    "author": "IA_金谷優太",
+    "email": "yuta.kanaya@softcommu.com",
+    "text": "本日のフォロー面談の予定です。\n表に記載されている方は、担当講師席に順番にお越しください。\n前の方の面談が終了したら講師が次の方を呼びますので、お待ち下さい。",
+    "reactions": "white_check_mark (19)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1780366285.674779",
+    "datetime_jst": "2026-06-02 11:11:25",
+    "author": "広瀬智子",
+    "email": "hrs37cda@gmail.com",
+    "text": "<@U0AQH7GS50F|26122辛川友斗>\n<@U0AQY0UNZC6|26137菅谷勝弘>\n<@U0AQM95FUT0|26158西村　優生>\n【連絡】\n本日、11:10時点で上記の方が出席ボタンを押されていません。\n朝、忘れずに出席ボタンを押し、早退や遅刻のメモもするようにお願いします。\n毎日アナウンスが必要なのは大変残念な状況です。\n研修中に自律的な行動が出来るよう、取り組みをお願い致します。",
+    "reactions": null,
+    "files": null,
+    "replies": [
+      {
+        "author": "辛川友斗",
+        "email": "yuto.karakawa@himacs.co.jp",
+        "text": "先ほど出席登録いたしました。\n申し訳ございません"
+      },
+      {
+        "author": "26158西村　優生",
+        "email": "yusei.nishimura@himacs.co.jp",
+        "text": "先ほど出席登録いたしました。\n申し訳ございません"
+      },
+      {
+        "author": "26137菅谷勝弘",
+        "email": "katsuhiro.sugaya@himacs.co.jp",
+        "text": "先程提出いたしました。申し訳ございませんでした。"
+      }
+    ]
+  },
+  {
+    "ts": "1780383522.576229",
+    "datetime_jst": "2026-06-02 15:58:42",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\nすごろくゲームの次のステップアップぐらいのレベル感の課題を用意しました。\n「仕様を読んでもコード化できない」という方の練習用です。\nすごろくゲームのリベンジをしたい方はお試しください。\n\n試してみてできた！という方はスレッド返信にてお知らせください。",
+    "reactions": "white_check_mark (22)",
+    "files": "課題2_数当てクラス基礎.pdf (ID: F0B7FLTDCMR, application/pdf, 294.4 KB)",
+    "replies": [
+      {
+        "author": "26152奈須田潤平",
+        "email": "jumpei.nasuda@himacs.co.jp",
+        "text": "完成しました"
+      }
+    ]
+  },
+  {
+    "ts": "1780385698.961049",
+    "datetime_jst": "2026-06-02 16:34:58",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\n【連絡】３点ご連絡です。\n①すごろくゲームの回答サンプルを共有します。学習の参考にしてください。\n\n②6/3(水)「システム設計」、6/4(木)「モジュール分割」、6/5 (金)のテキストを受け取ってください。\n\n③自分がどこまでできているかを確認するチェック項目（昨日、村林さんが提示したものの詳細版です）を共有しますので、\n投稿をお願いできますか？（すでに面談時に投稿いただいた方は不要です）\n\n▼Java理解セルフチェック\n<https://forms.gle/7KhEvtX48WnF1aHY8>",
+    "reactions": "raised_hands (22)",
+    "files": "Sugoroku.java (ID: F0B7Q3V7FRP, text/plain, 1.9 KB)",
+    "replies": []
+  },
+  {
+    "ts": "1780455687.585599",
+    "datetime_jst": "2026-06-03 12:01:27",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!channel>\n【避難指示に関して】\nみなさん屋内にいるので、危険な場所からの非難は不要ですが、\n自宅が崖下や、氾濫しやすい河川や海の近くかどうかで変わるようです。\n\nその判断は、ハザードマップに沿っておこなうべき、ということのようです。\n該当しなければ、そのまま研修を受けるということになりそうです。\n\n現在の場所が該当するか確認お願いします。\n該当している：:white_check_mark:\n微妙な位置：:eyes:\n該当しない：:raised_hands:\n\n洪水ハザードマップ\n<https://www.pref.kanagawa.jp/docs/f4i/bosai/hm.html>\n\n土砂災害ハザードマップ\n<https://www.city.yokohama.lg.jp/business/bunyabetsu/kenchiku/bosai/gake/hmap.html>\n\n※いったん、避難指示が出ているかどうかに関わらず、場所の情報だけで、リアクションをお願いします。",
+    "reactions": "raised_hands (61), eyes (20), white_check_mark (2)",
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_岡野隼",
+        "email": "j_okano@internetacademy.co.jp",
+        "text": "メモ：金谷剛至さんslack開けず。危険地域には該当しない"
+      }
+    ]
+  },
+  {
+    "ts": "1780535054.087019",
+    "datetime_jst": "2026-06-04 10:04:14",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\n【電話・メールのワーク資料】\nまずは3人チームを作成して、顧客役、スタッフ役、フィードバック役をきめてください。（じゃんけん等でOKです）\nその担当ごとにファイルを見て始めていきます。",
+    "reactions": "+1 (55), +1::skin-tone-6 (1)",
+    "files": "03_フィードバック役シート.txt (ID: F0B82AGHE77, text/plain, 4.0 KB), 01_顧客役シート.txt (ID: F0B89ANMC20, text/plain, 4.2 KB), 02_スタッフ役シート.txt (ID: F0B7Q86E91V, text/plain, 3.4 KB)",
+    "replies": []
+  },
+  {
+    "ts": "1780536408.027269",
+    "datetime_jst": "2026-06-04 10:26:48",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "参考\n接客業などでよく使われる、文法的に間違った「バイト敬語（コンビニ敬語）」の代表例は以下の5つです。\n\n\n*1. 「〜のほう」*\n• :x: NG例：「お会計のほうは、1,000円になります」\n• :o: 正解：「お会計は、1,000円になります」\n• 解説： 方角や比較対象を示す言葉なので、単一のものを指すときには不要です。\n\n*2. 「〜になります」*\n• :x: NG例：「こちら、唐揚げ定食になります」\n• :o: 正解：「こちら、唐揚げ定食でございます」\n• 解説：「〜になります」は状態の変化（水が氷になる等）を表す言葉なので、すでに完成した料理には使いません。\n\n*3. 「〜からお預かりします」*\n• :x: NG例：「1万円からお預かりします」\n• :o: 正解：「1万円お預かりします」\n• 解説：「から」をつけると、お金以外のものからも預かるような不自然な意味になってしまいます。\n\n*4. 「なるほどですね」*\n• :x: NG例：「なるほどですね、承知いたしました」\n• :o: 正解：「おっしゃる通りですね / さようでございますか」\n• 解説：「なるほど」は上の人が下の人を評価する言葉です。「ですね」をつけても目上の人に対して使うのは失礼にあたります。\n\n*5. 「お名前を頂戴できますか」*\n• :x: NG例：「お名前を頂戴できますか」\n• :o: 正解：「お名前をお伺いできますか」\n• 解説：「頂戴する」は物をもらうときに使う言葉です。名前は物質ではないため、もらうことはできません。",
+    "reactions": "+1 (35), ok_hand (1)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1780536686.834039",
+    "datetime_jst": "2026-06-04 10:31:26",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\n【報連相のワーク資料】\nまずはA,B,Cさんを作ります。\n\n手順①\n「○×商事様からのサーバーダウンのクレーム電話」の報告練習\n\n１．3名で１チームを作る。Aさん、Bさん、Cさんを決める。（1分）\n２．AさんとBさんの2名がワーク資料を読む（3分）\n３．AさんがCさんに報告をする（3分）\n４．何も知らないCさんから、分からなかったことを質問してAさんが回答する（2分）\n５．BさんからAさんに、良かった点や改善点を「Good & Motto」でフィードバックする（2分）\n\n６．今度はBさんからCさんに報告をする（3分）\n７．CさんからBさんに分からなかったことを質問する（2分）\n８．AさんとCさんから、Bさんの報告に対して「Good & Motto」でフィードバックをする（2分）\n９．講師から良い例と悪い例を紹介する（3分）\n10．3人で再度、できていた点と改善点を確認、検討する（3分）\n\n\n手順②\n「システム納品後の挨拶と完了報告のための訪問」の報告練習\n\n１．同じ3名で1チームを作る（0分）\n２．BさんとCさんの2名がワーク資料を読む（3分）\n３．BさんがAさんに報告をする（3分）\n４．何も知らないAさんから、分からなかったことを質問してBさんが回答する（2分）\n５．CさんからBさんに、良かった点や改善点を「Good & Motto」でフィードバックする（2分）\n\n６．今度はCさんからAさんに報告をする（3分）\n７．AさんからCさんに分からなかったことを質問する（2分）\n８．AさんとBさんから、Cさんの報告に対して「Good & Motto」でフィードバックをする（2分）\n９．講師から良い例と悪い例を紹介する（3分）\n10．3人で再度、できていた点と改善点を確認、検討する（3分）",
+    "reactions": "+1 (52)",
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_岡野隼",
+        "email": "j_okano@internetacademy.co.jp",
+        "text": "ワーク①ＡさんとＢさんが読む資料、ワーク②ＢさんとＣさんが読む資料、良い例と悪い例（全員閲覧OK）を共有。"
+      }
+    ]
+  },
+  {
+    "ts": "1780541522.238879",
+    "datetime_jst": "2026-06-04 11:52:02",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!channel>\n【連絡】開発プロセステスト範囲について\n\n明日は朝でなく、`13:30から`に開発プロセスのテストを実施します。\nこのテストは`参照不可`です。\nすべて`記述式`の問題ですので、用語を覚えると同時に、\n説明できるレベルまで理解しておいてください。\n\n田村さんからイントロダクションで説明していただいた、導入教育の技術面での大きな目標ですので、しっかり復習してください。\n特に下記内容について、重点的に復習＆理解しておいてください。\n\n＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝\n(1) ウォーターフォール開発モデルの各工程が書けるように（要件定義～総合テストまで、V字モデルと呼ぶ）\n\n(2) ウォーターフォール開発モデルの基本設計と詳細設計の違いを説明できるように\n\n(3) 請負契約と準委任契約の違いを説明できるように\n\n　請負 ⇒ 成果物の完成責任あり、準委任 ⇒ 成果物の完成責任なし\n\n(4) ウォーターフォール開発モデルのメリットとデメリットを説明できるように\n\n(5) オンプレミスサーバーとクラウドサーバーの違いとそれぞれのメリット、デメリットを説明できるように\n\n(6) 成果物には必ず複数人で内容を確認する「レビュー」の重要性を説明できるように\n\n(7) プロジェクトマネージャーの一般的な仕事内容を説明できるように\n\n(8) オンライン処理とバッチ処理の違いを説明できるように\n\n(9) システムの機能要件と非機能要件が何を指すのか説明できるように\n\n　機能要件 ⇒ システムが提供すべき具体的な機能やサービスの要件(例: 登録機能、検索機能、削除機能など)\n\n　非機能要件 ⇒ システムの性能や品質、運用に関する要件\n\n　　　　　　　　(例:レスポンスは5秒以内、バックアップの取り方、ストレージの容量など)\n\n(10) アジャイル開発の開発方法を説明できるように\n\n　短い間で開発を反復的に繰り返す、その工程をイテレーション、スプリントなどと呼ぶ\n\n(11) クラス図の描き方を理解しておく\n\n＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝\nLMSにある「システム開発基礎」の小テストなども基礎理解の確認になります。\n繰り返し受けても良いかと思います。\nただしテストは記述式なので、今度は自分で書いて説明できるように、学習してください。\n\n以上、よろしくお願いいたします。",
+    "reactions": "white_check_mark (65)",
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_岡野隼",
+        "email": "j_okano@internetacademy.co.jp",
+        "text": "@channel\n現在実施しているプロジェクトマネジメントの内容も、開発プロセスの範囲に被るところがあります。\nそのためPMの仕事、管理範囲などもテストにも出ます。\nそのつもりで学習してください。よろしくお願いいたします。"
+      }
+    ]
+  },
+  {
+    "ts": "1780552249.809699",
+    "datetime_jst": "2026-06-04 14:50:49",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\n【連絡】06/03時点の他己評価の共有\n引き続きたくさんのご記入、ありがとうございます。\n\nまだあまり記載をしていない方は投稿お願いします。\n\nぜひフォロワーシップ、相手目線、チーム貢献、研修貢献の観点で、引き続きフィードバックお願いします。",
+    "reactions": "raised_hands (25)",
+    "files": "他己評価_0604.xlsx (ID: F0B80PPJAD9, application/vnd.openxmlformats-officedocument.spreadsheetml.sheet, 22.1 KB)",
+    "replies": []
+  },
+  {
+    "ts": "1780556402.055399",
+    "datetime_jst": "2026-06-04 16:00:02",
+    "author": "広瀬智子",
+    "email": "hrs37cda@gmail.com",
+    "text": "お待たせいたしました！新座席表です。",
+    "reactions": "eyes (19), clap (4)",
+    "files": "★座席表_20260604【開発演習】.xlsx (ID: F0B91PBBAUQ, application/vnd.openxmlformats-officedocument.spreadsheetml.sheet, 15.6 KB)",
+    "replies": []
+  },
+  {
+    "ts": "1780615101.089529",
+    "datetime_jst": "2026-06-05 08:18:21",
+    "author": "田村弘志(研修担当)_ﾊｲﾏｯｸｽ",
+    "email": "h-tamura@himacs.co.jp",
+    "text": "<!here>\n本日6/5の欠席者です。\n\n糀本さん（発熱37.5度、倦怠感等）\n宇賀神さん　6月5日午前欠席\n\nお手数ですが、糀本さんの開発プロセステストは来週実施をお願いします。\nご迷惑をおかけし、申し訳ございませんが、よろしくお願いいたします。",
+    "reactions": "white_check_mark (9), woman-bowing (1)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1780636949.843169",
+    "datetime_jst": "2026-06-05 14:22:29",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\n【文章力強化　要件定義系の演習】\n\n流れ\n①この後提示する「状況設定」を読み、「お題」に沿って文章を書いてください。\n②書き終わったら、別紙のAIチェック用プロンプトを元に生成AIに投稿して添削を受けてください\n③ペアで見せ合って、反省シートをもとに`（記入でなく）`会話して、できていること、できていないことを話してください\n\n２～３つのテーマで文章力強化の演習をします。（時間調整で２～３つの実施予定です）",
+    "reactions": "white_check_mark (53)",
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_岡野隼",
+        "email": "j_okano@internetacademy.co.jp",
+        "text": "（状況設定・お題・Googleフォームを提示）<https://forms.gle/voKcsPKyUrXNuZam8>"
+      },
+      {
+        "author": "広瀬智子",
+        "email": "hrs37cda@gmail.com",
+        "text": "●批判厳禁\n　どんな意見も「いいね！」で受け止める\n    ×「ありえない」×「そんなの無理」×「現実的じゃない」\n●自由な発想\n　固定概念にとらわれず、ユニークな発想大歓迎\n　※ただし脱線しすぎ、ふざけるはNG\n\n●便乗OK\n　他の人の意見にどんどん乗っかろう\n\n●質より量\n　とにかくたくさんアイデア発散"
+      }
+    ]
+  },
+  {
+    "ts": "1780878878.240859",
+    "datetime_jst": "2026-06-08 09:34:38",
+    "author": "26174古川尚弥",
+    "email": "naoya.furukawa@himacs.co.jp",
+    "text": "クリップの新たな用途につきまして共有いたします。\n\n鍵のピッキング\nネズミ捕り\nおはじき\nフック",
+    "reactions": "pray (4)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1780897945.156919",
+    "datetime_jst": "2026-06-08 14:52:25",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!channel>\n【連絡】開発プロセスのテスト結果\n\n開発プロセスのテスト結果をご連絡いたします。\n７０点未満が不合格ですが、以前のJavaテストやしりとりの課題の時にお伝えしたように、\n*最低ラインが70点なだけであり、本来的にはもっとできていて欲しい課題となります。*\n\n今回の開発プロセステストでは９０点がそのラインかなと思います。\n（表記ゆれ等があり*部分点が多めについているためです*）\n\n９０点未満の方は必ず見返して、正確な用語を覚え、また概念の問題については概念を理解をするようにしてください。\n\nまた、*未受験者*は、本日`06/08(月) 16:25～17:10`にてテストを実施します。\n*不合格者*は、明日`06/09(火) 16:00以降`（明日またご連絡）に実施します。\n\n以上、よろしくお願いいたします。\n\n▼各自の確認用URL\n<http://ec2-13-113-138-157.ap-northeast-1.compute.amazonaws.com/login/>\n\n▼テスト結果",
+    "reactions": "white_check_mark (32), grinning (2), スクリーンショット-33 (2)",
+    "files": "0608開発プロセステスト結果.pdf (ID: F0B8W0RQFSS, application/pdf, 360.6 KB)",
+    "replies": []
+  },
+  {
+    "ts": "1780902390.456289",
+    "datetime_jst": "2026-06-08 16:06:30",
+    "author": "IA_金谷優太",
+    "email": "yuta.kanaya@softcommu.com",
+    "text": "<!channel>\n【連絡】Slackのチャンネル参加に関して\n新たに、チーム1-15までのSlackのチャンネルを開設しました。\nご自身のチームのチャンネルに水曜日までに参加してください。\n水曜日から始まる開発演習では、各チームと講師とのやり取りを各チャンネルを使用して行います。\nチームのチャンネル名はデフォルトで「チーム〇〇」となっていますが、チーム名も相談して決めたものに変更したいと思います。\n各チームのチャットでチーム名を教えて頂ければこちらで変更しますので、チャットにて共有してください。\nよろしくお願いいたします。\n\n※ご自身のチームは下記のスクショの検索ボックスから検索出来ます。",
+    "reactions": "wink (37)",
+    "files": "image.png (ID: F0B8S7T1P6F, image/png, 34.3 KB)",
+    "replies": []
+  },
+  {
+    "ts": "1781056539.148619",
+    "datetime_jst": "2026-06-10 10:55:39",
+    "author": "IA_村林良胤",
+    "email": "m_yoshitsugu@hotmail.com",
+    "text": "Reactions: pen3 (22)",
+    "reactions": null,
+    "files": "WinMerge-2.16.56.2-x64-Setup.exe (ID: F0B9GH3F73L, application/vnd.microsoft.portable-executable, 13.9 MB)",
+    "replies": []
+  },
+  {
+    "ts": "1781066031.704129",
+    "datetime_jst": "2026-06-10 13:33:51",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\nGitHubのチーム開発用のリポジトリをPublicにしている人は、念のためPrivateにしておきましょう。\n（個人ごとの練習用のリポジトリはどちらでもかまいません）\n\n▼変更方法\n<https://qiita.com/HyunwookPark/items/1d24972dd71612eb81c9>",
+    "reactions": "+1 (6)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1781069442.886619",
+    "datetime_jst": "2026-06-10 14:30:42",
+    "author": "IA_中村圭佑",
+    "email": "keitakubr@gmail.com",
+    "text": "*<!here> 本日のチーム報告について*\n本日のチーム報告の予定と担当講師をお伝えいたします。\n1班目が15：00～、2班目が15：20～，3班目が15：40～　です。\n時間になりましたら各チームの報告者１～２名，講師のところまでお越しください。\nその時間までに，チームのガントチャートと本日の成果品をSlackのご自身のチームに投稿してください。\nこちらからアナウンスはしませんのでご注意ください。",
+    "reactions": "no_mouth (26), full_moon_with_face (2), pray (1), white_check_mark (3)",
+    "files": "image.png (ID: F0B922JRJ4F, image/png, 13.6 KB)",
+    "replies": []
+  },
+  {
+    "ts": "1781071107.319849",
+    "datetime_jst": "2026-06-10 14:58:27",
+    "author": "IA_村林良胤",
+    "email": "m_yoshitsugu@hotmail.com",
+    "text": "Reactions: white_check_mark (1)",
+    "reactions": null,
+    "files": "チームガントチャート.xlsx (ID: F0B9FKVSB3Q, application/vnd.openxmlformats-officedocument.spreadsheetml.sheet, 14.2 KB)",
+    "replies": []
+  },
+  {
+    "ts": "1781078751.134219",
+    "datetime_jst": "2026-06-10 17:05:51",
+    "author": "26161橋本陸人",
+    "email": "rikuto.hashimoto@himacs.co.jp",
+    "text": "日直の当番表です。",
+    "reactions": "melting_face (2), full_moon_with_face (1), 100 (1)",
+    "files": "当番表.xlsx (ID: F0B9F697SCD, application/vnd.openxmlformats-officedocument.spreadsheetml.sheet, 17.2 KB)",
+    "replies": []
+  },
+  {
+    "ts": "1781078798.090759",
+    "datetime_jst": "2026-06-10 17:06:38",
+    "author": "IA_丸本善利",
+    "email": "marubomu@gmail.com",
+    "text": "<@U0AQSTQFH8U|26161橋本陸人>\nありがとうございます！",
+    "reactions": null,
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1781078873.860539",
+    "datetime_jst": "2026-06-10 17:07:53",
+    "author": "IA_丸本善利",
+    "email": "marubomu@gmail.com",
+    "text": "本日の当番の方々にホスト及び共同ホストを付与いたしました。\n夕会前にZOOMを閉じていただけると幸いです。",
+    "reactions": "eyes (6)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1781143268.452499",
+    "datetime_jst": "2026-06-11 11:01:08",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\nチーム開発の開始にあたり、個人でのビジネススキルの目標とテクニカルスキルの目標を立てましょう。\n\n以下のステップで目標を立ててみましょう。\nビジネススキル\n１．現在思いつくビジネススキルの課題を挙げる、できている状態を挙げる\n２．生成AIやネット検索で「新人が身に着けるべきビジネススキル」などで調べてみる\n３．SMARTの法則に沿って目標の文章にしてみる\n４．生成AIにチェックしてもらう\n５．自分で納得しやすい目標に書き直す（生成AIチェックを繰り返してもOK）\n\nテクニカルスキル\n６．同様に、自分の課題、できている状態を挙げる\n７．生成AIを活用して、SMARTの法則に沿った目標の文章にする\n８．下記フォームに投稿する\n\n▼各自の目標の投稿フォーム\n<https://docs.google.com/forms/d/1GeTBMCYVHslMWeq9wvLyRIycOPAgByhBvyIxvJYcF0U/edit>\n\n▼参考：SMARTの法則\n<https://www.kaonavi.jp/dictionary/smart-criteria/>\n\n▼生成AIへのプロンプト\n```あなたは企業研修の講師です。\n\n私は4月から新入社員研修として2ヵ月間基礎からエンジニア研修を受け、6/10～6/29の期間でJavaでWebシステムをチーム開発します。\n\n以下の目標について、SMARTの法則（Specific、Measurable、Achievable、Relevant、Time-bound）の観点で評価してください。\n\n■評価してほしい内容\nビジネススキル目標\n\n（ここに記入）\n\nテクニカルスキル目標\n\n（ここに記入）\n\n■添削手順\n・SMARTの5項目について5点満点で採点する\n・良い点を説明する\n・不足している点を説明する\n・SMARTの法則に沿うよう改善案を提示する\n・最後に100点満点で総合評価する\n\n■出力形式\nビジネススキル目標\n項目\t評価\tコメント\nSpecific（具体性）\t○/5\t\nMeasurable（測定可能性）\t○/5\t\nAchievable（達成可能性）\t○/5\t\nRelevant（関連性）\t○/5\t\nTime-bound（期限）\t○/5\t\n\n総合評価：○/100\n\n改善案：\n（改善後の目標文）\n\n\nテクニカルスキル目標\n\n同様に評価```",
+    "reactions": "white_check_mark (45), スクリーンショット-33 (2), full_moon_with_face (2), shaking_face (1)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1781148666.487329",
+    "datetime_jst": "2026-06-11 12:31:06",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!channel>\n【報告】開発プロセステスト結果（未受験者、再受験者含む）\n\n未受験者、再受験者含む結果がでました。\n全員合格となりました:tada:\nみなさんお疲れさまでした:raised_hands:\n\nただし、90点未満の方は必ず見返して正確な用語を理解して使えるようにしてください。\n研修期間中も、積極的に用語を使うようにしましょう。\n\n研修報告として、点数を記載することがあると思いますので、\n以下のデータと、初回受験結果を活用してご報告してください。",
+    "reactions": "full_moon_with_face (10)",
+    "files": "0611開発プロセステスト結果.pdf (ID: F0B9UMU9TFT, application/pdf, 363.8 KB)",
+    "replies": []
+  },
+  {
+    "ts": "1781152476.399029",
+    "datetime_jst": "2026-06-11 13:34:36",
+    "author": "IA_金谷優太",
+    "email": "yuta.kanaya@softcommu.com",
+    "text": "<!channel>\nチーム演習の日毎の担当講師表を共有いたします。\n毎日の進捗報告はシートに記載の担当講師にお願いいたします。\nまた班ごとの報告時間も、記載しています。\n記載されている時間になりましたら講師席にお越しください。\n\nまた報告時間までに、*チームの線表と各個人の線表どちらとも*Slackのご自身のチームに投稿してください。\n\n*投稿内容*：「本日の個人線表」と記載。なにか補足があれば記載も可\n*スレッド返信*：全員がそれぞれ線表を投稿。なにか補足があれば記載も可",
+    "reactions": "full_moon_with_face (9)",
+    "files": "担当講師表.xlsx (ID: F0B9LFUJ17V, application/vnd.openxmlformats-officedocument.spreadsheetml.sheet, 12.7 KB)",
+    "replies": [
+      {
+        "author": "IA_岡野隼",
+        "email": "j_okano@internetacademy.co.jp",
+        "text": "【2班、3班の方へ】\n6/11(木)の報告時間は、以下のように変更にてお願います。\n16:00　2班　岡野\n16:20　3班　岡野"
+      },
+      {
+        "author": "IA_岡野隼",
+        "email": "j_okano@internetacademy.co.jp",
+        "text": "@here\n優太さんの投稿のとおり、各チャンネルにて、全員の個人線表を毎日投稿してもらいますが、FMTを以下のようにします。\n\n*投稿内容*：「本日の個人線表」と記載。なにか補足があれば記載も可\n*スレッド返信*：全員がそれぞれ線表を投稿。なにか補足があれば記載も可"
+      }
+    ]
+  },
+  {
+    "ts": "1781153398.667669",
+    "datetime_jst": "2026-06-11 13:49:58",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\n【連絡】チーム目標投稿用\nこのメッセージのスレッド返信にて以下を投稿してください（本日14:20締切）\n\nチーム番号とチーム名：\nチーム目標：",
+    "reactions": "full_moon_with_face (21)",
+    "files": null,
+    "replies": [
+      {
+        "author": "鍵村和香",
+        "email": null,
+        "text": "チーム8「はちみつ」— ビジネススキル目標：主体的な報連相と適切な敬語を徹底し、毎日の進捗共有・15分以内の相談・課題への改善提案を通じて、認識ズレと手戻りの少ない円滑なチーム開発を実現する。／テクニカルスキル目標：設計レビューと日次の進捗管理・品質管理を徹底し、仕様変更を3回以内に抑えつつ担当機能を期限内に高品質（重大バグ0件）で完了する。"
+      },
+      {
+        "author": "26110井之上光希",
+        "email": null,
+        "text": "チーム9「今日の気分」— チーム開発期間中、毎日お昼前とワーク前の最低2回進捗共有を実施し、成果物についてはレビュー時にチームメンバー全員の合意（レビューOK）を取得することで、認識齟齬の発生件数を0件にする。"
+      },
+      {
+        "author": "26168平松利樹人",
+        "email": null,
+        "text": "チーム5「おっとNull」— チーム開発期間中、毎日講師報告の10分前までに、チームメンバーとSlackまたは対面で進捗共有を行い、全員の作業内容（担当・進捗・課題）を1分以内で説明できるよう整理する。"
+      },
+      {
+        "author": "芦川弦汰",
+        "email": null,
+        "text": "チーム番号3「ぴーす」— 業務中は1時間ごとに報連相をして、認識のズレが出ないようにする"
+      },
+      {
+        "author": "26174古川尚弥",
+        "email": null,
+        "text": "チーム15班「品質は担保します。」— チーム開発期間（6/10〜6/29）において、毎日最低1回の定例ミーティングまたはチャット上で、全メンバーが1回以上発言することの達成率100%を目指す。また、各発言に対して否定から入らない・一度肯定的に受け止めるコミュニケーションルールを遵守することを徹底する。"
+      },
+      {
+        "author": "米光七海",
+        "email": null,
+        "text": "チーム6「うさぎさんチーム」— 講師への報告では毎回「結論→理由→詳細」の順で1分以内に端的に説明し、フィードバックで「分かりやすい」と評価される状態を目指す。また、チーム内での認識齟齬を防ぐために、「昼休み前」と「夕会前」に必ず5分間の進捗共有と課題確認の時間を設け、全員が当日のタスク内容・進捗・課題を説明できる状態を維持する。"
+      },
+      {
+        "author": "26118加藤涼雅",
+        "email": null,
+        "text": "チーム2「S-PRO」— 報連相は「結論→理由→対応方針」の順で1日3回以上実施し、レビューで80%以上のメンバーから「分かりやすい」と評価される。不明点は発生から30分以内にチームメンバーまたは講師へ質問し、放置ゼロを達成する。発言前に要点を整理し、報告時に「結論ファースト」で話せた割合を自己評価・他者評価で80%以上とする。"
+      },
+      {
+        "author": "神保壱樹",
+        "email": null,
+        "text": "チーム01_EoV — チーム開発期間において、WBSの各タスク単位で見積もりと実績の工数差異を記録し、全体平均の誤差を50%以内に収める。"
+      },
+      {
+        "author": "26186和田郁穂",
+        "email": null,
+        "text": "チーム4「No Spinach, No Life」— ●報告・連絡：作業中は休憩後に必ず、進捗・変更・課題をチームメンバーに共有し、情報共有不足による手戻りや認識ズレを月1件以下に抑える状態を6月10日〜6月29日まで継続する。●相談：作業中に15分以上解決できない課題が発生した場合は、必ずチームメンバーまたは上司に相談し、自己判断による誤った実装や手戻りを月1件以下に抑える状態を6月10日〜6月29日の期間で継続する。"
+      },
+      {
+        "author": "蒲生慧人",
+        "email": null,
+        "text": "チーム11「プロセス重視HM」— 6月10日〜6月29日の期間中、毎日1回、昼休み前に上司に「進捗・課題」を含めた中間報告を行う。作業中に30分以上解決できない疑問が発生した場合は、その日のうちに最低1回、上司へ相談する。"
+      },
+      {
+        "author": "26123神林響",
+        "email": null,
+        "text": "チーム10「かぼちゃ組」— 開発期間終了（6/29）までに実装中に2時間以上を要する手戻り、または設計工程への手戻りを5件以下に抑える"
+      },
+      {
+        "author": "26169福川舞香",
+        "email": null,
+        "text": "チーム12「ルーキーズ」— 6月26日までに、これまでに決定したすべての機能要件を実装し、動作確認ができる状態でプロダクトを完成させる。"
+      },
+      {
+        "author": "26112内田香奈",
+        "email": null,
+        "text": "チーム13「キノコタケノコ」— 6月26日までにコミュニケーションミスによる手戻りを発生させない状態を目指す。具体的には、毎日3回以上（朝会・昼・夕方など）進捗共有と課題確認のミーティングを実施する、タスクの認識ズレによる手戻りを週1回以内に抑える、WBSの進捗率を日次で確認し、計画に対して平均80%以上の達成率を維持する、作業開始前に担当範囲と仕様をチーム内で必ず確認する。"
+      },
+      {
+        "author": "太田みゆ",
+        "email": null,
+        "text": "チーム14「Kansei×Hansei」— ■わかりやすいコード意識：各メソッド・クラス・重要な変数について、「役割が第三者に理解できる日本語コメント」を必ず記載する。レビュー時に「コメント不足・不明点指摘が3件以内」であることを達成基準とする（6/29まで）。■自分のしたことの説明：毎日15分、自分が実装した内容について「処理の流れ・目的・使った技術」を3分以内で説明する。チームメンバー全員が「聞き手からの質問に2件以上回答できる」状態を目標とする。約2回、AIを用いて説明内容を評価し、「理解度80%以上」と判定されること。■コミュニケーション：お昼前に進捗報告しまとめ、毎日報告の20分前にチームで進捗共有・成果物レビューを実施する。認識齟齬に関する指摘（仕様違い・認識違い）を「1日1件以内」に抑える。"
+      },
+      {
+        "author": "26138杉浦宥羽",
+        "email": null,
+        "text": "チーム7「七転び八起き」— 6/10〜6/29の期間中、1日2回以上の進捗報告と30分以内の相談を徹底し、遅れは1日以内に解消またはリカバリ計画を共有する。"
+      }
+    ]
+  },
+  {
+    "ts": "1781227060.621329",
+    "datetime_jst": "2026-06-12 10:17:40",
+    "author": "IA_金谷秀二",
+    "email": "shuji.kanaya@softcommu.com",
+    "text": "<!here>\nおはようございます。\n開発作業、試行錯誤されながら楽しんでおられるでしょうか。日報でもよい分析を記載されている方々もおられますので、Goodなサンプル例として共有します。\n\n「何か作業を開始するときや、チーム全体でやりたいことがあるときは、チーム全体に通達を行い、リーダーの承認を経て、チーム全体の意思を統一してから行う\n今他のメンバーが何をしているのか、分からないときは確認してメンバー全員が何をしているのか把握することを心掛ける」\n\n「班員間で理解が不十分でも遠慮して合意してしまう場面があると感じた。\nそのため、疑問点をその場で解消できる環境を作ることで、認識の相違や手戻りを防ぐことが重要であると考えた。」\n\nこれまで培ってこられた分析力や他者目線を通じて、ぜひいろいろ試しながら深掘りし、分析し、最適解を見い出してください。",
+    "reactions": "スクリーンショット-32 (17), +1 (9), saluting_face (2), smile_cat (1)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1781485585.305639",
+    "datetime_jst": "2026-06-15 10:06:25",
+    "author": "26165日向陽太",
+    "email": "hinata.hyuga@himacs.co.jp",
+    "text": "<!here> <@U0ADKMR0TL7|IA_中村圭佑>\nお疲れ様です。\n画面遷移図についてレビューをお願いしたいのですが、お時間大丈夫でしょうか。",
+    "reactions": null,
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1781485749.923949",
+    "datetime_jst": "2026-06-15 10:09:09",
+    "author": "26145高橋美咲",
+    "email": "misaki.takahashi@himacs.co.jp",
+    "text": "<@U0AEGNK18DU|IA_岡野浩之> お疲れ様です。画面デザイン図につきまして、レビューをお願いしたいのですが、お時間よろしいでしょうか。",
+    "reactions": "white_check_mark (1)",
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_岡野隼",
+        "email": "j_okano@internetacademy.co.jp",
+        "text": "26145高橋美咲さん\n私ですね。いったんブレイクアウトルームに入ります"
+      },
+      {
+        "author": "26145高橋美咲",
+        "email": "misaki.takahashi@himacs.co.jp",
+        "text": "よろしくお願いいたます。"
+      }
+    ]
+  },
+  {
+    "ts": "1781485779.976099",
+    "datetime_jst": "2026-06-15 10:09:39",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!channel>\n*【連絡】チーム開発にあたっての詳細設計の担当ルール*\n\n基本設計から詳細設計に入る、入っているチームが増えてきました。\nそれにあたり、１つ担当ルールを設定したいと思います。\nすでにご連絡を聞いている人もいると思いますが、「コードを書く担当機能について、コードを書く人がクラス図とシーケンス図を描く」というルールにします。\nこれにともない、クラス図とシーケンス図は全チーム用意して欲しい、ということになります。\n\n目的や狙いとしては\n・これまでのロジックを組む練習のつづきになるため\n・すでに担当分けでどなたかがクラス図を描いていてもそれを引き継いで責任を持ってもらいたいため\n・メソッドごとの処理の流れをシーケンス図にしておくことでイメージしてコードを書いて欲しいため\n・クラス図もシーケンス図も変更があれば変更があったということで本人が管理してもらいため\nという感じです。\n\n以上、よろしくお願いします。",
+    "reactions": "white_check_mark (27)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1781485954.521119",
+    "datetime_jst": "2026-06-15 10:12:34",
+    "author": "辛川友斗",
+    "email": "yuto.karakawa@himacs.co.jp",
+    "text": "<@U0ADKMR0TL7|IA_中村圭佑> お疲れ様です。ER図のたたき台を作成したのでレビューをお願いさせていただきたいです",
+    "reactions": null,
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_中村圭佑",
+        "email": "keitakubr@gmail.com",
+        "text": "26122辛川友斗さん ありがとうございます。14班の対応が終わりましたらお声掛けいたします。"
+      },
+      {
+        "author": "辛川友斗",
+        "email": "yuto.karakawa@himacs.co.jp",
+        "text": "了解いたしました。よろしくお願いいたします。"
+      },
+      {
+        "author": "IA_中村圭佑",
+        "email": "keitakubr@gmail.com",
+        "text": "26122辛川友斗さん お待たせしました。よろしくお願いいたします。"
+      },
+      {
+        "author": "辛川友斗",
+        "email": "yuto.karakawa@himacs.co.jp",
+        "text": "了解しました。よろしくお願いします。"
+      }
+    ]
+  },
+  {
+    "ts": "1781486086.107919",
+    "datetime_jst": "2026-06-15 10:14:46",
+    "author": "26165日向陽太",
+    "email": "hinata.hyuga@himacs.co.jp",
+    "text": "<@U0ADKMR0TL7|IA_中村圭佑>\nお疲れ様です。\n画面遷移図についてレビューをお願いしたいのですが、お時間大丈夫でしょうか。",
+    "reactions": null,
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_中村圭佑",
+        "email": "keitakubr@gmail.com",
+        "text": "26165日向陽太さん すみません，これから先に13班の確認に入りますか，その後でもよろしいでしょうか。"
+      },
+      {
+        "author": "26165日向陽太",
+        "email": "hinata.hyuga@himacs.co.jp",
+        "text": "了解いたしました。よろしくお願いします。"
+      },
+      {
+        "author": "IA_中村圭佑",
+        "email": "keitakubr@gmail.com",
+        "text": "26165日向陽太さん お待たせいたしました。ブレイクアウトルームにお越しください。"
+      },
+      {
+        "author": "26165日向陽太",
+        "email": "hinata.hyuga@himacs.co.jp",
+        "text": "了解いたしました。"
+      },
+      {
+        "author": "IA_中村圭佑",
+        "email": "keitakubr@gmail.com",
+        "text": "26165日向陽太さん ごめんなさい，講師MTGなので，11時半までお待ちください。"
+      },
+      {
+        "author": "26165日向陽太",
+        "email": "hinata.hyuga@himacs.co.jp",
+        "text": "了解いたしました。"
+      },
+      {
+        "author": "IA_中村圭佑",
+        "email": "keitakubr@gmail.com",
+        "text": "26165日向陽太さん 大変お待たせいたしました。いらしてください。"
+      }
+    ]
+  },
+  {
+    "ts": "1781488197.623449",
+    "datetime_jst": "2026-06-15 10:49:57",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\n【連絡】レビュー依頼の仕方\n\n▼結論\n各チーム、レビュー依頼が来ておりますが、引き続きこの方式で依頼してもらえればと思います。\n\n▼詳細\n本日の10:00ごろにzoomにて日向さんからレビュー依頼の方法について相談があり、\nSlackのこのチャンネルで担当講師へのメンションにて依頼しましょう、となりました。\n日向さん、相談ありがとうございます:+1:\n\n運用方法に問題が出てきたらまた変更しますが、いったんこの方式で進めます。\n順番待ちも生じると思いますのでそのつもりでお願いします。\nよろしくお願いします。\n\n本日は11:00～11:30は講師MTGをしますのでいったんレビューや相談に関してはお待ちください。:pray:",
+    "reactions": "white_check_mark (25)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1781490004.695459",
+    "datetime_jst": "2026-06-15 11:20:04",
+    "author": "辛川友斗",
+    "email": "yuto.karakawa@himacs.co.jp",
+    "text": "<@U0ADKMR0TL7|IA_中村圭佑> お疲れ様です。レビューをもとにER図の修正を行ったのでレビューをお願いさせていただきたいです",
+    "reactions": "white_check_mark (1)",
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_中村圭佑",
+        "email": "keitakubr@gmail.com",
+        "text": "承知いたしました。MTGの後，先に12班のレビューとなりますので，少々お待ちください。"
+      },
+      {
+        "author": "辛川友斗",
+        "email": "yuto.karakawa@himacs.co.jp",
+        "text": "了解しました。よろしくお願いいたします。"
+      },
+      {
+        "author": "IA_中村圭佑",
+        "email": "keitakubr@gmail.com",
+        "text": "残り時間少ないですが，いいですか？"
+      },
+      {
+        "author": "辛川友斗",
+        "email": "yuto.karakawa@himacs.co.jp",
+        "text": "問題ありません。よろしくお願いいたします。"
+      }
+    ]
+  },
+  {
+    "ts": "1781490475.885839",
+    "datetime_jst": "2026-06-15 11:27:55",
+    "author": "26166平岡学",
+    "email": "gaku.hiraoka@himacs.co.jp",
+    "text": "<@U0ADXSFGTC5|IA_金谷優太> いつもお世話になっております。基本要件の画面遷移図、画面デザイン図の最終レビュー詳細設計のクラス図のレビュー、ER図のレビューをお願いしたいです。お時間のある時によろしくお願いいたします。",
+    "reactions": null,
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1781490967.221289",
+    "datetime_jst": "2026-06-15 11:36:07",
+    "author": "26158西村　優生",
+    "email": "yusei.nishimura@himacs.co.jp",
+    "text": "<@U0ADXSFGTC5|IA_金谷優太>\nお疲れ様です。ER図が完成したので、レビューをお願いしたいのですが、お時間よろしいでしょうか。",
+    "reactions": null,
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_金谷優太",
+        "email": "yuta.kanaya@softcommu.com",
+        "text": "基本的に班のチャンネルで依頼お願いいたします。8班が終わってから行います。"
+      },
+      {
+        "author": "26158西村　優生",
+        "email": "yusei.nishimura@himacs.co.jp",
+        "text": "了解しました。"
+      }
+    ]
+  },
+  {
+    "ts": "1781492133.220209",
+    "datetime_jst": "2026-06-15 11:55:33",
+    "author": "26152奈須田潤平",
+    "email": "jumpei.nasuda@himacs.co.jp",
+    "text": "<@U0ADKMR0TL7|IA_中村圭佑> お疲れ様です。15班です。\n画面レイアウト、画面遷移、データベース設計のレビューをお願いしたいので、都合の良いお時間を教えて頂けますと幸いです。\nまた、事前にレビュー頂きたい資料をチームの個別チャンネルにて共有いたします。ご確認よろしくお願いします。",
+    "reactions": "white_check_mark (1)",
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_中村圭佑",
+        "email": "keitakubr@gmail.com",
+        "text": "順番にお呼びいたしますので，少々お待ちください。お待たせいたしました。申し訳ありませんが，お昼休み明けでもよろしいでしょうか。"
+      },
+      {
+        "author": "26152奈須田潤平",
+        "email": "jumpei.nasuda@himacs.co.jp",
+        "text": "承知いたしました。ではお昼休憩後にお願いいたします。"
+      },
+      {
+        "author": "IA_中村圭佑",
+        "email": "keitakubr@gmail.com",
+        "text": "どうぞお越しください。"
+      }
+    ]
+  },
+  {
+    "ts": "1781492856.780009",
+    "datetime_jst": "2026-06-15 12:07:36",
+    "author": "26118加藤涼雅",
+    "email": "ryoga.kato@himacs.co.jp",
+    "text": "<@U0AEMK1DHFC|IA_萩尾洋仁> お疲れ様です。ER図(進捗状況度100%)、シーケンス図(進捗状況度60%)、クラス図(進捗状況度80%)のレビューをお願い致します。午後の都合の良いお時間を教えて頂けますと幸いです。\n事前にレビュー頂きたい資料をチームの個別チャンネルにて共有いたします。ご確認よろしくお願いします。",
+    "reactions": null,
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_萩尾洋仁",
+        "email": "hironori.hagio@softcommu.com",
+        "text": "承知しました。13:45からお願いします。先に，チームチャネルにドキュメントを送っていただくことはできますか？"
+      },
+      {
+        "author": "26118加藤涼雅",
+        "email": "ryoga.kato@himacs.co.jp",
+        "text": "かしこまりました。チームの方に資料を添付します。班の番号のお伝えを忘れていました 2班のs-proです"
+      },
+      {
+        "author": "IA_萩尾洋仁",
+        "email": "hironori.hagio@softcommu.com",
+        "text": "助かります。よろしくお願いします。ブレイクアウトルームにどうぞ。"
+      }
+    ]
+  },
+  {
+    "ts": "1781498423.624039",
+    "datetime_jst": "2026-06-15 13:40:23",
+    "author": "26177増子智陽",
+    "email": "tomoharu.masuko@himacs.co.jp",
+    "text": "<@U0ACW862CUS|IA_岡野隼> お疲れ様です。クラス図が全機能分完成いたしました。こちらについてのレビューをお願いしたいので、都合の良い時間を教えていただきたいです。",
+    "reactions": "white_check_mark (1)",
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_岡野隼",
+        "email": "j_okano@internetacademy.co.jp",
+        "text": "お待たせしました。ではブレイクアウトルームにてお願いします。"
+      },
+      {
+        "author": "26177増子智陽",
+        "email": "tomoharu.masuko@himacs.co.jp",
+        "text": "かしこまりました。"
+      }
+    ]
+  },
+  {
+    "ts": "1781500291.648819",
+    "datetime_jst": "2026-06-15 14:11:31",
+    "author": "26145高橋美咲",
+    "email": "misaki.takahashi@himacs.co.jp",
+    "text": "<@U0ACW862CUS|IA_岡野隼>\nお疲れ様です。6班です。\n画面デザイン図につきまして修正いたしましたので、再レビューをお願いいたします。\nお時間空き次第ご連絡いただけますと幸いです。",
+    "reactions": null,
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_岡野隼",
+        "email": "j_okano@internetacademy.co.jp",
+        "text": "お待たせしました。14:45から岡野メイン講師のブレイクアウトルームにてお願いします。"
+      },
+      {
+        "author": "26145高橋美咲",
+        "email": "misaki.takahashi@himacs.co.jp",
+        "text": "承知いたしました。"
+      }
+    ]
+  },
+  {
+    "ts": "1781503195.731569",
+    "datetime_jst": "2026-06-15 14:59:55",
+    "author": "山田瑠唯",
+    "email": "rui.yamada@himacs.co.jp",
+    "text": "<@U0AEV9R691N|IA_村林良胤>\nお疲れ様です。\nチーム４です。\nクラス図のレビューをお願いしたいので、都合の良い時間を教えていただきたいです。",
+    "reactions": null,
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1781503307.333279",
+    "datetime_jst": "2026-06-15 15:01:47",
+    "author": "26155西尾由佳里",
+    "email": "yukari.nishio@himacs.co.jp",
+    "text": "<@U0AEMK1DHFC|IA_萩尾洋仁> お疲れ様です。\n本日15時からの報告のため、よろしくお願いいたします。",
+    "reactions": "white_check_mark (1)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1781505094.086289",
+    "datetime_jst": "2026-06-15 15:31:34",
+    "author": "鍵村和香",
+    "email": "waka.kagimura@himacs.co.jp",
+    "text": "<@U0ADXSFGTC5|IA_金谷優太>\nお疲れ様です、チーム8です。\n現在作成している画面遷移図とクラス図について、レビューをお願いしたくご連絡いたしました。\nお時間のある際にご連絡いただければ幸いです。\n何卒よろしくお願いいたします。",
+    "reactions": null,
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1781508965.085929",
+    "datetime_jst": "2026-06-15 16:36:05",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\nzoomにもメッセージが流れましたが、16:30過ぎましたので、休憩後に日報等に入ってください。各ブレイクアウトルームでの作業で結構です。",
+    "reactions": "white_check_mark (6), +1 (5)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1781509125.863929",
+    "datetime_jst": "2026-06-15 16:38:45",
+    "author": "広瀬智子",
+    "email": "hrs37cda@gmail.com",
+    "text": "<@U0AQK7MFKRT|26184米光七海> <@U0ARUPK6LGG|26181山口華恵>\nお疲れ様です。本日の日直はお二人でよろしいですか？",
+    "reactions": null,
+    "files": null,
+    "replies": [
+      {
+        "author": "米光七海",
+        "email": "nanami.yonemitsu@himacs.co.jp",
+        "text": "お疲れ様です。26181~26184の４人です。よろしくお願いいたします。"
+      },
+      {
+        "author": "広瀬智子",
+        "email": "hrs37cda@gmail.com",
+        "text": "山口さんの他の方のお名前教えていただけますか？（回答：山田さん、横江さんです）"
+      }
+    ]
+  },
+  {
+    "ts": "1781568298.026699",
+    "datetime_jst": "2026-06-16 09:04:58",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\n【連絡】チーム内の席の移動は自由にしていただいてOKです。\n\nチーム開発演習中は、席の移動は自由です。\n長時間、数日間、隣で作業したほうが良いケースなどがあるため、\n毎日席を戻さなくても良いということにします。\n\n私物の管理とセキュリティワイヤーに関しては、時間を決めて毎日チェックするなど管理をお願いします。",
+    "reactions": "white_check_mark (22)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1781569980.257129",
+    "datetime_jst": "2026-06-16 09:33:00",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>",
+    "reactions": "スクリーンショット-32 (3), full_moon_with_face (1)",
+    "files": "チームガントチャート_0616.xlsx (ID: F0BAV2PTWJV, application/vnd.openxmlformats-officedocument.spreadsheetml.sheet, 22.2 KB)",
+    "replies": []
+  },
+  {
+    "ts": "1781570496.775339",
+    "datetime_jst": "2026-06-16 09:41:36",
+    "author": "安部希",
+    "email": "nozomu.abe@himacs.co.jp",
+    "text": "<@U0ADKMR0TL7|IA_中村圭佑>\nおつかれさまです。チーム14です。\n現在作成しているクラス図とシーケンス図の中間レビューをお願いいたしたくご連絡いたしました。\nお時間が合えば10時ごろにレビューをお願いしたいです。\n成果物はチームチャンネルで共有いたします。\nよろしくお願いします。",
+    "reactions": null,
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1781570672.063739",
+    "datetime_jst": "2026-06-16 09:44:32",
+    "author": "26118加藤涼雅",
+    "email": "ryoga.kato@himacs.co.jp",
+    "text": "<@U0AEMK1DHFC|IA_萩尾洋仁> お疲れ様です。チーム２シーケンス図(領収書)、のレビューをお願い致します。都合の良いお時間を教えて頂けますと幸いです。\nレビュー頂きたい資料をチームチャンネルにて共有いたします。ご確認よろしくお願いします。",
+    "reactions": "white_check_mark (1)",
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_萩尾洋仁",
+        "email": "hironori.hagio@softcommu.com",
+        "text": "26118加藤涼雅さん 午後一から予約が入っていますので，終わり次第一緒にレビューしましょう。先にドキュメントを確認します。"
+      }
+    ]
+  },
+  {
+    "ts": "1781571264.554649",
+    "datetime_jst": "2026-06-16 09:54:24",
+    "author": "26166平岡学",
+    "email": "gaku.hiraoka@himacs.co.jp",
+    "text": "<@U0ARJFN6Z35|IA_空本敏一> お疲れ様です。チームはちみつです。シーケンス図、クラス図のレビューをお願いいたします。ご都合のいい時間を教えていただければ幸いです。レビューいただきたい資料をチームチャンネルにて共有いたします。確認よろしくお願いします。",
+    "reactions": null,
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1781571635.264289",
+    "datetime_jst": "2026-06-16 10:00:35",
+    "author": "26208井上未帆",
+    "email": "p.miho.inoue@himacs.co.jp",
+    "text": "<@U0AEGNM17L1|IA_丸本善利> お疲れ様です。チーム10です。\n現時点の成果物、画面遷移図のレビューをいただきたく、ご連絡いたしました。\nご都合の良い時間を教えていただけますと幸いです。レビューいただきたい資料をチームチャンネルにて共有いたします。\nよろしくお願いいたします。",
+    "reactions": null,
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1781572161.050139",
+    "datetime_jst": "2026-06-16 10:09:21",
+    "author": "辛川友斗",
+    "email": "yuto.karakawa@himacs.co.jp",
+    "text": "<@U0ADKMR0TL7|IA_中村圭佑> お疲れ様です。チーム13です。本日11時頃にシーケンス図のレビューをお願いさせていただきたいです。\nシーケンス図をslackに投稿していますので確認よろしくお願いいたします。",
+    "reactions": "white_check_mark (1)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1781573324.482869",
+    "datetime_jst": "2026-06-16 10:28:44",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\n10:45～11:15にて講師MTGをします。レビューや質問等は、この時間以外にて実施できればと思います。\nよろしくお願いいたします。",
+    "reactions": null,
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1781573366.347169",
+    "datetime_jst": "2026-06-16 10:29:26",
+    "author": "26137菅谷勝弘",
+    "email": "katsuhiro.sugaya@himacs.co.jp",
+    "text": "<@U0ACW862CUS|IA_岡野隼> お疲れ様です。チーム5です。シーケンス図作成が全員分完了いたしましたのでレビューをいただきたいのですが、ご都合いかがでしょうか。",
+    "reactions": "eyes (1)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1781575727.494499",
+    "datetime_jst": "2026-06-16 11:08:47",
+    "author": "26164日高世那",
+    "email": "sena.hidaka@himacs.co.jp",
+    "text": "<@U0AEMK1DHFC|IA_萩尾洋仁> お疲れ様です。チーム3 シーケンス図、クラス図の変更点のレビューをお願いいたします。都合の良いお時間を教えていただけますと幸いです。よろしくお願いします。",
+    "reactions": null,
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1781575916.481849",
+    "datetime_jst": "2026-06-16 11:11:56",
+    "author": "26118加藤涼雅",
+    "email": "ryoga.kato@himacs.co.jp",
+    "text": "<@U0AEMK1DHFC|IA_萩尾洋仁> お疲れ様です。チーム２シーケンス図(注文)、のレビューをお願い致します。都合の良いお時間がわからないとのことですので、レビュー頂きたい資料をチームチャンネルにて共有いたします。ご確認よろしくお願いします。",
+    "reactions": null,
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1781580283.279969",
+    "datetime_jst": "2026-06-16 12:24:43",
+    "author": "安部希",
+    "email": "nozomu.abe@himacs.co.jp",
+    "text": "<@U0ADKMR0TL7|IA_中村圭佑>\n お疲れ様です。チーム14です。\n 本日14時頃にシーケンス図、クラス図、ER図のレビューをお願いさせていただきたいです。\n成果物を後程チームチャンネルで共有いたします。\nよろしくお願いいたします",
+    "reactions": "white_check_mark (1)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1781580844.892459",
+    "datetime_jst": "2026-06-16 12:34:04",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\n*【重要】開発演習における設計の進め方と要件の捉え方について*\nチーム開発演習お疲れ様です。\n開発が本格化してきたところで、今後の進め方について大切なマインドセットと、\n具体的な仕様（パスワード忘却時の対応など）について2点共有します。\n\n① 要求・要件定義の主導権は「皆さん」にあります\n本演習における要求定義・要件定義は、*皆さん自身の責任において決定・進行してください。*\n\n講師は「上司役」としてレビューを行いますが、スタンスは以下の通りです。\n• *マスト（必須）要件：* 満たされているかをチェック・指摘します。\n• *ウォンツ（要望）要件：* 講師から意見やアイデアを出すことはありますが、それはあくまで「一人の上司としての提案」です。「講師の承認を得て仕様を固定化する」必要はありません。\n:warning: *注意して欲しい姿勢：* 「講師（上司）のOKが出たから、これでいいと思いました」という思考停止にならないようにしてください。\n自分たちのチームとして「なぜこの仕様にしたのか」を語れるようにしてください。\n今回の案件でいえば「社内のこのシステム開発を要望した人」と「このシステムを使う人」が満足する相手目線を持って議論してください。\n\n② 「パスワードを忘れた場合」の機能について（１つの具体例として）\n現在、いくつかのチームから「パスワード再発行」に関する設計のレビューを受けています。\nこの機能は*ウォンツ要件（実装は自由・設計も自由）*です。\n\nすでに講師からOKが出ている設計一式についても、そのまま鵜呑みにするのではなく、最終発表などで以下のように*「背景と妥協点を論理的に説明できる状態」*にしておいてください。\n\n> *成果物発表時の説明のイメージ：*\n>  「実務における一般的なパスワード忘れ時の仕組みは〇〇（例：トークン付きURLのメール送付など）ですが、\n> 本研修の環境・期間の制約を考慮し、今回はこのように実装しました」\n本来、Wants要件の設計の正解を決める際は、顧客や先輩や上司との対話が必要です。\nそのための相談はこのチーム開発中にしてもらってOKです。そのうえで、Wants要件やみなさんからのAIを活用した仕様を決めるのは開発者である皆さん自身です。 迷ったら「自分たちはどうしたいか？」、ユーザーである「社内のこのシステム開発を要望した人」と「このシステムを使う人」が満足する仕様は何か、議論してみてください。\n応援しています:smile:",
+    "reactions": "white_check_mark (12), pen3 (1), full_moon_with_face (1)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1781592109.454139",
+    "datetime_jst": "2026-06-16 15:41:49",
+    "author": "26138杉浦宥羽",
+    "email": "yuha.sugiura@himacs.co.jp",
+    "text": "<@U0ARJFN6Z35|IA_空本敏一> 　お疲れ様です。\nチーム7クラス図の途中レビューをお願いいたします。都合の良いお時間を教えていただけますと幸いです。\nよろしくお願いいたします。",
+    "reactions": "raised_hands (1)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1781592732.486479",
+    "datetime_jst": "2026-06-16 15:52:12",
+    "author": "26161橋本陸人",
+    "email": "rikuto.hashimoto@himacs.co.jp",
+    "text": "<@U0AEGNM17L1|IA_丸本善利> お疲れ様です。\nシーケンス図が完成したため、最終確認をお願いします。\n只今、ご都合はいかがでしょうか。",
+    "reactions": null,
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_丸本善利",
+        "email": "marubomu@gmail.com",
+        "text": "今で良ければどうぞ！"
+      },
+      {
+        "author": "26161橋本陸人",
+        "email": "rikuto.hashimoto@himacs.co.jp",
+        "text": "ありがとうございます！すぐに伺います。"
+      }
+    ]
+  },
+  {
+    "ts": "1781594114.630949",
+    "datetime_jst": "2026-06-16 16:15:14",
+    "author": "26177増子智陽",
+    "email": "tomoharu.masuko@himacs.co.jp",
+    "text": "<@U0ACW862CUS|IA_岡野隼> お疲れ様です。シーケンス図と、データベース設計が完成いたしました。レビューをいただきたいので、ご都合の良いお時間を教えていただけますと幸いです。よろしくお願いいたします。",
+    "reactions": "white_check_mark (1)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1781655156.276999",
+    "datetime_jst": "2026-06-17 09:12:36",
+    "author": "26205日野息吹",
+    "email": "p.ibuki.hino@himacs.co.jp",
+    "text": "お疲れ様です。本日の日直は\n<@U0ARDCH901X|26203渡邊航太> <@U0AQK27CP4P|26204南風原飛雅> <@U0AQX42NJ2Z|26205日野息吹> <@U0AR0F102SW|26206牧野歩美>\nになります。よろしくお願いいたします。",
+    "reactions": "white_check_mark (6)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1781657389.965359",
+    "datetime_jst": "2026-06-17 09:49:49",
+    "author": "26138杉浦宥羽",
+    "email": "yuha.sugiura@himacs.co.jp",
+    "text": "<@U0ADZ8Z7QRL|IA_荒木大地> さん　\nお疲れ様です。チーム7　クラス図の途中レビューをお願いいたします。\n10:00からお時間いただくことは可能でしょうか？\nご確認のほどよろしくお願いします。",
+    "reactions": null,
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_荒木大地",
+        "email": "daichi.araki@gmail.com",
+        "text": "おつかれさまです。それでは10時に講師ルーム8に来てもらえますか？"
+      }
+    ]
+  },
+  {
+    "ts": "1781657675.214189",
+    "datetime_jst": "2026-06-17 09:54:35",
+    "author": "26168平松利樹人",
+    "email": "rikito.hiramatsu@himacs.co.jp",
+    "text": "<@U0ACW862CUS|IA_岡野隼> お疲れ様です。シーケンス図と、データベース設計が完成いたしました。レビューをいただきたいので、ご都合の良いお時間を教えていただけますと幸いです。よろしくお願いいたします。",
+    "reactions": null,
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_岡野隼",
+        "email": "j_okano@internetacademy.co.jp",
+        "text": "では10:00に岡野のルームにてお願いします"
+      },
+      {
+        "author": "26168平松利樹人",
+        "email": "rikito.hiramatsu@himacs.co.jp",
+        "text": "承知いたしました。"
+      }
+    ]
+  },
+  {
+    "ts": "1781657691.511319",
+    "datetime_jst": "2026-06-17 09:54:51",
+    "author": "26118加藤涼雅",
+    "email": "ryoga.kato@himacs.co.jp",
+    "text": "<@U0AMFMBNHEG|IA_大岡和人> お疲れ様です。チーム２です。\njavaでプロジェクトを作ろうとするとエラーが発生してしまうのでご相談したいです。\nエラー内容としては、バージョンが存在しないといわれます。",
+    "reactions": null,
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_大岡和人",
+        "email": "koka@utj.co.jp",
+        "text": "ありがとうございます。10:05から大岡のブレークアウトルームでもよろしいでしょうか。\n> 26118加藤涼雅: お疲れ様です、先ほどのエラーの件なのですが、Googlechromeのspringbootの作成を行ってもエラーが出るためご相談したいです。\n> IA_大岡和人: すみません、しばらく、他のレビュー等があるため、難しいです。以下の点をご確認いただけないでしょうか。①コマンドプロンプトで`curl -v https://plugins.gradle.org`を実行しHTMLが返ってくるか、プロキシエラーか、タイムアウトか。②Eclipse Preferences→Gradle→Offline Modeのチェックを確認（なっていたらオフに）\n> 26118加藤涼雅: (実行結果を共有、UnknownPluginException: Plugin [id: 'org.springframework.boot', version: '4.0.7'] was not found... のエラー詳細を共有)\n> IA_大岡和人: 対処法として、①C:\\Users\\<ユーザー名>\\.gradle\\gradle.properties を作成 ②`org.gradle.jvmargs=-Dcom.sun.net.ssl.checkRevocation=false -Dcom.sun.security.enableCRLDP=false` を追記 ③保存してEclipse再起動後プロジェクト再作成、を提案。\n> 26118加藤涼雅: Push/Pullはできるが自宅用PCではエラーが出るためgitを使わないようにしている。詳細設計は完了しレビュー済み、各担当（注文機能など）のコーディングに入り実装中。DAO周りの件かしこまりました。\n> IA_大岡和人: 環境依存は厄介だが一歩前進。OKの環境をGitHubにアップして皆で使うことも提案。待ちが発生するメンバーがいれば通常のプロジェクト（SpringBoot/Vaadinでない）でDAO周りの実装から始めるよう案内。"
+      }
+    ]
+  },
+  {
+    "ts": "1781657706.664889",
+    "datetime_jst": "2026-06-17 09:55:06",
+    "author": "荒木楓",
+    "email": "kaede.araki@himacs.co.jp",
+    "text": "<@U0AMFMBNHEG|IA_大岡和人> 講師お疲れ様です。\nシーケンス図が完成いたしましたのでレビューをいただきたいです。\n10時30分以降でご都合の良いお時間を教えていただけますと幸いです。よろしくお願いいたします。",
+    "reactions": null,
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_丸本善利",
+        "email": "marubomu@gmail.com",
+        "text": "お疲れ様です。講師陣MTGが終わり次第、ご案内しますね。お待たせいたしました。丸本のブレイクアウトルームまでどうぞ。"
+      },
+      {
+        "author": "26161橋本陸人",
+        "email": "rikuto.hashimoto@himacs.co.jp",
+        "text": "ありがとうございます！すぐに伺います。"
+      }
+    ]
+  },
+  {
+    "ts": "1781657976.660259",
+    "datetime_jst": "2026-06-17 09:59:36",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\n本日10:30-11:00に講師MTGをする予定です。\n質問やレビューなどはその時間以外で対応予定です。多少前後しますが、よろしくお願いいたします。",
+    "reactions": "white_check_mark (3)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1781658304.053849",
+    "datetime_jst": "2026-06-17 10:05:04",
+    "author": "鍵村和香",
+    "email": "waka.kagimura@himacs.co.jp",
+    "text": "<@U0ADZ8Z7QRL|IA_荒木大地>\nお疲れ様です。チーム8はちみつです。\n画面遷移図・画面デザイン図・クラス図のレビューについてレビューをいただきたいです。\n本日11時頃からお時間ありますでしょうか？\nもし難しければ、ご都合の良い時間を教えていただけると助かります。\nよろしくお願いします。",
+    "reactions": null,
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_岡野隼",
+        "email": "j_okano@internetacademy.co.jp",
+        "text": "お待たせしました。11:18から岡野ルームでおねがいできますか"
+      },
+      {
+        "author": "26129小堤真人",
+        "email": "manato.kotsuzumi@himacs.co.jp",
+        "text": "承知いたしました。よろしくお願いいたします。"
+      }
+    ]
+  },
+  {
+    "ts": "1781659465.443729",
+    "datetime_jst": "2026-06-17 10:24:25",
+    "author": "26158西村　優生",
+    "email": "yusei.nishimura@himacs.co.jp",
+    "text": "<@U0ADZ8Z7QRL|IA_荒木大地>\nお疲れ様です。チーム９今日の気分です。\nシーケンス図のレビューをいただきたいです。\nチームはちみつのレビューが終わってから、対応していただけると幸いです。\nもし難しければ、ご都合の良い時間を教えていただけると助かります。\nよろしくお願いします。",
+    "reactions": null,
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_大川淑美",
+        "email": "yoshimi.okawa@softcommu.com",
+        "text": "お疲れ様です。ご連絡ありがとうございます。現在、別チームのレビュー対応中のため、そちらが終わり次第こちらからご連絡いたします。先に成果物を共有していただけますでしょうか。レビュー前に確認させていただきます。"
+      },
+      {
+        "author": "26104厚海健太",
+        "email": "kenta.atsuumi@himacs.co.jp",
+        "text": "こちらが成果物になります。よろしくお願いいたします。"
+      }
+    ]
+  },
+  {
+    "ts": "1781660001.561409",
+    "datetime_jst": "2026-06-17 10:33:21",
+    "author": "辛川友斗",
+    "email": "yuto.karakawa@himacs.co.jp",
+    "text": "<@U0AEE5WSKPT|IA_大川淑美>\nお疲れ様です。チーム13です。\n全体の大まかなクラス図が完成したので本日11時頃にレビューをいただきたいです。",
+    "reactions": null,
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_荒木大地",
+        "email": "daichi.araki@gmail.com",
+        "text": "再レビュー対応できずすみません。明日のチーム7の担当講師は村林さんになるので、明日村林さんに再レビュー依頼をしていただけたらと思います。がんばってください！"
+      },
+      {
+        "author": "26138杉浦宥羽",
+        "email": "yuha.sugiura@himacs.co.jp",
+        "text": "お疲れ様です。ご連絡ありがとうございます。承知いたしました。明日、担当講師へ再レビューを依頼いたします。引き続きよろしくお願いいたします。"
+      }
+    ]
+  },
+  {
+    "ts": "1781660172.891239",
+    "datetime_jst": "2026-06-17 10:36:12",
+    "author": "26161橋本陸人",
+    "email": "rikuto.hashimoto@himacs.co.jp",
+    "text": "<@U0AEGNM17L1|IA_丸本善利> お疲れ様です。\nJavaパッケージの利用方法について質問があります。\n作業分担の明確化のため、com.example.demo内に新規パッケージを作成したいのですが、その上の階層のsrc/main/java内にしか新規パッケージ作成を受け付けない仕様になっていました。\ncom.example.demoと並列する形でパッケージを作成しても正しく動作するのかが懸念点です。\nよろしければ画面共有させていただき、対応していただきたいのですが、講師ミーティング後の11時以降でお時間いただけますか？",
+    "reactions": "white_check_mark (1)",
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_岡野隼",
+        "email": "j_okano@internetacademy.co.jp",
+        "text": "では11:00に岡野ルームにてお願いします"
+      },
+      {
+        "author": "26161橋本陸人",
+        "email": "rikuto.hashimoto@himacs.co.jp",
+        "text": "承知いたしました。よろしくお願いいたします。"
+      }
+    ]
+  },
+  {
+    "ts": "1781660306.040249",
+    "datetime_jst": "2026-06-17 10:38:26",
+    "author": "26129小堤真人",
+    "email": "manato.kotsuzumi@himacs.co.jp",
+    "text": "<@U0ACW862CUS|IA_岡野隼> お疲れ様です。チーム6です。\nER図、シーケンス図、データベース設計のレビューをいただきたいです。\n本日11時以降で、ご都合の良い時間を教えていただけると助かります。\nよろしくお願いいたします。",
+    "reactions": null,
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_岡野隼",
+        "email": "j_okano@internetacademy.co.jp",
+        "text": "<@26129小堤真人>"
+      },
+      {
+        "author": "26129小堤真人",
+        "email": "manato.kotsuzumi@himacs.co.jp",
+        "text": "承知いたしました。よろしくお願いいたします。"
+      }
+    ]
+  },
+  {
+    "ts": "1781661652.933329",
+    "datetime_jst": "2026-06-17 11:00:52",
+    "author": "26104厚海健太",
+    "email": "kenta.atsuumi@himacs.co.jp",
+    "text": "<@U0AEE5WSKPT|IA_大川淑美>\nお疲れ様です。チーム15です。\nおおまかなクラス図が完成したのでレビューをお願い致します。\n本日11時以降で、ご都合の良い時間を教えていただけると助かります。\nよろしくお願いします。",
+    "reactions": null,
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_大川淑美",
+        "email": "yoshimi.okawa@softcommu.com",
+        "text": "現在、別チームのレビュー対応中のため、そちらが終わり次第こちらからご連絡いたします。先に成果物を共有していただけますでしょうか。レビュー前に確認させていただきます。"
+      },
+      {
+        "author": "26104厚海健太",
+        "email": "kenta.atsuumi@himacs.co.jp",
+        "text": "こちらが成果物になります。よろしくお願いいたします。"
+      }
+    ]
+  },
+  {
+    "ts": "1781662005.035219",
+    "datetime_jst": "2026-06-17 11:06:45",
+    "author": "26151中村菖",
+    "email": "ayame.nakamura@himacs.co.jp",
+    "text": "<@U0AEV9R691N|IA_村林良胤> お疲れ様です。チーム４です。シーケンス図のレビューをいただきたいです。ご都合の良い時間を教えていただけると幸いです。",
+    "reactions": null,
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1781662323.723629",
+    "datetime_jst": "2026-06-17 11:12:03",
+    "author": "26138杉浦宥羽",
+    "email": "yuha.sugiura@himacs.co.jp",
+    "text": "<@U0ADZ8Z7QRL|IA_荒木大地> 講師\nお疲れ様です。チーム7　クラス図先ほどの修正点修正いたしましたので、レビューをお願いいたします。また、シーケンス図も途中レビューを依頼したいです。チーム8：はちみつ、チーム9：今日の気分のレビューが終わってから対応いただけますと幸いです。\nもし難しければ、ご都合の良い時間を教えていただけると助かります。\nご確認のほどよろしくお願いします。",
+    "reactions": null,
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_荒木大地",
+        "email": "daichi.araki@gmail.com",
+        "text": "再レビュー対応できずすみません。明日のチーム7の担当講師は村林さんになるので、明日村林さんに再レビュー依頼をしていただけたらと思います。"
+      },
+      {
+        "author": "26138杉浦宥羽",
+        "email": "yuha.sugiura@himacs.co.jp",
+        "text": "承知いたしました。明日、担当講師へ再レビューを依頼いたします。"
+      }
+    ]
+  },
+  {
+    "ts": "1781662396.705219",
+    "datetime_jst": "2026-06-17 11:13:16",
+    "author": "辛川友斗",
+    "email": "yuto.karakawa@himacs.co.jp",
+    "text": "<@U0AEE5WSKPT|IA_大川淑美>\n[eclipseでのエラーの解決策の相談]\neclpseでgitからプロジェクトをクローンしたところソースコードを入力する際に画像のようなエラーが発生しました。\n\n[予想されるエラーの原因]\neclipseがプロジェクトをjavaプロジェクトと認識できていない。\n\n[試した解決策]\njavaのバージョンを確認しbuild.gradleに変更を加える->解消せず\n\nこちらで解決できなかったので解決策をお伺いしたいです",
+    "reactions": "eyes (2)",
+    "files": "image.png (ID: F0BB1KV2LDU, image/png, 142.9 KB)",
+    "replies": [
+      {
+        "author": "IA_大川淑美",
+        "email": "yoshimi.okawa@softcommu.com",
+        "text": "確認しました。エラー内容から見ると、EclipseがプロジェクトをJavaプロジェクト、またはGradle Javaプロジェクトとして正しく認識できていない可能性が高いです。以下を試してください：1.Gradleプロジェクトとして取り込み直す（削除→File→Import→Gradle→Existing Gradle Project）2.src/main/javaがソースフォルダになっているか確認（Java Build Path→Source）3.build.gradleにJavaプラグインがあるか確認（plugins{id 'java'}、SpringBootならid 'org.springframework.boot'等も）4.それでも直らない場合はbuild.gradleの中身・Importした手順・src/main/javaがJava Build PathのSourceに入っているかを確認したい"
+      },
+      {
+        "author": "IA_岡野隼",
+        "email": "j_okano@internetacademy.co.jp",
+        "text": "この件、解決したら「ノウハウ_トラブル」でも共有お願いします。\n> 辛川友斗: 了解しました。対応いただきありがとうございます。→送付いただいた解決策を実行した結果、解決することができませんでした。結果：1.Gradleプロジェクトとして取り込み直す→解決せず 2.src/main/javaがソースフォルダになっているか確認→プロパティにJava Build Pathが表示されなかったため解決せず 3.build.gradleにJavaプラグインがあるか確認→build.gradle内に「id 'java'」が存在していることを確認 4.プロジェクトのインポート手順：gitリポジトリウィンドウから「gitリポジトリをクローン追加」→クローンURLを選択しURLとユーザー名、パスワードを入力→ブランチを選択し次へ→完了を押す→クローンされたリポジトリを右クリックインポートをクリック→完了を押してパッケージエクスプローラーに表示されていることを確認（追記）宇賀神さんが送っていただいた対処法を行いましたが解消できませんでした\n> IA_岡野隼: パッケージエクスプローラーのスクショも貼っておいてください。昨日貼ってもらった画像は、フォルダ構成がおかしいのでGradleプロジェクトとして認識されていません。読み込みなおして「解決せず」とありますが、この問題が解決して別の問題が出たのか、もとのままなのかわかりません。そこが分かるとよい報告です。プロジェクト名の右側の文字がどうなっているか、「boot」などの文字があるかどうかもチェックポイントです。\n> 辛川友斗: お疲れ様です。本日朝に提示していただいた解決法を行ったところ・springbootプロジェクトの作成→問題なく完了・githubからプロジェクトをクローンインポート→gradleプロジェクトとして認識されないという結果になりました。画像ではプロジェクトの更新ボタンをクリックするように指示がありますが更新ボタンを押しても表示が消えずファイル構造も正しく読み込めていませんでした。\n> IA_岡野隼: ありがとうございます。丁寧な報告、素晴らしいです。確認します。リフレッシュの仕方は、ファイルのリフレッシュになっているかもしれません。以下をしてみてください。Gradle→Gradleプロジェクトのリフレッシュ 変化がなければ、ファイルから再開を選んでみてください。それでも変化がなければ、以下を試してみてください。\n> IA_岡野隼: 1.プロジェクト（kinokotakenoproject）を右クリック 2.構成（Configure）→ Gradle ネイチャーの追加（Add Gradle Nature）これでメニューが出れば、Buildshipがbuild.gradleを読んで依存関係を解決し、ソースフォルダや依存ライブラリが正しく表示されます。うまくいかない／メニューが無い場合（再インポート）1.プロジェクトを右クリック→削除（Delete）。このとき「ディスク上の内容を削除」のチェックは外す（ファイルは残す）。2.念のため、クローンしたフォルダ内に.project.classpath.settingsが残っていれば削除。3.ファイル→インポート→Gradle→既存のGradleプロジェクト 4.「プロジェクト・ルート・ディレクトリ」には、build.gradleとsettings.gradleが直接置かれているフォルダを指定。5.Gradleディストリビューションは「Gradleラッパー（gradle-wrapperを使用）」のまま→完了。6.取り込み完了まで待つ（依存関係のダウンロードが走るのでネット接続が必要）。成功すると「JREシステム・ライブラリー」と「プロジェクトおよび外部の依存関係」が現れます。\n> 辛川友斗: ご対応ありがとうございます。送付いただいた対処法を試しました。結果：・gradleプロジェクトのリフレッシュを行ったところ変化がありませんでした ・プロジェクトの構成を確認したところ「gradleネイチャーの追加」が表示されていませんでした ・プロジェクトのインポートを行ったところ画像のようにプレビューに失敗したとの表示がされました（画像のgradleプロジェクト構造はテキストファイルにコピーしています）調べたところgradleやjavaのバージョンが一致していない可能性があるとのことです ・プレビューに失敗した状態でインポートを完了しgradleプロジェクトのリフレッシュを行いましたがJREシステムライブラリーとプロジェクトおよび外部の依存関係が出現しませんでした"
+      }
+    ]
+  },
+  {
+    "ts": "1781663713.262069",
+    "datetime_jst": "2026-06-17 11:35:13",
+    "author": "安部希",
+    "email": "nozomu.abe@himacs.co.jp",
+    "text": "<@U0AEE5WSKPT|IA_大川淑美>\nお疲れ様です。チーム14です。\nER図、シーケンス図、クラス図のレビューをいただきたいです。\n本日12時以降で、ご都合の良い時間を教えていただけると助かります。\n成果物はチームチャンネルで共有いたします。\nよろしくお願いいたします。",
+    "reactions": null,
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_大川淑美",
+        "email": "yoshimi.okawa@softcommu.com",
+        "text": "承知いたしました。14時からいかがでしょうか。"
+      }
+    ]
+  },
+  {
+    "ts": "1781664508.414849",
+    "datetime_jst": "2026-06-17 11:48:28",
+    "author": "26168平松利樹人",
+    "email": "rikito.hiramatsu@himacs.co.jp",
+    "text": "<@U0ACW862CUS|IA_岡野隼> お疲れ様です。チーム５です。\nシーケンス図の修正と、データベース設計が完成いたしました。レビューをいただきたいので、ご都合の良いお時間を教えていただけますと幸いです。よろしくお願いいたします。",
+    "reactions": null,
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_岡野隼",
+        "email": "j_okano@internetacademy.co.jp",
+        "text": "14:20から岡野ルームで見てもよいですか？"
+      },
+      {
+        "author": "IA_岡野隼",
+        "email": "j_okano@internetacademy.co.jp",
+        "text": "<@26168平松利樹人>\n> 26168平松利樹人: 承知しました。よろしくお願いいたします。"
+      }
+    ]
+  },
+  {
+    "ts": "1781665580.765139",
+    "datetime_jst": "2026-06-17 12:06:20",
+    "author": "26118加藤涼雅",
+    "email": "ryoga.kato@himacs.co.jp",
+    "text": "<@U0AEV9R691N|IA_村林良胤> お疲れ様です。２班です。\n本日の村林講師は担当ではないのですが朝から今までjavaでのプロジェクトが作成できずにいます。本日担当の大岡講師にはエラー内容は伝えております。\n空いている時間がありましたら、エラー内容の相談ができたら幸いです。。",
+    "reactions": null,
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1781665755.704879",
+    "datetime_jst": "2026-06-17 12:09:15",
+    "author": "26165日向陽太",
+    "email": "hinata.hyuga@himacs.co.jp",
+    "text": "<@U0AEGNM17L1|IA_丸本善利>\nお疲れ様です。チーム12です。\nデータベース設計が完成いたしました。レビューをいただきたいので、ご都合の良いお時間を教えていただけますと幸いです。よろしくお願いいたします。",
+    "reactions": null,
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1781667018.462819",
+    "datetime_jst": "2026-06-17 12:30:18",
+    "author": "26175細淵名勇士",
+    "email": "naoto.hosobuchi@himacs.co.jp",
+    "text": "<@U0AEE5WSKPT|IA_大川淑美> お疲れ様です。チーム13の細淵です。クラス図の領収書の部分について先ほどのレビューではわからなかった部分があるので領収書クラスの作成を担当した私からもう一度相談させていただきたいです。ご都合のいい時間を教えていただけますと幸いです。よろしくお願いします。",
+    "reactions": null,
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_大川淑美",
+        "email": "yoshimi.okawa@softcommu.com",
+        "text": "<@26176細矢康平> お疲れ様です。ご連絡ありがとうございます。14:00から別チームのレビューが予定されているため、そちらが終わり次第こちらからご連絡いたします。よろしくお願いいたします。\n> 26175細淵名勇士: 承知いたしました。よろしくお願いいたします。"
+      }
+    ]
+  },
+  {
+    "ts": "1781670915.382459",
+    "datetime_jst": "2026-06-17 13:35:15",
+    "author": "神浦真生",
+    "email": "mao.konoura@himacs.co.jp",
+    "text": "<@U0AEV9R691N|IA_村林良胤>\nお疲れ様です。チーム4の神浦真生です。\n自身では、解決できないエラーが起こったため、解決を手伝っていただきたいです。\n\n[SpringBootのセッティングでのエラーの解決策の相談]\n現在SprongBootのセッティングを行っている中でSpringBootのver4.0.7以上の導入ができない状態です。\nver'3.5.15'のみ導入できました。\n\n[行った動作の背景]\n私たちの班では、gradie内でspringbootがないというエラーが起こり、その原因がテレワークPCでSpringBootの設定をしていなかったことがエラーの原因であると考えました。\n結果正常に導入できたほかの人はエラーがなく動く状況です。\n\n[行った手順]\nSpringBootプロジェクト作成のpdfに則ってSpringBootをインストールした。\n\n[試した解決策]\nSpringBootのverを変えて導入してみる→ver'3.5.15'のみ成功した。しかしgradleのエラーは治らず。\nもう一度最初から行ってみる→エラーは解消されず。\n\n[確認したこと]\n証明書は、cmdで確認すると\n「証明書はインポートされませんでした。別名<netskope-root>はすでに存在します」\nと表示される。\n\nこちらで解決できなかったので解決策をお伺いしたいです",
+    "reactions": "eyes (1)",
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_岡野隼",
+        "email": "j_okano@internetacademy.co.jp",
+        "text": "解決したり、試してダメだったことなどあればまた共有お願いします。"
+      },
+      {
+        "author": "IA_丸本善利",
+        "email": "marubomu@gmail.com",
+        "text": "宇賀神さんのsettings.gradleのコードのおかげで、Gradle自体のエラーは解消しました。しかしながら、プロジェクト上でエラーが解消しないので、さらに調べましたところ、プロパティにビルドパスが含まれていませんでした。よって、Eclipse自体を再構築を視野にいれる必要があるかもしれません。\n> IA_岡野隼: GradleがNetSkopeを通過できてないようです。＝＝エラー画像をよく見ると、NetSkopeにつかまっているのはEclipseではなく「Gradle（ビルドツール）」です。流れ 1.プロジェクトの土台ができる 2.GradleがSpring Bootのプラグイン（Ver4.0.7）をインターネット（Gradle Central Repository）に自動でダウンロードしに行く 3.Gradle自体がNetskopeを通過できず、ダウンロードに失敗する ✗ GradleはEclipseとは完全に別のプログラム（独立したシステム）として通信を行うため、Javaに証明書を入れただけでは、Gradleの通信がブロックされてしまうのです。＝＝解決策1：バージョンを「3.5.14」など「4.x未満」に下げてみる（一番簡単）PDFの5ページ目（番外編）に記載がある通り、Spring Bootのバージョンに`4.0.7`や`4.0.6`を指定すると、最新すぎてインターネット上の特殊なリポジトリを見に行くため、社内ネットワークで弾かれやすくなります。1.プロジェクト作成時の依存関係画面（PDF 5ページ目）で、Spring Bootバージョンを「3.5.14」に変更します。2.その状態で「完了」を押してみてください。3.これだけでNetskopeに阻まれず、すんなり作成できるケースが非常に多いです。上記をしたうえで、宇賀神さんの設定を試すといかがですか？\n> IA_岡野隼: 解決策2：GradleにNetskope（Java 21）の場所を強制的に教える Gradleが通信する際に、先ほど証明書を追加した「Java 21」を確実に使うようにパソコン全体に設定します。1.Windowsのスタートメニュー（または検索バー）に「環境変数」と入力し、「システム環境変数の編集」を開きます。2.画面下の「環境変数(N)...」ボタンをクリックします。3.「ユーザー環境変数」（上の欄）または「システム環境変数」（下の欄）にある「新規(W)...」をクリックします。4.以下のように入力して「OK」を押します。変数名: `GRADLE_USER_HOME` 変数値: `C:\\pleiades\\2025-12\\.gradle`（※Pleiades内のフォルダーを指定）5.さらに、もう一つ「新規(W)...」をクリックして以下を入力します。変数名: `JAVA_HOME` 変数値: `C:\\pleiades\\2025-12\\java\\21` 6.設定をすべて「OK」で閉じたら、Eclipseを一度完全に終了し、再起動します。"
+      }
+    ]
+  },
+  {
+    "ts": "1781672858.729439",
+    "datetime_jst": "2026-06-17 14:07:38",
+    "author": "26104厚海健太",
+    "email": "kenta.atsuumi@himacs.co.jp",
+    "text": "<@U0AEE5WSKPT|IA_大川淑美><@U0AEV9R691N|IA_村林良胤> お疲れ様です。チーム15です。\n先ほどのクラス図のレビューの続きをお願い致します。\nよろしくお願いします。",
+    "reactions": null,
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1781673791.396149",
+    "datetime_jst": "2026-06-17 14:23:11",
+    "author": "荒木楓",
+    "email": "kaede.araki@himacs.co.jp",
+    "text": "<@U0ACW862CUS|IA_岡野隼> お疲れ様です。先ほどから続いているgradle関連のエラーについて共有事項です。\n宇賀神さんの解消法でgradle周りのエラーは解消されたのですが、今度はプロジェクト自体にエラー表示がされてしまいました。",
+    "reactions": "eyes (2)",
+    "files": "Image20260617142227.png (ID: F0BB88JHRPE, image/png, 14.1 KB), image.png (ID: F0BAP5MJQNT, image/png, 8.0 KB)",
+    "replies": [
+      {
+        "author": "IA_岡野隼",
+        "email": "j_okano@internetacademy.co.jp",
+        "text": "プロジェクトが、Gradleプロジェクトとして認識されてないですね。プロジェクト名の右の文字と、フォルダ構成がおかしいのがその証拠です。以下を試してみてください。ステップ1：既存の不完全なプロジェクトを画面から消す 1.Eclipseの「パッケージ・エクスプローラー」で`EoV_test [EoV_test master]`を右クリック＞「削除」を選択します。2.【超重要】ポップアップが出るので、「ディスク上からプロジェクト・コンテンツを削除」には絶対にチェックを入れないでください（チェックを入れるとクローンしたファイルが消えてしまいます）。3.そのまま「OK」を押し、Eclipseの画面上から一度非表示にします。ステップ2：「Gradleプロジェクト」としてインポートし直す 1.Eclipseのメニューバーから「ファイル」＞「インポート」を選択します。2.「Gradle」＞「既存の Gradle プロジェクト」を選択し、「次へ」を押します。3.次の画面もそのまま「次へ」を押します。4.「プロジェクトのルート・ディレクトリー」の右側にある「参照」ボタンを押し、先ほどクローンした`EoV_test`のフォルダー（`build.gradle`が入っている場所）を選択します。5.「完了」をクリックします。\n> 荒木楓: お疲れ様です。チーム1の荒木楓です。上記の解消法を試した結果ですが、解消に至らなかったことをご報告いたします。進め方に間違いがあった可能性もあるため、私が行った手順を共有いたします。写真は時系列順に並べております。1.EoV_testを右クリック、エクスプローラーで場所を確認したのち画面上からの削除を行いました。2.手順に従い既存GradleプロジェクトからEoV_testの参照を行いました。この時写真にあります通りgit内にあることを確認していたのでgitから選択いたしました。（ファイルの中身を確認したところbuild.gradleは確認できませんでした。）3.ルートディレクトリにEoV_testが表示されたのを確認してから完了を押しました。4.インポート結果は変わらずtest masterが後ろについている状態でした。共有事項は以上になります。ご確認のほどよろしくお願いします。"
+      }
+    ]
+  },
+  {
+    "ts": "1781674431.591719",
+    "datetime_jst": "2026-06-17 14:33:51",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\n14:40ー14:50まで講師MTGをします。よろしくお願いいたします。",
+    "reactions": "white_check_mark (3)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1781674913.900109",
+    "datetime_jst": "2026-06-17 14:41:53",
+    "author": "鍵村和香",
+    "email": "waka.kagimura@himacs.co.jp",
+    "text": "<@U0ADZ8Z7QRL|IA_荒木大地> さん。\nお疲れ様です。チーム8はちみつです。\nER図・シーケンス図について再レビューをいただきたいです。\n本日16時以降にお時間ありますでしょうか？\n確認のほどよろしくお願いします。",
+    "reactions": "white_check_mark (1)",
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_荒木大地",
+        "email": "daichi.araki@gmail.com",
+        "text": "途中で部屋が終わってしまいましたね。いったんER図とシーケンス図はレビューOKとしますので、次のフェーズに進めてください。そして先ほどまで話し合っていた点についてまた疑問点あれば遠慮なく聞いてくださいね\n> 鍵村和香: 疑問点が出た場合また相談させていただきます。お時間とっていただきありがとうございます。"
+      }
+    ]
+  },
+  {
+    "ts": "1781679871.106429",
+    "datetime_jst": "2026-06-17 16:04:31",
+    "author": "IA_早川宏美",
+    "email": "hiromi.hayakawa@softcommu.com",
+    "text": "<!here>\nお疲れ様です。\n本日の出欠登録を終えていない方は、登録お願い致します。",
+    "reactions": "white_check_mark (6)",
+    "files": null,
+    "replies": [
+      {
+        "author": "26165日向陽太",
+        "email": "hinata.hyuga@himacs.co.jp",
+        "text": "ただいま出欠登録いたしました。遅れてしまい申し訳ありませんでした。"
+      }
+    ]
+  },
+  {
+    "ts": "1781683005.986489",
+    "datetime_jst": "2026-06-17 16:56:45",
+    "author": "26157西村早織",
+    "email": "saori.nishimura@himacs.co.jp",
+    "text": "<!here> お疲れ様です。ワークの時間に申し訳ないのですが、現在アプリの実行が不可能な状況でコミットを戻したいと考えています。チーム12（ルーキーズ）です。お手数おかけしてもうしわけありませんが少しお時間いただけませんでしょうか。",
+    "reactions": null,
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_岡野隼",
+        "email": "j_okano@internetacademy.co.jp",
+        "text": "<@26157西村早織> 明日見ましょう。×現在アプリの実行が不可能 ○Eclipseで実行時にxxxのエラーがでる が分かりやすいです。reset系のgitコマンドの対応になると思います。調べてみてください。\n> 26157西村早織: 返信ありがとうございます。reset系のgitコマンドについて調べて一度実行してみます。また、明日対応していただけるとのこと承知いたしました。ありがとうございます、明日はよろしくお願いいたします。"
+      }
+    ]
+  },
+  {
+    "ts": "1781683941.521609",
+    "datetime_jst": "2026-06-17 17:12:21",
+    "author": "Hiroyuki Okano",
+    "email": "hiroyuki.okano@softcommu.com",
+    "text": "<@U0AS3JVA5DE|26150中西海晴> <@U0AR3ESQRC4|26120釜萢柊歩> <@U0ARHCC7CF2|26180矢内大成>\n本日，6月17日（水）の出欠が未登録となっております。\n登録をお願いいたします。",
+    "reactions": null,
+    "files": null,
+    "replies": [
+      {
+        "author": "釜谷柊歩",
+        "email": "shuho.kamayachi@himacs.co.jp",
+        "text": "先ほど出欠登録いたしました。遅れてしまい申し訳ございません。"
+      }
+    ]
+  },
+  {
+    "ts": "1781742688.344999",
+    "datetime_jst": "2026-06-18 09:31:28",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "■プロジェクト作成時のpluginに関するエラー\n→①NetSkopeの対策が必要\n\n→②Spring Boot バージョンを「3.5.14」に変更します。\n\n参考チャット\n<https://ia2026.slack.com/archives/C0AD952T5L1/p1781739000455699?thread_ts=1781670915.382459&cid=C0AD952T5L1>\n\n→③setting.gradleの変更\n参考チャット\n<https://ia2026.slack.com/archives/C0B4K3VSE3X/p1781672785370429>\n\n\n\n■gitクローン後のエラー（プロジェクト作成時のpluginに関するエラーを先に解消しておくこと）\n→①何のプロジェクトかをeclipseに理解させられていない\n\n参考チャット\n<https://ia2026.slack.com/archives/C0AD952T5L1/p1781662396705219>\n\n<https://ia2026.slack.com/archives/C0AD952T5L1/p1781739600239439?thread_ts=1781673791.396149&cid=C0AD952T5L1>",
+    "reactions": "white_check_mark (10)",
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_岡野隼",
+        "email": "j_okano@internetacademy.co.jp",
+        "text": "(本文のみ、返信なし・まとめ投稿)"
+      }
+    ]
+  },
+  {
+    "ts": "1781744250.849959",
+    "datetime_jst": "2026-06-18 09:57:30",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\nJava理解度確認の3問\n<https://forms.gle/5ZBfe7q48ewXZ3ScA>",
+    "reactions": "white_check_mark (12)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1781744765.446099",
+    "datetime_jst": "2026-06-18 10:06:05",
+    "author": "安部希",
+    "email": "nozomu.abe@himacs.co.jp",
+    "text": "<@U0AEGNM17L1|IA_丸本善利> さん。\nお疲れ様です。チーム14です。\n 本日11時以降の都合の良い時間にシーケンス図、クラス図のレビューをお願いさせていただきたいです。\n成果物を後程チームチャンネルで共有いたします。\nよろしくお願いいたします",
+    "reactions": "eyes (1)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1781744868.057369",
+    "datetime_jst": "2026-06-18 10:07:48",
+    "author": "26138杉浦宥羽",
+    "email": "yuha.sugiura@himacs.co.jp",
+    "text": "<@U0AEV9R691N|IA_村林良胤> お疲れ様です。チーム7：七転び八起です。\n本日ご都合の良い時間にシーケンス図、クラス図のレビューをお願いさせていただきたいです。\n成果物を後程チームチャンネルで共有いたします。\nよろしくお願いいたします。",
+    "reactions": null,
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1781744928.510379",
+    "datetime_jst": "2026-06-18 10:08:48",
+    "author": "鈴木文太",
+    "email": "bunta.suzuki@himacs.co.jp",
+    "text": "<@U0AM24HJAHM|IA_鈴木碧>\nお疲れ様です。かぼちゃ組です。\nおはようございます。\nシーケンス図が完成しているので、レビューをいただきたいです。\nよろしくお願いします！",
+    "reactions": "white_check_mark (1)",
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_鈴木碧",
+        "email": "aoisuzuki@utj.co.jp",
+        "text": "<@26139鈴木文太> お疲れ様です。ご連絡ありがとうございます。zoomのブレイクアウトルーム「講師室（鈴木講師）」へ入室をお願いいたします。\n> 鈴木文太: かしこまりました！"
+      }
+    ]
+  },
+  {
+    "ts": "1781745740.338809",
+    "datetime_jst": "2026-06-18 10:22:20",
+    "author": "26168平松利樹人",
+    "email": "rikito.hiramatsu@himacs.co.jp",
+    "text": "<@U0ADZ8Z7QRL|IA_荒木大地> お疲れ様です。チーム５です。\nER図の修正と、シーケンス図の一部修正、データベース設計が完成いたしました。レビューをいただきたいので、ご都合の良いお時間を教えていただけますと幸いです。よろしくお願いいたします。",
+    "reactions": null,
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_荒木大地",
+        "email": "daichi.araki@gmail.com",
+        "text": "おつかれさまです。それでは10:25に講師室（荒木講師）の部屋まで来ていただけますか？\n> 26168平松利樹人: レビューありがとうございました。"
+      }
+    ]
+  },
+  {
+    "ts": "1781747641.556749",
+    "datetime_jst": "2026-06-18 10:54:01",
+    "author": "IA_丸本善利",
+    "email": "marubomu@gmail.com",
+    "text": "どなたかチーム14のレビューをお願いできますか？現在エラー対応中でして。",
+    "reactions": "+1 (1)",
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_金谷優太",
+        "email": "yuta.kanaya@softcommu.com",
+        "text": "<@26105安部希> 現在丸本講師がエラー対応中のため、私のブレイクアウトに入室頂ければレビュー可能です。よろしくお願いします。\n> 安部希: わかりました。11時になりましたら入室いたします。よろしくお願いいたします。"
+      }
+    ]
+  },
+  {
+    "ts": "1781750042.561579",
+    "datetime_jst": "2026-06-18 11:34:02",
+    "author": "26174古川尚弥",
+    "email": "naoya.furukawa@himacs.co.jp",
+    "text": "<@U0AEGNM17L1|IA_丸本善利> お疲れ様です。チーム15です。クラス図の修正の途中経過に関しましてレビューをいただきたいです。ご都合の良いお時間を教えていただけますと幸いです。よろしくお願いいたします。\n成果物に関しては、後ほどチームのチャットにて共有させていただきます。",
+    "reactions": "white_check_mark (1)",
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_荒木大地",
+        "email": "daichi.araki@gmail.com",
+        "text": "おつかれさまです。村林講師と私でお伺いしますね"
+      }
+    ]
+  },
+  {
+    "ts": "1781751440.578269",
+    "datetime_jst": "2026-06-18 11:57:20",
+    "author": "IA_丸本善利",
+    "email": "marubomu@gmail.com",
+    "text": "GradleをローカルにダウンロードしてEclipse内で読み込ませる方法を共有いたします。\n\n1．予めC:¥直下に「gradle-dist」という名前でフォルダを作ります。\n\n2．今からお渡するgradle-9.5.1-bin.zipをダウンロードしたら1．で作った「gradle-dist」フォルダに移動させます。\n※展開及び解凍は必要ありません。\n\n3．Eclipseを起動し、プロジェクト内の「gradle>wrapper>gradle-wrapper.properties」を開きます。\n\n4．3行目を「distributionUrl=file:///C:/gradle-dist/gradle-9.5.1-bin.zip」に変更し上書きします。\n\n5．プロジェクトフォルダを右クリック>Gradle>Reflesh Gradle Projectを実行します。\n\n6．settings.gradleに以下のような内容を追加し保存します。\n```pluginManagement {\n   repositories {\n       gradlePluginPortal()\n       mavenCentral()\n   }\n}\n\ndependencyResolutionManagement {\n   repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)\n   repositories {\n       mavenCentral()\n   }\n}\n\nrootProject.name ='~~~'//この行は最後に置く'~~~'の中はプロジェクトネーム```\n\nrootProject.name = 'プロジェクトの名前'\n\n7．build.gradleから以下の3行をを削除します。\n```repositories {\n\tmavenCentral()\n}```\n\n8．Eclipse内でプロジェクトのリフレッシュを試みてください。\nプロジェクト右クリック\n> Gradle\n> Gradleプロジェクトのリフレッシュ\n\n9．上記でもプロジェクトファイルが揃わない場合エクスプローラーで直接プロジェクトフォルダまでいき、コマンド・プロンプトを開き、以下のようなコマンドをを実行してください。\n\n`gradlew.bat build --refresh-dependencies`\n\n※重要：途中Javaの通信を許可するダイアログが出たら必ず「許可」してください。\n\n\n10．再度Eclipseのプロジェクトのリフレッシュを試みてください。\nプロジェクト右クリック\n> Gradle\n> Gradleプロジェクトのリフレッシュ\n\n以上でGradle及びプロジェクトのビルドが完了します。",
+    "reactions": "white_check_mark (8)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1781751490.718059",
+    "datetime_jst": "2026-06-18 11:58:10",
+    "author": "IA_丸本善利",
+    "email": "marubomu@gmail.com",
+    "text": "Files: gradle-9.5.1-bin.zip (ID: F0BBFQPGQC9, application/zip, 133.8 MB)",
+    "reactions": null,
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1781752687.374129",
+    "datetime_jst": "2026-06-18 12:18:07",
+    "author": "松本洸士郎",
+    "email": "kojiro.matsumoto@himacs.co.jp",
+    "text": "<@U0AEGNM17L1|IA_丸本善利> さん。\nお疲れ様です。チーム14です。\n本日12時半以降のご都合の良い時間に、クラス図のレビューをお願いできれば幸いです。\n成果物は後程チームチャンネルで共有いたします。\nよろしくお願いいたします。",
+    "reactions": "white_check_mark (1)",
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_金谷優太",
+        "email": "yuta.kanaya@softcommu.com",
+        "text": "<@26179松本洸士郎> 丸本さんはまだエラー対応でお忙しいようなので私が対応します。ブレイクアウトに来てください。\n> 松本洸士郎: ありがとうございます。今すぐにお伺いしてよろしいでしょうか。\n> IA_金谷優太: いつでもOKです。\n> 松本洸士郎: ありがとうございました。"
+      }
+    ]
+  },
+  {
+    "ts": "1781762050.989619",
+    "datetime_jst": "2026-06-18 14:54:10",
+    "author": "26161橋本陸人",
+    "email": "rikuto.hashimoto@himacs.co.jp",
+    "text": "<@U0AM24HJAHM|IA_鈴木碧>\nお疲れ様です。チーム12_ルーキーズの橋本です。\nGitHub利用時のSQLドライバーの保存場所と保存方法について質問があります。\nDAOを作成し、データベース接続を行いたい状況です。しかしドライバーの保存方法が以前と異なるのではないかと思い、質問させていただきました。\n今まではPCのエクスプローラーからワークスペース配下に移動し、選択して利用していました。\nしかしGitHubを利用しているため、ワークスペース内にチームで利用しているプロジェクトフォルダが存在せず、今までの手順が実施できない状況です。\n報告時間の直前に申し訳ありません。お手すきの際にご回答よろしくお願いいたします。",
+    "reactions": "white_check_mark (1)",
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_鈴木碧",
+        "email": "aoisuzuki@utj.co.jp",
+        "text": "現状のメモを残します。→村林さん一度サポート済み →外部JARが選択できない問題あり →接続についての手順書を探し中\n> 26161橋本陸人: お疲れ様です。調査しながら手順を進めた結果、データベースとの接続ができました。ご対応いただきありがとうございました。"
+      }
+    ]
+  },
+  {
+    "ts": "1781765786.979389",
+    "datetime_jst": "2026-06-18 15:56:26",
+    "author": "26134白川弘道",
+    "email": "kodo.shirakawa@himacs.co.jp",
+    "text": "<@U0AEV9R691N|IA_村林良胤>\nお疲れ様です。チーム7：七転び八起です。\n16:00以降でご都合の良い時間にDB構築のレビューをお願いさせていただきたいです。\n成果物を後程チームチャンネルで共有いたします。\nよろしくお願いいたします。",
+    "reactions": "white_check_mark (1)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1781768535.113029",
+    "datetime_jst": "2026-06-18 16:42:15",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\nGitクローン後、うまくプロジェクトが実行できない方は以下を確認してみてください。\n（まだ参加状態になっていない方は、チャンネルの右上のボタンから参加状態にしておいてください）\n<https://ia2026.slack.com/archives/C0B4K3VSE3X/p1781768275820659>",
+    "reactions": "white_check_mark (6)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1781827227.450899",
+    "datetime_jst": "2026-06-19 09:00:27",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\n【連絡】15:00以降にしてもらっている報告の流れは以下にしてもらえればと思います。\n\nこれまでどおりある程度柔軟な報告で結構ですが、以下の要素がある、と考えてもらえればと思います。\n\n1. 現在フェーズと進捗（％）\n2. 目標が何％だったか\n3. 今日の成果・やったこと、できなかったこと\n4. 今日の取り組みでの良かった点や良かった人\n5. 今日の取り組みでの課題点\n6. 課題に対する対応策（進捗遅延の場合はその対策）\n7. 開発演習中のチーム目標や個人目標に対して、今日どのように取り組んだか",
+    "reactions": "white_check_mark (58)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1781829927.957809",
+    "datetime_jst": "2026-06-19 09:45:27",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\nBOHRのテストを実施したいと思います。\n①データベース１、２の小テスト：時間は２つで10分\n②テストコード１，２の小テスト：時間は２つで10分\n合計20分です。",
+    "reactions": null,
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1781832482.615789",
+    "datetime_jst": "2026-06-19 10:28:02",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!channel>\n【連絡】生成AIによる成果と学習の記事の共有\n\n（ブラウザの翻訳機能などをお使いください）\n\nアンスロピックの論文\n<https://www.anthropic.com/research/AI-assistance-coding-skills>\n```効率化を図ろうとする際にAIとどのようにやり取りするかによって、学習効果も変わってくるのです。時間的な制約や組織的なプレッシャーがある中で、若手開発者やその他の専門家は、スキル開発、特に問題発生時のデバッグ能力を犠牲にして、タスクをできるだけ早く完了させるためにAIに頼ってしまう可能性があります```\narXiv（査読前論文）の記事\n<https://arxiv.org/html/2511.13271>\n```GenAIを用いて完全な解答を生成することで、課題遂行能力は向上したが、特に課題完了のみに集中した学生においては、知識習得の向上にはつながらなかった。\n\nGenAIは初心者が実装上の障壁を克服するのに役立ったものの、概念理解を深めることにはつながらなかった。対照的に、GenAIを使用せずにタスクを完了した中級者は、解決策と基礎概念の両方についてより深い理解を示した。```\n「認知オフローディング（脳のサボり）」に関する研究（2024年）\n<chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://ceur-ws.org/Vol-3927/paper16.pdf>\n• 課題のクリアと実力の乖離: LLMを使ってプログラミング課題を行った学生は、AIのサポートがある間は非常に高い成果（コードの完成度）を出していた。 \n• AIを取り去った後の再現性: しかし、その直後にAIの手を借りずに同じような問題や、AIが使ったプログラミングの戦略（コードの書き方）を再現させようとすると、学生たちはそれを全く再現できなかった（学習が定着していなかった）。 \n• 対策としての「摩擦（Friction）」の重要性: 論文や関連する研究（Tankelevitch et al., 2024など）では、AIに認知を丸投げ（Offload）させないために、あえて人間に「考えさせる一手間（コードを批判的に分析させるなど）」を与えるツールの設計が必要だと結論づけられています。",
+    "reactions": "white_check_mark (3)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1781834383.264919",
+    "datetime_jst": "2026-06-19 10:59:43",
+    "author": "鍵村和香",
+    "email": "waka.kagimura@himacs.co.jp",
+    "text": "<@U0ACW862CUS|IA_岡野隼> さん。\nお疲れ様です。チーム8はちみつです。\n本日ご都合の良い時間にデータベース設計書について再レビューをいただきたいです。\n確認のほどよろしくお願いします。",
+    "reactions": null,
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_岡野隼",
+        "email": "j_okano@internetacademy.co.jp",
+        "text": "了解しました。では少し空きますが11:35からお願いします。\n> 鍵村和香: かしこまりました。"
+      }
+    ]
+  },
+  {
+    "ts": "1781853796.959179",
+    "datetime_jst": "2026-06-19 16:23:16",
+    "author": "IA_丸本善利",
+    "email": "marubomu@gmail.com",
+    "text": "リモート環境でGradleの読み込みがされない不具合の修正方法をアップデートしましたので共有いたします。\n<https://ia2026.slack.com/archives/C0AD952T5L1/p1781751440578269>",
+    "reactions": "white_check_mark (3)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1781859191.087909",
+    "datetime_jst": "2026-06-19 17:53:11",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\n【連絡】Vaadinの*商用ツール*の利用はしないことにします\n\n下記の美しい見た目のグラフツールがあり、利用してよいか相談を受けました。\n<https://vaadin.com/docs/latest/components/charts>\n\n結論、こちらは利用しない方針で進めます。（*「商用利用」の部分がNGです。それ以外のコンポーネントの利用はOKです。）*\n理由は\n・利用中に数回通信が発生すること\n・セキュリティブロックが入る可能性がある\n・7日間の利用制限がある（30日間の場合はハイマックスのメールアドレスを利用しなければならない）\nなどです。\n\nグラフ生成などは別途、以下のような方法を検討してください。\n・シンプルにcsvダウンロードだけにする（これを使ってエクセルにてグラフ化するとこうなります、とプレゼンする）\n・CSSのライブラリの活用（手元にダウンロードして使えるものが理想）\n・JavaScriptのライブラリの活用（手元にダウンロードして使えるものが理想）\n\n以上、よろしくお願いします。",
+    "reactions": "white_check_mark (12)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1782087260.944509",
+    "datetime_jst": "2026-06-22 09:14:20",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\n【連絡】本日は11:00-11:30に講師MTGをします。\nレビュー等はこの時間以外で依頼をお願いします。",
+    "reactions": "white_check_mark (6)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1782092354.194829",
+    "datetime_jst": "2026-06-22 10:39:14",
+    "author": "木下颯真",
+    "email": "soma.kinoshita@himacs.co.jp",
+    "text": "<@U0ADZ8Z7QRL|IA_荒木大地> さん。\nお疲れ様です。チーム1です。\nコーディングの途中レビューをお願いいたします。\n13:30からお時間いただくことは可能でしょうか？\nご確認のほどよろしくお願いします。",
+    "reactions": "white_check_mark (2)",
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_荒木大地",
+        "email": "daichi.araki@gmail.com",
+        "text": "おつかれさまです。それでは13:30に「サブ_荒木講師」に入室をお願いします。\n> 木下颯真: 承知いたしました。よろしくお願いいたします。"
+      }
+    ]
+  },
+  {
+    "ts": "1782098820.830599",
+    "datetime_jst": "2026-06-22 12:27:00",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\n他己評価、引き続き投稿いただいている方、ありがとうございます。\n\n一方で最近書いていないという方も多いようです。ぜひ記載しましょう:smile:\n<https://docs.google.com/forms/d/1r7mVnB5KG_KVcVvlfL5oBCVEENgY25tNnM021to_8Pk/edit>",
+    "reactions": "eyes (7)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1782098937.078939",
+    "datetime_jst": "2026-06-22 12:28:57",
+    "author": "浪岡龍太",
+    "email": "ryuta.namioka@himacs.co.jp",
+    "text": "<@U0AEMK1DHFC|IA_萩尾洋仁> さん。\nお疲れ様です。チーム7の七転び八起きです。\nコーディング途中段階のレビューをしていただきたいです。\n14時ころからお時間いただくことは可能でしょうか。\nよろしくお願いいたします",
+    "reactions": "white_check_mark (1)",
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_萩尾洋仁",
+        "email": "hironori.hagio@softcommu.com",
+        "text": "<@26153浪岡龍太> 承知しました。サブ講師ルームにお願いします。ご協力の程よろしくお願いします，時間まで少しお待ちください。\n> 浪岡龍太: ありがとうございます。\n承知いたしました。"
+      }
+    ]
+  },
+  {
+    "ts": "1782103166.105319",
+    "datetime_jst": "2026-06-22 13:39:26",
+    "author": "安部希",
+    "email": "nozomu.abe@himacs.co.jp",
+    "text": "<@U0AJZGQFB98|IA_山本弘明> さん。\nお疲れ様です。チーム14です。\nコーティング途中段階のレビューと進捗の相談をしていただきたいです。\n14時ころからお時間いただくことは可能でしょうか。\nよろしくお願いいたします",
+    "reactions": null,
+    "files": null,
+    "replies": [
+      {
+        "author": "山本弘明",
+        "email": "hiroaki.yamamoto@softcommu.com",
+        "text": "14時頃になりましたら、チームのブレークアウトルームに入室します。"
+      }
+    ]
+  },
+  {
+    "ts": "1782103233.475879",
+    "datetime_jst": "2026-06-22 13:40:33",
+    "author": "山本弘明",
+    "email": "hiroaki.yamamoto@softcommu.com",
+    "text": "<@U0AQM8QU294|26105安部希> 承知しました。よろしくお願いいたします。",
+    "reactions": null,
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1782103761.211559",
+    "datetime_jst": "2026-06-22 13:49:21",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\n【連絡】チーム用のブレイクアウトルームを小分けにしてほしいチームはお伝えください。\n\nとりあえず「01-2」～「15-2」まで作りました。自由にご利用ください。\n追加でほしいチームは講師にお伝えください。",
+    "reactions": "full_moon_with_face (3), white_check_mark (1)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1782104079.751609",
+    "datetime_jst": "2026-06-22 13:54:39",
+    "author": "26177増子智陽",
+    "email": "tomoharu.masuko@himacs.co.jp",
+    "text": "<@U0ADKMR0TL7|IA_中村圭佑> お疲れ様です。チーム５です。注文機能以外の５機能のDAOの作成が完了したので、レビューをいただきたいです。\nご都合の良いお時間ございますでしょうか。\nよろしくお願いいたします。",
+    "reactions": "white_check_mark (2)",
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_中村圭佑",
+        "email": "keitakubr@gmail.com",
+        "text": "承知いたしました。14時にチーム5に入室させていただきますね。\n> 26177増子智陽: かしこまりました。よろしくお願いいたします。"
+      }
+    ]
+  },
+  {
+    "ts": "1782111420.827919",
+    "datetime_jst": "2026-06-22 15:57:00",
+    "author": "26164日高世那",
+    "email": "sena.hidaka@himacs.co.jp",
+    "text": "<@U0ADZ8Z7QRL|IA_荒木大地> お疲れ様です。チーム3です。 明日（6/23 朝）にコーディングレビューをお願いしたく、ご連絡いたしました。 ご確認のほど、よろしくお願いいたします。",
+    "reactions": "white_check_mark (2)",
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_荒木大地",
+        "email": "daichi.araki@gmail.com",
+        "text": "ご連絡ありがとうございます。それでは明日朝一にレビューをしましょう。開始時間になったら私のところまでお越しください。\n> 26164日高世那: 了解いたしました。"
+      }
+    ]
+  },
+  {
+    "ts": "1782173870.915039",
+    "datetime_jst": "2026-06-23 09:17:50",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\n【連絡】6/29(月)の成果発表会の準備について\n\n以下の2点を実施したいと思いますので、スケジュールに入れておいてください。\n時間管理、調整が必要だと思いますのでよろしくお願いいたします。\n\n*①発表内容レビュー*\n6/26(金)10:00～12:30にかけて1チーム当たり約30分発表練習をして講師からフィードバックする時間をとります。\n・各チーム10:00～10:30、10:30～11:30のように割り振りをしますので決まったらまたご連絡します。\n・発表自体は15分以内に終えてください\n・その後の10分程度でフィードバックや質疑をします\n・本番は2名なので2名で発表してください\n・その他の方もフィードバックを一緒に聞いてください（この場ではサポートしてもよいです）\n\n*②発表資料の提出*\n上記にあたり、前日の6/25(木)の14:30までに発表用の資料の提出をお願いします。\n・各チームのチャンネル内での提出で結構です。\n・7割程度の完成度でOKです。\n・内容は、田村さんから連絡をもとにしてください\n\n以上、よろしくお願いします。",
+    "reactions": "+1 (22), astonished (5)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1782174001.090259",
+    "datetime_jst": "2026-06-23 09:20:01",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\n他己評価、引き続き投稿いただいている方、ありがとうございます。\n\n一方で最近書いていないという方も多いようです。ぜひ記載しましょう:smile:\n<https://docs.google.com/forms/d/1r7mVnB5KG_KVcVvlfL5oBCVEENgY25tNnM021to_8Pk/edit>",
+    "reactions": "+1 (13)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1782175065.492479",
+    "datetime_jst": "2026-06-23 09:37:45",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\n本日11:00～11:30にて講師MTGをします。レビュー等はこの時間以外でお願いします。",
+    "reactions": "white_check_mark (1)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1782175438.222889",
+    "datetime_jst": "2026-06-23 09:43:58",
+    "author": "安部希",
+    "email": "nozomu.abe@himacs.co.jp",
+    "text": "<@U0ADXSFGTC5|IA_金谷優太> さん。\nお疲れ様です。チーム14です。\nコーティングのレビューと進捗の相談をしていただきたいです。\n10時15分以降からお時間いただくことは可能でしょうか。\nよろしくお願いいたします",
+    "reactions": "+1 (1)",
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_金谷優太",
+        "email": "yuta.kanaya@softcommu.com",
+        "text": "では10：15に講師席にお越しください。\n> 安部希: わかりました。よろしくお願いします。"
+      }
+    ]
+  },
+  {
+    "ts": "1782176179.503199",
+    "datetime_jst": "2026-06-23 09:56:19",
+    "author": "26118加藤涼雅",
+    "email": "ryoga.kato@himacs.co.jp",
+    "text": "<@U0ADZ8Z7QRL|IA_荒木大地> お疲れ様です。2班です。githubでpullできない問題が発生したため確認してもらえたら幸いです。\nローカルのファイルと衝突している可能性があるので確認よろしくお願いします。",
+    "reactions": "white_check_mark (1)",
+    "files": null,
+    "replies": [
+      {
+        "author": "26128小島わかな",
+        "email": "wakana.kojima@himacs.co.jp",
+        "text": "エラー内容再掲：1リポジトリーのプル中 Checkout conflict with files: target/tab.launch target/vaadin-dev-server-settings.json"
+      },
+      {
+        "author": "IA_荒木大地",
+        "email": "daichi.araki@gmail.com",
+        "text": "エラーメッセージ受け取りました。ありがとうございます"
+      },
+      {
+        "author": "IA_金谷優太",
+        "email": "yuta.kanaya@softcommu.com",
+        "text": "エラーを見る限り、Vaadinの実行時に自動生成される`target`フォルダ内のファイルが原因で、pull時に上書きできず止まっている状態だと思われます。対象は以下の2ファイルです。`target/tab.launch``target/vaadin-dev-server-settings.json`。`target`フォルダは基本的に自動生成されるものなので、Eclipseを閉じたうえで、プロジェクト内の`target`フォルダを削除してから、もう一度pullしてみてください。Windowsのエクスプローラーから`target`フォルダを削除してから、EclipseまたはGit操作でpullしてください。もしそれでも解消しない場合は、`git status`の結果を送ってください。\n> 26128小島わかな: お疲れ様です。試した結果、解決できました。お忙しいところご対応いただき、ありがとうございました。\n> 26128小島わかな: （追加のエラー再掲）1リポジトリーのプル中 Checkout conflict with files: build.gradle"
+      }
+    ]
+  },
+  {
+    "ts": "1782177495.936089",
+    "datetime_jst": "2026-06-23 10:18:15",
+    "author": "神浦真生",
+    "email": "mao.konoura@himacs.co.jp",
+    "text": "<@U0ADKMR0TL7|IA_中村圭佑> さん。\nお疲れ様です。チーム4です。\nコーティングのレビューをしていただきたいです。\nご都合の良いお時間ございますでしょうか。\nよろしくお願いいたします",
+    "reactions": "white_check_mark (2)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1782180234.124549",
+    "datetime_jst": "2026-06-23 11:03:54",
+    "author": "木下颯真",
+    "email": "soma.kinoshita@himacs.co.jp",
+    "text": "<@U0ADZ8Z7QRL|IA_荒木大地> さん。\nお疲れ様です。チーム1です。\nコーディングのレビューをお願いいたします。\n13:30からお時間いただくことは可能でしょうか？\nご確認のほどよろしくお願いします。",
+    "reactions": "white_check_mark (1)",
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_荒木大地",
+        "email": "daichi.araki@gmail.com",
+        "text": "了解しました。それでは、午後イチに私のところまで来ていただけますか？\n> 荒木楓: チーム1の荒木です。それでは13:30にレビュー希望者の5名で伺わせていただきます。よろしくお願いいたします。"
+      }
+    ]
+  },
+  {
+    "ts": "1782183205.790549",
+    "datetime_jst": "2026-06-23 11:53:25",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\n【連絡】テストケースのフォーマット\nブラックボックステストもホワイトボックステストも、下記のフォーマットで結構です。\n改良やアレンジを加えても良いですし、別の細かい粒度のものを見つけてきて作業しているチームはそういうものでもOKです。",
+    "reactions": "raised_hands (10)",
+    "files": "しりとりゲーム_テストケース表.xlsx (ID: F0BD95FK5A4, application/vnd.openxmlformats-officedocument.spreadsheetml.sheet, 11.6 KB)",
+    "replies": []
+  },
+  {
+    "ts": "1782183589.556239",
+    "datetime_jst": "2026-06-23 11:59:49",
+    "author": "26175細淵名勇士",
+    "email": "naoto.hosobuchi@himacs.co.jp",
+    "text": "<@U0ADXSFGTC5|IA_金谷優太> さん。\nお疲れ様です。チーム13です。\nDAOの機能が一通り作成できたので、コーディングのレビューをしていただきたいです。\nご都合の良いお時間ございますでしょうか。\nよろしくお願いいたします。",
+    "reactions": null,
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_金谷優太",
+        "email": "yuta.kanaya@softcommu.com",
+        "text": "有り難うございます。いつでもお越しください。"
+      }
+    ]
+  },
+  {
+    "ts": "1782193412.720029",
+    "datetime_jst": "2026-06-23 14:43:32",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\n【各チームへのお願い】設計関連データの提出のお願い\n\n下記のリンクをクリックして、設計関連データをzipにまとめて提出をお願いします。\n<#C0BCKA8DEPN|成果物提出>\n\n提出フォーマットは以下です。\n\nメッセージ　：＜チーム番号とチーム名＞　　例：01_eov\n添付ファイル：＜チーム番号_designDoc.zip＞　例：01_designDoc.zip\n添付ファイルの中身：\n　基本設計フォルダ\n　┗基本設計時点のファイル一式\n　詳細設計フォルダ\n　┗詳細設計時点のファイル一式（ER図など、修正しているファイルは修正版を入れる）\n\n※基本的にスクショではなく設計用のファイルを提出してください",
+    "reactions": "full_moon_with_face (18)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1782199927.550619",
+    "datetime_jst": "2026-06-23 16:32:07",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\n【連絡】発表資料の確認\n\n発表資料に盛り込む内容として、\n田村さんからTeamsにて6/11(木)に以下の連絡を受けているかと思います。\n改めてTeamsの連絡を確認の上、準備をしてください。\n\n抜粋\n＝＝＝＝＝＝＝＝＝＝＝＝＝＝\n下記の発表内容をPPでまとめて、15分以内で発表できるようにしてください。\n\n・システム概要、システム規模(画面数、クラス数、総ステップ数など)、システムデモ\n・スケジュール状況（予定、実績と発生した問題点と対策など）\n・品質に関する考察（テスト結果）\n　⇒ テストやバグの密度、どのようなバグが出たか、傾向や要因を考察する、\n　　 テスト中に対策を講じていればその内容も記載\n・チーム目標の達成具合とその理由\n・失敗したこと、改善したこと、学んだこと\n・個人毎に以下2点を1人1枚のスライドにまとめる\n　(1) 開発演習の個人目標の達成具合とその理由\n　(2) 導入教育を通じて、一番身にしみて学んだことについてエピソードをもとにまとめる\n＝＝＝＝＝＝＝＝＝＝＝＝＝",
+    "reactions": "full_moon_with_face (17), dotted_line_face (2), +1 (1)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1782261991.883779",
+    "datetime_jst": "2026-06-24 09:46:31",
+    "author": "芦川弦汰",
+    "email": "genta.ashikawa@himacs.co.jp",
+    "text": "<@U0AEGNM17L1|IA_丸本善利>\nお疲れ様です。チーム3のぴーすです。\nログイン機能を実装とテストケース表を作成しましたのでレビューをお願いしたいです。\nご都合の良いお時間ございますでしょうか。\nよろしくお願いいたします。",
+    "reactions": "white_check_mark (2)",
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_丸本善利",
+        "email": "marubomu@gmail.com",
+        "text": "少々お待ちください\n> IA_丸本善利: 今からどうぞ"
+      }
+    ]
+  },
+  {
+    "ts": "1782262838.423139",
+    "datetime_jst": "2026-06-24 10:00:38",
+    "author": "26161橋本陸人",
+    "email": "rikuto.hashimoto@himacs.co.jp",
+    "text": "<@U0ACW862CUS|IA_岡野隼>\nお疲れ様です。チーム12,ルーキーズの橋本です。\nコーディングの完了報告でお時間をいただきたいです。\n10時15分からお時間いただけますでしょうか。\nよろしくお願いいたします。",
+    "reactions": "white_check_mark (1)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1782263523.015379",
+    "datetime_jst": "2026-06-24 10:12:03",
+    "author": "26118加藤涼雅",
+    "email": "ryoga.kato@himacs.co.jp",
+    "text": "<@U0AEGNM17L1|IA_丸本善利> お疲れ様です。githubにステージングした際にリモートのほうに送ったはずなのにgithubに送られていません。\n予想なのですが、ローカルのほうに送った可能性があります。\nお時間ありましたらご相談よろしくお願いします。",
+    "reactions": "white_check_mark (1)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1782263557.416279",
+    "datetime_jst": "2026-06-24 10:12:37",
+    "author": "安部希",
+    "email": "nozomu.abe@himacs.co.jp",
+    "text": "<@U0AEE5WSKPT|IA_大川淑美> さん。\nお疲れ様です。チーム14です。\nテストケースの途中報告をさせていただきたいです。\n10時30分頃からお時間いただくことは可能でしょうか。\nよろしくお願いいたします",
+    "reactions": null,
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_大川淑美",
+        "email": "yoshimi.okawa@softcommu.com",
+        "text": "はい、承知しました。"
+      }
+    ]
+  },
+  {
+    "ts": "1782264930.876049",
+    "datetime_jst": "2026-06-24 10:35:30",
+    "author": "26112内田香奈",
+    "email": "kana.uchida@himacs.co.jp",
+    "text": "<@U0AEE5WSKPT|IA_大川淑美> さん\nお疲れ様です。チーム13キノコタケノコの内田です。\nテストケースの途中のレビューをお昼前にお願いしたいです。\n12時頃からお時間をいただくことは可能でしょうか。\n資料は後ほどチームのSlackに投稿いたします。\nよろしくお願い致します。",
+    "reactions": null,
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_大川淑美",
+        "email": "yoshimi.okawa@softcommu.com",
+        "text": "はい、承知いたしました。12時からよろしくお願いいたします。"
+      }
+    ]
+  },
+  {
+    "ts": "1782275500.809889",
+    "datetime_jst": "2026-06-24 13:31:40",
+    "author": "26138杉浦宥羽",
+    "email": "yuha.sugiura@himacs.co.jp",
+    "text": "<@U0AEMK1DHFC|IA_萩尾洋仁> さん。\nお疲れ様です。チーム7の七転び八起きです。\nコーディング完成のレビューをしていただきたいです。\n14時ころからお時間いただくことは可能でしょうか。\nよろしくお願いいたします",
+    "reactions": "white_check_mark (1)",
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_萩尾洋仁",
+        "email": "hironori.hagio@softcommu.com",
+        "text": "お疲れ様です。いつでもOKです。"
+      }
+    ]
+  },
+  {
+    "ts": "1782277164.109459",
+    "datetime_jst": "2026-06-24 13:59:24",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\n【連絡】グラフ生成ツールについて\n下記のグラフツールについてNGとお伝えしましたが、7日間以内の表示であれば問題ないことが分かりました。\n<https://vaadin.com/docs/latest/components/charts>\n\n以下は、ライセンス登録などもないので、こちらの方が利用しやすいかもしれません。\n<https://apexcharts.com/javascript-chart-demos/bar-charts/>\n\n何かのツールを採用する場合は、以下の点に注意して講師にも相談して利用してください。\n・インストールするソフトがあるか\n・利用中に数回通信が発生しないか\n・セキュリティブロックが入る可能性はないか\n・メールアドレスなどの登録がないか\n\n以上、よろしくお願いします。",
+    "reactions": "full_moon_with_face (4)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1782322657.418849",
+    "datetime_jst": "2026-06-25 02:37:37",
+    "author": "IA_野崎英一",
+    "email": "eiichi.nozaki@softcommu.com",
+    "text": "<!here> 皆様、こんにちは。アドバンストコースの Vaadinの授業を担当しました野崎です。上記で岡野さんが紹介された Vaadinのチャート（要するにグラフのこと）コンポーネントの使い方を簡単に説明します。ぜひ参考にしてください。",
+    "reactions": null,
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1782322705.951069",
+    "datetime_jst": "2026-06-25 02:38:25",
+    "author": "IA_野崎英一",
+    "email": "eiichi.nozaki@softcommu.com",
+    "text": "```1. build.gradle の dependencies セクションに下記の一行を追加（全体像のサンプルは下記のスニペットをご参照ください）\nimplementation 'com.vaadin:vaadin-charts-flow'```",
+    "reactions": null,
+    "files": "build.gradle (ID: F0BCXMP3NP4, text/plain, 790 Bytes)",
+    "replies": []
+  },
+  {
+    "ts": "1782322922.170349",
+    "datetime_jst": "2026-06-25 02:42:02",
+    "author": "IA_野崎英一",
+    "email": "eiichi.nozaki@softcommu.com",
+    "text": "```2. Javaコードを追加 (下記に4つのサンプルコードをアップしておきます。先頭のパッケージ名の記述さえ各環境に合わせて書き直せば、このまま動作しますので、まずはご自身のプロジェクト内にコピーして動作確認してみてください）```",
+    "reactions": null,
+    "files": "AreaChartView.java (ID: F0BDS1B7XJL, text/plain, 1.6 KB), ColumnChartView.java (ID: F0BCRC7BXRR, text/plain, 1.3 KB), LineChartView.java (ID: F0BDS1C1TBJ, text/plain, 1.3 KB), PieChartView.java (ID: F0BCZJ003NV, text/plain, 1.3 KB)",
+    "replies": []
+  },
+  {
+    "ts": "1782323056.460089",
+    "datetime_jst": "2026-06-25 02:44:16",
+    "author": "IA_野崎英一",
+    "email": "eiichi.nozaki@softcommu.com",
+    "text": "```3. Webブラウザ上で上記のページを開くと、7日間のトライアル利用に関する英文のメッセージが表示されます。利用を開始してください。```",
+    "reactions": null,
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1782347666.658989",
+    "datetime_jst": "2026-06-25 09:34:26",
+    "author": "安部希",
+    "email": "nozomu.abe@himacs.co.jp",
+    "text": "<@U0ADXSFGTC5|IA_金谷優太> さん。\nお疲れ様です。チーム14です。\n発表資料の中間レビューと、テストケースのレビューをしていただきたいです。\n10時30分頃からお時間いただくことは可能でしょうか。\nよろしくお願いいたします",
+    "reactions": "+1 (1)",
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_金谷優太",
+        "email": "yuta.kanaya@softcommu.com",
+        "text": "お疲れ様です。10：30-11：00でレビュー可能です。ブレイクアウトにお越し下さい。"
+      },
+      {
+        "author": "安部希",
+        "email": null,
+        "text": "エラー対応が終わりましたら、連絡お願いします。"
+      },
+      {
+        "author": "IA_金谷優太",
+        "email": null,
+        "text": "お待ちしています。どうぞお越しください。"
+      }
+    ]
+  },
+  {
+    "ts": "1782347906.167609",
+    "datetime_jst": "2026-06-25 09:38:26",
+    "author": "26147武山のぞみ",
+    "email": "nozomi.takeyama@himacs.co.jp",
+    "text": "<@U0ADXSFGTC5|IA_金谷優太> さん\nお疲れ様です。チーム１３キノコタケノコです。\n発表資料のレビューをお昼前にお願いしたいです。ご都合の良いお時間ございますでしょうか。\nよろしくお願いいたします。",
+    "reactions": "+1 (1)",
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_金谷優太",
+        "email": "yuta.kanaya@softcommu.com",
+        "text": "お疲れ様です。11：45-からは如何ですか？その時間で良ければブレイクアウトにお越し下さい。"
+      },
+      {
+        "author": "26147武山のぞみ",
+        "email": null,
+        "text": "承知しました。よろしくお願いいたします。"
+      }
+    ]
+  },
+  {
+    "ts": "1782348565.321609",
+    "datetime_jst": "2026-06-25 09:49:25",
+    "author": "太田みゆ",
+    "email": "miyu.ota@himacs.co.jp",
+    "text": "<@U0ACW862CUS|IA_岡野隼> <@U0AEV9R691N|IA_村林良胤> <@U0ARJFN6Z35|IA_空本敏一> <@U0ADZ8Z7QRL|IA_荒木大地> <@U0AEGNM17L1|IA_丸本善利> <@U0ADXSFGTC5|IA_金谷優太> <@U0ARGNZV4BA|IA_広瀬智子>\nお疲れ様です。チーム14の太田です。\n現在、Eclipseのプロジェクトでパッケージやクラスが正常に表示・操作できず、\n開発を進められない状態になっております。\n対応可能な講師の方がいらっしゃいましたら、ご確認・ご対応をお願いいたします。",
+    "reactions": "white_check_mark (3)",
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_金谷優太",
+        "email": "yuta.kanaya@softcommu.com",
+        "text": "了解しました。私のブレイクアウトにお越しください"
+      }
+    ]
+  },
+  {
+    "ts": "1782349554.798829",
+    "datetime_jst": "2026-06-25 10:05:54",
+    "author": "26118加藤涼雅",
+    "email": "ryoga.kato@himacs.co.jp",
+    "text": "<@U0AEGNM17L1|IA_丸本善利> お疲れ様です。2班です。担当機能のレビューお願いしたいのですがお時間ありましたらご連絡もらえたら幸いです。",
+    "reactions": "white_check_mark (1)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1782349628.784019",
+    "datetime_jst": "2026-06-25 10:07:08",
+    "author": "IA_丸本善利",
+    "email": "marubomu@gmail.com",
+    "text": "わかりました。私のブレイクアウトルームへお越しください。",
+    "reactions": null,
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1782353876.394129",
+    "datetime_jst": "2026-06-25 11:17:56",
+    "author": "26118加藤涼雅",
+    "email": "ryoga.kato@himacs.co.jp",
+    "text": "<@U0AEGNM17L1|IA_丸本善利> お疲れ様です。2班です。担当機能のレビューお願いしたいのですがお時間ありましたらご連絡もらえたら幸いです。",
+    "reactions": "white_check_mark (1)",
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_丸本善利",
+        "email": "marubomu@gmail.com",
+        "text": "わかりました、ブレイクアウトルームへどうぞ。"
+      }
+    ]
+  },
+  {
+    "ts": "1782355252.862579",
+    "datetime_jst": "2026-06-25 11:40:52",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\n【各チームへのお願い】発表資料の提出のお願い　*※締切：06/25(木)14:30*\n\n下記のリンクをクリックして、発表資料の提出をお願いします。\n<#C0BCKA8DEPN|成果物提出>\n\n提出フォーマットは以下です。\n\nメッセージ　：＜チーム番号とチーム名＞　　例：01_eov\n添付ファイル：パワーポイントファイル（ファイル名の先頭に、チーム番号を含めてください。名前は自由です）\n\n※ほかにもファイルがあれば貼って良いですがなるべくパワーポイントに含めましょう",
+    "reactions": "white_check_mark (11)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1782355757.430859",
+    "datetime_jst": "2026-06-25 11:49:17",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\n【各チームへのお願い】プロジェクトフォルダの提出のお願い　*※締切：06/25(木)16:15*\n\n下記のリンクをクリックして、プロジェクトフォルダの提出をお願いします。\n`まだ未完了だと思いますが現時点のものをなるべく統合して投稿してください。`\n`（一部エラーが出たままでOKです）`\n\n<#C0BCKA8DEPN|成果物提出>\n\n提出フォーマットは以下です。\n\nメッセージ　：＜チーム番号とチーム名＞　　例：01_eov\n添付ファイル：プロジェクトフォルダをzip圧縮したもの\n\nファイル名：＜チーム番号_最終成果物.zip＞ 例：01_最終成果物.zip\n※プロジェクトフォルダをまるごと`zip圧縮したあとに名前変更`をしてください",
+    "reactions": "white_check_mark (12)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1782357825.473659",
+    "datetime_jst": "2026-06-25 12:23:45",
+    "author": "26165日向陽太",
+    "email": "hinata.hyuga@himacs.co.jp",
+    "text": "<@U0ACW862CUS|IA_岡野隼> お疲れ様です。\nチーム12のルーキーズです。\nテストケースの中間レビューをしていただきたいです。\n13時半以降でお時間をいただくことは可能でしょうか。\nよろしくお願いします。",
+    "reactions": "white_check_mark (1)",
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_岡野隼",
+        "email": "j_okano@internetacademy.co.jp",
+        "text": "了解です。13:30から岡野ルームで見ましょう"
+      },
+      {
+        "author": "26165日向陽太",
+        "email": null,
+        "text": "ありがとうございます。よろしくお願いします。"
+      }
+    ]
+  },
+  {
+    "ts": "1782362445.243259",
+    "datetime_jst": "2026-06-25 13:40:45",
+    "author": "清水優太",
+    "email": "yuta.shimizu@himacs.co.jp",
+    "text": "<@U0AEGNM17L1|IA_丸本善利> お疲れ様です。2班です。　テストケースのレビューをお願いしたいのですが、ご都合のよいお時間ございますでしょうか？　よろしくお願いいたします。",
+    "reactions": "white_check_mark (1)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1782362527.370239",
+    "datetime_jst": "2026-06-25 13:42:07",
+    "author": "IA_丸本善利",
+    "email": "marubomu@gmail.com",
+    "text": "お疲れ様です。承知しました。\n14:50に私のブレイクアウトルームにお越しいただけますか？",
+    "reactions": "white_check_mark (1)",
+    "files": null,
+    "replies": [
+      {
+        "author": "清水優太",
+        "email": null,
+        "text": "分かりました。ありがとうございます。"
+      },
+      {
+        "author": "IA_丸本善利",
+        "email": null,
+        "text": "失礼しました。13:50の間違いです。今、対応可能ですので、ブレイクアウトルームまでどうぞ。"
+      }
+    ]
+  },
+  {
+    "ts": "1782364040.037569",
+    "datetime_jst": "2026-06-25 14:07:20",
+    "author": "神浦真生",
+    "email": "mao.konoura@himacs.co.jp",
+    "text": "<@U0ADZ8Z7QRL|IA_荒木大地> お疲れ様です。4班です。　ホワイトボックステストのレビューとブラックボックステストの質問をお願いしたいのですが、ご都合のよいお時間ございますでしょうか？　よろしくお願いいたします。",
+    "reactions": "white_check_mark (1)",
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_荒木大地",
+        "email": "daichi.araki@gmail.com",
+        "text": "それではこれから私の部屋に来れますか？"
+      }
+    ]
+  },
+  {
+    "ts": "1782364051.586189",
+    "datetime_jst": "2026-06-25 14:07:31",
+    "author": "安部希",
+    "email": "nozomu.abe@himacs.co.jp",
+    "text": "<@U0ADXSFGTC5|IA_金谷優太> さん。\nお疲れ様です。チーム14です。\nテストケースのレビューをしていただきたいです。\n14時30分頃からお時間いただくことは可能でしょうか。\nよろしくお願いいたします",
+    "reactions": "white_check_mark (1)",
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_金谷優太",
+        "email": "yuta.kanaya@softcommu.com",
+        "text": "了解しました。14時30分にブレイクアウトにお越しください。"
+      }
+    ]
+  },
+  {
+    "ts": "1782371495.331329",
+    "datetime_jst": "2026-06-25 16:11:35",
+    "author": "26104厚海健太",
+    "email": "kenta.atsuumi@himacs.co.jp",
+    "text": "<@U0ADXSFGTC5|IA_金谷優太>　お疲れ様です。チーム15の品質は担保します。です。\n ホワイトボックステストのテストケースのレビューをお願いしたいです。\nご都合のいい時間はありますか。\nよろしくお願いします。",
+    "reactions": "+1 (1)",
+    "files": null,
+    "replies": [
+      {
+        "author": "IA_金谷優太",
+        "email": "yuta.kanaya@softcommu.com",
+        "text": "続きは明日朝イチで行いましょう。"
+      },
+      {
+        "author": "26104厚海健太",
+        "email": null,
+        "text": "承知いたしました。明日よろしくお願いします。"
+      }
+    ]
+  },
+  {
+    "ts": "1782371522.552179",
+    "datetime_jst": "2026-06-25 16:12:02",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\n【連絡】06/26(金)の発表練習＋チェックのスケジュール\n以下のスケジュールで進めたいと思います。\n\n詳細はまた追ってご連絡しますが、\n・2名が発表者\n・2名以外も発表を聞くギャラリー風に参加する\n・ただし練習なので、何か行き詰まったら場合においては、周囲が補足解説やサポートしても良い\n・PC2台を使って現地の人とオンライン上の人の2種類の対象者に向けて発表する\n・現地の人のフィードバックの声（今回でいえば講師の声）はある程度音が拾えればOK\nという予定です。\n\n配置、どの方向に向けて発表するかなど、決まったらまた連絡します。",
+    "reactions": "raised_hands (24), full_moon_with_face (3), dotted_line_face (2), white_check_mark (1)",
+    "files": "image.png (ID: F0BCM14BELX, image/png, 17.1 KB)",
+    "replies": []
+  },
+  {
+    "ts": "1782435526.105809",
+    "datetime_jst": "2026-06-26 09:58:46",
+    "author": "広瀬智子",
+    "email": "hrs37cda@gmail.com",
+    "text": "<!here>\n午後の発表練習時間の記載が誤っていました。\n13：00‐　と13：30‐　は 13:45- に変更になります。",
+    "reactions": null,
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1782436169.506209",
+    "datetime_jst": "2026-06-26 10:09:29",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!channel>\n本日の出欠登録をしていない方が25名います。\n\n出席ボタンを押して、出席の状態にしてください。\nよろしくお願いいたします。",
+    "reactions": null,
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1782438387.586959",
+    "datetime_jst": "2026-06-26 10:46:27",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<@U0AQPJ76MQA|26103芦川弦汰>\n<@U0AQNNFMGCA|26107家中菜々美>\n<@U0AQ823KGAK|26123神林聡>\n<@U0ARDCC2081|26145高橋美咲>\n<@U0AQM8JC1CN|26162八友麻衣>\n<@U0AQYDST7UN|26169福川舞香>\n<@U0ASFKP750A|26207宇賀神歩>\n【依頼】テスト受験のお願い\n6/19(金)の朝に一斉に行った下記のテストですが、未受験のものがありましたのでお手すきの際に受験をお願いできますか？\n\nお休みだった方もいらっしゃるかと思います。\n時間調整が難しいところすみませんが、\n本日の17:00までに受験し、投稿したらスレッド返信に完了のご連絡をお願いできれば助かります。\n\nBOHRにログインしての受験です。閲覧禁止にてお願いします。\n\n▼6/19(金)の案内\n> BOHRのテストを実施したいと思います。\n> ①データベース１、２の小テスト：時間は２つで10分\n> ②テストコード１，２の小テスト：時間は２つで10分\n> 合計20分です。\n▼テストの場所、未受験リスト",
+    "reactions": null,
+    "files": "image.png (ID: F0BD8G6ER7G, image/png, 80.5 KB)",
+    "replies": [
+      {
+        "author": "芦川弦汰",
+        "email": null,
+        "text": "全てのテスト受講を完了しました。お手数おかけしてしまい申し訳ありません。ご確認よろしくお願いいたします。"
+      },
+      {
+        "author": "家中菜々美",
+        "email": null,
+        "text": "提出が遅れてしまい申し訳ありません。受講完了いたしました。お手数ですが、ご確認よろしくお願いいたします。"
+      },
+      {
+        "author": "26162八友麻衣",
+        "email": null,
+        "text": "全ての受講が完了しました。お手数をお掛けして申し訳ありませんが、ご確認のほどよろしくお願いします。"
+      },
+      {
+        "author": "26145高橋美咲",
+        "email": null,
+        "text": "対応が遅れ申し訳ございません。全ての受講が完了しました。ご確認のほどよろしくお願いします。"
+      },
+      {
+        "author": "宇賀神歩",
+        "email": null,
+        "text": "全てのテスト受講を完了しました。お手数おかけしてしまい申し訳ありません。ご確認よろしくお願いいたします。"
+      },
+      {
+        "author": "26123神林響",
+        "email": null,
+        "text": "対応が遅れ申し訳ございません。全ての受講が完了しました。ご確認のほどよろしくお願いします。"
+      }
+    ]
+  },
+  {
+    "ts": "1782440956.318199",
+    "datetime_jst": "2026-06-26 11:29:16",
+    "author": "26145高橋美咲",
+    "email": "misaki.takahashi@himacs.co.jp",
+    "text": "対応が遅れ申し訳ございません。\n全ての受講が完了しました。\nご確認のほどよろしくお願いします。",
+    "reactions": null,
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1782441143.028049",
+    "datetime_jst": "2026-06-26 11:32:23",
+    "author": "IA_金谷秀二",
+    "email": "shuji.kanaya@softcommu.com",
+    "text": "<@U0AR43G4WBE|西愛華> <@U0ASFKP750A|26207宇賀神歩> <@U0AQX42NJ2Z|26205日野息吹>\n出欠登録が未完です。登録よろしくお願いいたします。",
+    "reactions": "woman-bowing (1)",
+    "files": null,
+    "replies": [
+      {
+        "author": "26112内田香奈",
+        "email": "kana.uchida@himacs.co.jp",
+        "text": "宇賀神さん、午前休とのことでした！"
+      },
+      {
+        "author": "IA_金谷秀二",
+        "email": null,
+        "text": "教えてくださり、ありがとうございます！"
+      }
+    ]
+  },
+  {
+    "ts": "1782442392.895819",
+    "datetime_jst": "2026-06-26 11:53:12",
+    "author": "IA_金谷秀二",
+    "email": "shuji.kanaya@softcommu.com",
+    "text": "<!here>\n午後の発表練習時間について再度、調整したものをお送りします。各班、ご確認ください。\n1班\t\"13：45\" \"広瀬\"\n2班\t\"14：15\" \"広瀬\"\n3班\t\"13：45\" \"金谷\"\n4班\t\"14：15\" \"金谷\"\n5班\t\"13：45\" \"優太\"\n6班\t\"14：15\" \"優太\"\n7班\t\"14：00\" \"岡野\"\n8班\t\"14：30\" \"岡野\"\n9班\t\"14：00\" \"丸本\"\n10班\"14：30\" \"丸本\"\n11班\"14：00\" \"松本\"\n12班\"14：30\" \"松本\"\n13班\"14：00\" \"萩尾\"\n14班\"14：30\" \"萩尾\"\n15班\"14：00\" \"村林\"",
+    "reactions": "white_check_mark (12), raised_hands (1)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1782443700.412389",
+    "datetime_jst": "2026-06-26 12:15:00",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\n他己評価、引き続き投稿いただいている方、ありがとうございます。\n\nまだ、投稿数が少ない方も多いようです。ぜひ記載しましょう:smile:\n\n※月曜日はあまり各時間が無いと思うので少し時間が出来たら投稿しましょう\n\n<https://docs.google.com/forms/d/1r7mVnB5KG_KVcVvlfL5oBCVEENgY25tNnM021to_8Pk/edit|docs.google.com/forms/d/1r7mVnB5KG_K…/edit>",
+    "reactions": "eyes (5), full_moon_with_face (1)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1782707639.680189",
+    "datetime_jst": "2026-06-29 13:33:59",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>\n以下のzoomに入室お願いします。（いつものzoomです）\n■講義用\n<https://us05web.zoom.us/j/83922221429|us05web.zoom.us/j/83922221429>\nパスコード: 301740",
+    "reactions": "full_moon_with_face (2)",
+    "files": null,
+    "replies": []
+  },
+  {
+    "ts": "1782709623.606799",
+    "datetime_jst": "2026-06-29 14:07:03",
+    "author": "IA_岡野隼",
+    "email": "j_okano@internetacademy.co.jp",
+    "text": "<!here>",
+    "reactions": "full_moon_with_face (10), melting_face (2), +1 (2)",
+    "files": "他己評価0629.pdf (ID: F0BEM971NDN, application/pdf, 226.9 KB)",
+    "replies": []
+  },
+  {
+    "ts": "1782714102.112269",
+    "datetime_jst": "2026-06-29 15:21:42",
+    "author": "IA_村林良胤",
+    "email": "m_yoshitsugu@hotmail.com",
+    "text": "--------------------------------\n\n元の Java コード\n\nint num = 10;\n\nif (num <= 100) {\n    // 処理A\n}\n\n--------------------------------\n\nC言語版\n\nint num = 10;\n\nif (num <= 100) {\n    // 処理A\n}\n\n--------------------------------\n\npython\n\nnum = 10\n\nif num <= 100:\n    # 処理A\n\n--------------------------------\n\nPHP\n\n$num = 10;\n\nif ($num <= 100) {\n    // 処理A\n}\n\n\n--------------------------------\n\njavascript\n\nlet num = 10;\n\nif (num <= 100) {\n    // 処理A\n}\n\n--------------------------------\n\ntypescript\n\nlet num: number = 10;\n\nif (num <= 100) {\n    // 処理A\n}\n\n--------------------------------",
+    "reactions": "white_check_mark (44), astonished (9)",
+    "files": null,
+    "replies": []
+  }
+]
